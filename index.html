@@ -1,0 +1,38 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>How X reacted to Anthropic's S-1</title>
+<script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+<link rel="icon" href="data:,"><link rel="stylesheet" href="style.css"></head><body>
+<header><h1>How X reacted to Anthropic's S‑1</h1><p class="sub">Sentiment and topics of posts on X about Anthropic's IPO filing. <span id="updated"></span></p></header>
+<main>
+<section class="card filters">
+ <div><label>Search text / handle<input id="q" type="search" placeholder="e.g. valuation, @zerohedge"></label></div>
+ <div><label>Min interactions: <b id="minv">100</b><input id="min" type="range" min="0" max="3.75" step="0.01" value="2"></label></div>
+ <div><label>Sentiment from <b id="sv"></b><span class="pair"><input id="smin" type="range" min="-1" max="1" step="0.05" value="-1"><input id="smax" type="range" min="-1" max="1" step="0.05" value="1"></span></label></div>
+ <div><label>Dates<span class="pair"><input id="d0" type="date"><input id="d1" type="date"></span></label></div>
+ <div><label>Topics<select id="topic" multiple size="4"></select></label></div>
+ <div><label>Language<select id="lang" multiple size="4"></select></label></div>
+ <div><label>Scoring method<select id="method"><option value="">Any</option><option value="hand">Hand-scored</option><option value="keyword">Keyword rules</option></select></label>
+ <button id="reset">Reset filters</button></div>
+</section>
+<section class="kpis" id="kpis"></section>
+<section class="card"><h2>Topic × sentiment</h2><p class="hint">Each dot is a post. Bigger = more interactions. Hover for details; click to open the post on X. ◆ = topic average.</p><div id="scatter" class="plot tall"></div></section>
+<div class="grid2">
+<section class="card"><h2>Tone by topic</h2><div id="bars" class="plot"></div></section>
+<section class="card"><h2>Average sentiment by topic</h2><div id="avg" class="plot"></div></section>
+</div>
+<section class="card"><h2>Sentiment over time</h2><p class="hint">Line = daily average sentiment (UTC days). Bars = posts in this dataset that day (a sample, not total volume).</p><div id="time" class="plot"></div></section>
+<section class="card"><h2>Posts <span id="tcount" class="muted"></span></h2>
+<div class="tablewrap"><table id="tbl"><thead><tr>
+<th data-k="date">Date</th><th data-k="handle">Handle</th><th data-k="topic">Topic</th><th data-k="sentiment">Sentiment</th><th data-k="interactions">Interactions</th><th data-k="views">Views</th><th data-k="language">Lang</th><th data-k="method">Method</th><th data-k="summary">Summary</th></tr></thead><tbody></tbody></table></div>
+<div class="pager"><button id="prev">‹ Prev</button><span id="pinfo"></span><button id="next">Next ›</button>
+<button id="csv">Download filtered CSV</button></div></section>
+<div class="grid2">
+<section class="card prose"><h2>How to read this</h2>
+<p><b>Sentiment</b> runs from −1 (clearly negative about Anthropic or its IPO) to +1 (clearly positive). Posts between −0.15 and +0.15 count as neutral, which is mostly news relayed without opinion.</p>
+<p><b>Interactions</b> = likes + reposts + replies + quotes. The <b>weighted</b> average counts each post in proportion to its interactions, so it shows what most people actually saw. The plain average treats every post equally.</p>
+<p><b>Topics</b> are the single main subject of each post. Start with the default (posts with 100+ interactions), then drag the slider to 0 to see the long tail.</p>
+<p>Main pattern: the biggest accounts mostly relayed neutral news. The negative tone comes from the S‑1's own safety risk warnings, founder control, and losses versus a ~$2T valuation. Revenue growth is the only topic that leans positive, and even it is contested.</p></section>
+<section class="card prose"><h2>Methodology &amp; caveats</h2><div id="method-text"></div></section>
+</div>
+</main><footer>Data from X search, read-only. Built as a static site; data in <code>data/posts.json</code>.</footer>
+<script src="app.js"></script></body></html>
