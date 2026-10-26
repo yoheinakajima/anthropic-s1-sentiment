@@ -8,7 +8,7 @@ const minVal=()=>{const v=+$('#min').value;return v<=0?0:Math.round(10**v)};
 const sel=id=>[...$(id).selectedOptions].map(o=>o.value);
 async function init(){
   [ALL,META]=await Promise.all([fetch('data/posts.json').then(r=>r.json()),fetch('data/meta.json').then(r=>r.json())]);
-  ALL.forEach(p=>{p.language=p.language||'unknown'});
+  ALL.forEach(p=>{p.language=p.language||'unknown'});window.__ALL=ALL;
   $('#updated').textContent=`Last updated ${new Date(META.last_updated).toLocaleString()} · ${META.counts.total} posts.`;
   $('#topic').innerHTML=TOPICS.map(t=>`<option>${t}</option>`).join('');
   const langs=Object.entries(ALL.reduce((a,p)=>(a[p.language]=(a[p.language]||0)+1,a),{})).sort((a,b)=>b[1]-a[1]);
@@ -33,7 +33,7 @@ function filter(){
 }
 const avg=a=>a.length?a.reduce((x,y)=>x+y,0)/a.length:NaN;
 const wavg=ps=>{const w=ps.reduce((a,p)=>a+p.interactions+1,0);return w?ps.reduce((a,p)=>a+p.sentiment*(p.interactions+1),0)/w:NaN};
-function update(){view=filter();kpis();scatter();bars();timeline();table()}
+function update(){view=filter();kpis();scatter();bars();timeline();table();window.repliesUpdate?.(view)}
 function kpis(){
   const n=view.length,c={pos:0,neu:0,neg:0};view.forEach(p=>c[cls(p.sentiment)]++);const pct=k=>n?Math.round(100*c[k]/n):0;
   const sg=v=>isNaN(v)?'–':(v>0?'+':'')+v.toFixed(2);
@@ -76,8 +76,9 @@ function timeline(){
 function table(){
   const s=[...view].sort((a,b)=>{const x=a[sortK]??-1e9,y=b[sortK]??-1e9;return (x>y?1:x<y?-1:0)*sortD});
   document.querySelectorAll('th').forEach(th=>th.className=th.dataset.k===sortK?(sortD>0?'asc':'desc'):'');
-  $('#tbl tbody').innerHTML=s.slice(page*PER,(page+1)*PER).map(p=>`<tr><td>${p.date}</td><td><a href="${esc(p.url)}" target="_blank" rel="noopener">@${esc(p.handle)}</a></td><td>${esc(short(p.topic))}</td>
-   <td><span class="pill" style="background:${COL[cls(p.sentiment)]}">${p.sentiment>0?'+':''}${p.sentiment}</span></td><td>${fmt(p.interactions)}</td><td>${fmt(p.views)}</td><td>${esc(p.language)}</td><td>${p.method}</td><td>${esc(p.summary)}</td></tr>`).join('');
+  $('#tbl tbody').innerHTML=s.slice(page*PER,(page+1)*PER).map(p=>`<tr data-id="${p.id}" class="${p.replies?.n?'hasrep':''}"><td>${p.date}</td><td><a href="${esc(p.url)}" target="_blank" rel="noopener">@${esc(p.handle)}</a></td><td>${esc(short(p.topic))}</td>
+   <td><span class="pill" style="background:${COL[cls(p.sentiment)]}">${p.sentiment>0?'+':''}${p.sentiment}</span></td><td>${fmt(p.interactions)}</td><td>${fmt(p.views)}</td><td>${esc(p.language)}</td><td>${p.method}</td><td>${esc(p.summary)}${p.replies?.n?` <span class="rbadge">💬 ${p.replies.n}</span>`:''}</td></tr>`).join('');
+  document.querySelectorAll('#tbl tbody tr.hasrep').forEach(tr=>tr.onclick=e=>{if(e.target.tagName!=='A')window.openReplies?.(tr.dataset.id)});
   $('#tcount').textContent=`(${view.length})`;$('#pinfo').textContent=view.length?`${page*PER+1}–${Math.min((page+1)*PER,view.length)} of ${view.length}`:'No posts match';
 }
 function downloadCSV(){

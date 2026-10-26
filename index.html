@@ -21,6 +21,30 @@
 <section class="card"><h2>Average sentiment by topic</h2><div id="avg" class="plot"></div></section>
 </div>
 <section class="card"><h2>Sentiment over time</h2><p class="hint">Line = daily average sentiment (UTC days). Bars = posts in this dataset that day (a sample, not total volume).</p><div id="time" class="plot"></div></section>
+<section class="card" id="replies"><h2>Replies: how the crowd responded</h2>
+<p class="hint">Posts with 100+ interactions only, with up to ~25 relevance-ranked replies each (keyword-scored). Respects the filters above. Click a dot or a table row with 💬 to read the sampled replies.</p>
+<div class="modes" id="rmode">
+<label><input type="radio" name="rm" value="orig" checked> Original only</label>
+<label><input type="radio" name="rm" value="reply"> Reply sentiment</label>
+<label><input type="radio" name="rm" value="delta"> Delta (original → replies)</label>
+<label><input type="radio" name="rm" value="agree"> Agreement rate</label>
+<label><input type="radio" name="rm" value="combined"> Combined conversation</label>
+<label><input type="radio" name="rm" value="drift"> Topic drift</label>
+<label class="muted" style="margin-left:auto"><input type="checkbox" id="rw" checked> engagement-weighted replies</label></div>
+<div id="rkpis" class="kpis"></div>
+<div id="rplot" class="plot tall"></div>
+<div id="sankeywrap" hidden><h3>Original topic → reply topic</h3><p class="hint">Flows of individual replies. "other" = reply matched no S‑1 topic (jokes, unrelated AI talk, other companies).</p><div id="sankey" class="plot tall"></div></div>
+<h3>Per-topic reply aggregates</h3><div class="tablewrap"><table id="rtopic"><thead><tr><th>Topic</th><th>Posts</th><th>Replies</th><th>Orig. sentiment</th><th>Avg reply sentiment</th><th>Weighted reply sentiment</th><th>Avg delta</th><th>Agree</th><th>Disagree</th><th>Agree share of opinionated</th><th>Off-topic</th><th>Topic drift</th></tr></thead><tbody></tbody></table></div>
+<details class="prose" open><summary><b>What these modes mean</b></summary>
+<ul><li><b>Original only</b>: the post's own sentiment (same as the chart above, 100+ posts only).</li>
+<li><b>Reply sentiment</b>: a hollow dot at the replies' average sentiment (or engagement-weighted average if the checkbox is on), next to the original's solid dot.</li>
+<li><b>Delta</b>: an arrow from the original's sentiment to the replies'. Left-pointing red arrows mean the crowd was more negative than the poster.</li>
+<li><b>Agreement rate</b> (key metric): share of replies that agree vs. disagree. Color shows agreement among opinionated replies (agree ÷ (agree+disagree)): green = crowd backs the poster, red = crowd pushes back. X = disagree rate. For neutral news posts, agree = approving replies, disagree = skeptical replies.</li>
+<li><b>Combined conversation</b>: one number for the whole thread: the original weighted by its interactions plus every reply weighted by its own engagement.</li>
+<li><b>Topic drift</b>: share of replies whose topic differs from the post's (including "other"). Dots recolor by drift; the sankey shows where the conversation went.</li></ul>
+<p class="muted" id="rcaveats"></p></details>
+</section>
+<aside id="panel" hidden><div class="phead"><b id="ptitle"></b><button id="pclose">✕</button></div><div id="pbody"></div></aside>
 <section class="card"><h2>Posts <span id="tcount" class="muted"></span></h2>
 <div class="tablewrap"><table id="tbl"><thead><tr>
 <th data-k="date">Date</th><th data-k="handle">Handle</th><th data-k="topic">Topic</th><th data-k="sentiment">Sentiment</th><th data-k="interactions">Interactions</th><th data-k="views">Views</th><th data-k="language">Lang</th><th data-k="method">Method</th><th data-k="summary">Summary</th></tr></thead><tbody></tbody></table></div>
@@ -35,4 +59,4 @@
 <section class="card prose"><h2>Methodology &amp; caveats</h2><div id="method-text"></div></section>
 </div>
 </main><footer>Data from X search, read-only. Built as a static site; data in <code>data/posts.json</code>.</footer>
-<script src="app.js"></script></body></html>
+<script src="replies.js"></script><script src="app.js"></script></body></html>
