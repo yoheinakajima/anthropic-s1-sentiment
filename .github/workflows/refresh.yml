@@ -1,0 +1,29 @@
+name: Refresh data
+on:
+  schedule: [{cron: '0 */6 * * *'}]   # every 6 hours
+  workflow_dispatch:
+permissions: {contents: write}
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    env: {X_BEARER_TOKEN: '${{ secrets.X_BEARER_TOKEN }}'}
+    steps:
+      - name: Skip if no token
+        if: env.X_BEARER_TOKEN == ''
+        run: echo "X_BEARER_TOKEN secret not set; nothing to do."
+      - uses: actions/checkout@v4
+        if: env.X_BEARER_TOKEN != ''
+      - uses: actions/setup-python@v5
+        if: env.X_BEARER_TOKEN != ''
+        with: {python-version: '3.12'}
+      - name: Fetch and merge
+        if: env.X_BEARER_TOKEN != ''
+        run: |
+          python update/fetch_x.py
+          files=$(ls update/raw/*.json 2>/dev/null || true)
+          if [ -n "$files" ]; then python update/refresh.py $files; rm -f update/raw/*.json; fi
+      - name: Commit
+        if: env.X_BEARER_TOKEN != ''
+        run: |
+          git config user.name "data-refresh-bot"; git config user.email "actions@users.noreply.github.com"
+          git add data && (git diff --cached --quiet || (git commit -m "Refresh data $(date -u +%FT%TZ)" && git push))
