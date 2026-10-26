@@ -1,0 +1,41 @@
+{
+  "title": "How X reacted to Anthropic's S-1",
+  "events": [
+    {
+      "date": "2026-09-29",
+      "label": "Prospectus leak"
+    },
+    {
+      "date": "2026-10-16",
+      "label": "Junk credit rating + call to delay"
+    },
+    {
+      "date": "2026-10-20",
+      "label": "WSJ reports draft S-1"
+    },
+    {
+      "date": "2026-10-26",
+      "label": "Public S-1"
+    }
+  ],
+  "coverage": "X counted about 13,800 non-repost posts matching Anthropic + IPO/S-1/prospectus between Oct 19 and Oct 26 alone. This dataset is a relevance-ranked sample (perhaps 5-10% of total volume), far more complete for posts with real engagement than for low-engagement ones.",
+  "caveats": [
+    "Hand-scored posts were labeled by judgment; keyword-scored posts use simple word lists and lean toward neutral. Non-English keyword posts mostly fall into the timing topic.",
+    "Wire-style headline posts count as commentary.",
+    "Posts repeat leaked or reported figures that conflict (e.g., $42B vs $80.7B losses; $518B/$600B/$750B compute). Nothing was fact-checked.",
+    "Interaction counts are snapshots and grow over time; dates are UTC.",
+    "Reposts and off-topic posts were excluded."
+  ],
+  "last_updated": "2026-10-26T15:38:45+00:00",
+  "counts": {
+    "total": 1085,
+    "hi": 95,
+    "hand": 206,
+    "keyword": 879
+  },
+  "date_range": [
+    "2026-09-01",
+    "2026-10-26"
+  ],
+  "last_update_note": "seeded from research CSVs"
+}
