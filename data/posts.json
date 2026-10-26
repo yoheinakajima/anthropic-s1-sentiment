@@ -11,7 +11,20 @@
 "topic": "Revenue growth & profitability",
 "method": "hand",
 "summary": "Kobeissi full S-1 summary: $ANT Nasdaq, H1'26 revenue $16.3B, big losses/compute",
-"hi": true
+"hi": true,
+"replies": {
+"n": 24,
+"mean": -0.057,
+"wmean": -0.07,
+"delta": -0.17,
+"agree": 0.25,
+"disagree": 0.083,
+"question": 0.5,
+"offtopic": 0.167,
+"agree_of_opined": 0.75,
+"combined": 0.099,
+"drift": 0.958
+}
 },
 {
 "id": "2108169074475950565",
@@ -25,7 +38,20 @@
 "topic": "Valuation & AI-bubble",
 "method": "hand",
 "summary": "AI bubble; 'cash incinerator' lost $42B on $4.6B rev, wants $2T",
-"hi": true
+"hi": true,
+"replies": {
+"n": 19,
+"mean": 0.036,
+"wmean": 0.059,
+"delta": 0.959,
+"agree": 0.158,
+"disagree": 0.158,
+"question": 0.421,
+"offtopic": 0.263,
+"agree_of_opined": 0.5,
+"combined": -0.893,
+"drift": 0.737
+}
 },
 {
 "id": "2103254023809929420",
@@ -39,7 +65,20 @@
 "topic": "Governance & founder control",
 "method": "hand",
 "summary": "Founders to get 50.1% voting control ahead of IPO",
-"hi": true
+"hi": true,
+"replies": {
+"n": 21,
+"mean": 0.081,
+"wmean": 0.019,
+"delta": 0.219,
+"agree": 0.286,
+"disagree": 0.0,
+"question": 0.333,
+"offtopic": 0.381,
+"agree_of_opined": 1.0,
+"combined": -0.19,
+"drift": 0.667
+}
 },
 {
 "id": "2114682374038389023",
@@ -53,7 +92,20 @@
 "topic": "IPO timing & market impact",
 "method": "hand",
 "summary": "S-1 to drop at 9AM EST",
-"hi": true
+"hi": true,
+"replies": {
+"n": 22,
+"mean": -0.015,
+"wmean": -0.013,
+"delta": -0.013,
+"agree": 0.136,
+"disagree": 0.045,
+"question": 0.364,
+"offtopic": 0.455,
+"agree_of_opined": 0.75,
+"combined": -0.0,
+"drift": 0.955
+}
 },
 {
 "id": "2112702202267807996",
@@ -67,7 +119,20 @@
 "topic": "Valuation & AI-bubble",
 "method": "hand",
 "summary": "Revenue $16.3B vs net loss $80.7B vs $2T valuation",
-"hi": true
+"hi": true,
+"replies": {
+"n": 23,
+"mean": -0.133,
+"wmean": -0.239,
+"delta": 0.261,
+"agree": 0.348,
+"disagree": 0.043,
+"question": 0.348,
+"offtopic": 0.261,
+"agree_of_opined": 0.889,
+"combined": -0.484,
+"drift": 1.0
+}
 },
 {
 "id": "2114705686513033360",
@@ -81,7 +146,20 @@
 "topic": "Revenue growth & profitability",
 "method": "hand",
 "summary": "Everything to know: Nasdaq $ANT, GS/MS/JPM leads, financials",
-"hi": true
+"hi": true,
+"replies": {
+"n": 25,
+"mean": -0.258,
+"wmean": -0.239,
+"delta": -0.339,
+"agree": 0.24,
+"disagree": 0.48,
+"question": 0.2,
+"offtopic": 0.08,
+"agree_of_opined": 0.333,
+"combined": 0.093,
+"drift": 0.88
+}
 },
 {
 "id": "2114724779404165181",
@@ -95,7 +173,20 @@
 "topic": "Safety / existential-risk disclosures",
 "method": "hand",
 "summary": "S-1 warns AI could pose existential risks; ~80 pages of risk factors",
-"hi": true
+"hi": true,
+"replies": {
+"n": 10,
+"mean": -0.102,
+"wmean": -0.093,
+"delta": 0.407,
+"agree": 0.4,
+"disagree": 0.0,
+"question": 0.4,
+"offtopic": 0.2,
+"agree_of_opined": 1.0,
+"combined": -0.497,
+"drift": 0.6
+}
 },
 {
 "id": "2111098133014839624",
@@ -109,7 +200,20 @@
 "topic": "Safety / existential-risk disclosures",
 "method": "hand",
 "summary": "NYC Comptroller urges delaying IPO over AI safety/governance",
-"hi": true
+"hi": true,
+"replies": {
+"n": 16,
+"mean": 0.021,
+"wmean": 0.014,
+"delta": 0.514,
+"agree": 0.312,
+"disagree": 0.125,
+"question": 0.438,
+"offtopic": 0.125,
+"agree_of_opined": 0.714,
+"combined": -0.491,
+"drift": 0.562
+}
 },
 {
 "id": "2111153700681257311",
@@ -123,7 +227,20 @@
 "topic": "Losses, burn & financing",
 "method": "hand",
 "summary": "KBRA BB+ (junk) rating ahead of $35B chip financing",
-"hi": true
+"hi": true,
+"replies": {
+"n": 12,
+"mean": -0.057,
+"wmean": -0.021,
+"delta": 0.379,
+"agree": 0.25,
+"disagree": 0.083,
+"question": 0.417,
+"offtopic": 0.25,
+"agree_of_opined": 0.75,
+"combined": -0.395,
+"drift": 0.417
+}
 },
 {
 "id": "2111058732650045666",
@@ -137,7 +254,20 @@
 "topic": "Losses, burn & financing",
 "method": "hand",
 "summary": "BB+ rating as Wall St preps $60B AI financing",
-"hi": true
+"hi": true,
+"replies": {
+"n": 19,
+"mean": -0.107,
+"wmean": -0.041,
+"delta": 0.259,
+"agree": 0.211,
+"disagree": 0.053,
+"question": 0.421,
+"offtopic": 0.316,
+"agree_of_opined": 0.8,
+"combined": -0.287,
+"drift": 0.526
+}
 },
 {
 "id": "2104904157815840877",
@@ -151,7 +281,20 @@
 "topic": "Valuation & AI-bubble",
 "method": "hand",
 "summary": "$2T IPO exposes circular AI money problem",
-"hi": true
+"hi": true,
+"replies": {
+"n": 21,
+"mean": -0.048,
+"wmean": -0.038,
+"delta": 0.762,
+"agree": 0.429,
+"disagree": 0.095,
+"question": 0.238,
+"offtopic": 0.238,
+"agree_of_opined": 0.818,
+"combined": -0.765,
+"drift": 1.0
+}
 },
 {
 "id": "2096455073580908908",
@@ -165,7 +308,20 @@
 "topic": "Valuation & AI-bubble",
 "method": "hand",
 "summary": "Investors one-upping SpaceX with $2T IPO valuation",
-"hi": true
+"hi": true,
+"replies": {
+"n": 7,
+"mean": 0.0,
+"wmean": 0.0,
+"delta": 0.2,
+"agree": 0.0,
+"disagree": 0.0,
+"question": 0.857,
+"offtopic": 0.143,
+"agree_of_opined": null,
+"combined": -0.196,
+"drift": 0.571
+}
 },
 {
 "id": "2098635846174089692",
@@ -179,7 +335,20 @@
 "topic": "Compute deals & partners",
 "method": "hand",
 "summary": "Nvidia may invest $10B in $100B raise at $2T",
-"hi": true
+"hi": true,
+"replies": {
+"n": 22,
+"mean": -0.046,
+"wmean": -0.035,
+"delta": -0.435,
+"agree": 0.409,
+"disagree": 0.0,
+"question": 0.273,
+"offtopic": 0.318,
+"agree_of_opined": 1.0,
+"combined": 0.388,
+"drift": 0.818
+}
 },
 {
 "id": "2104744538481049676",
@@ -193,7 +362,20 @@
 "topic": "Losses, burn & financing",
 "method": "hand",
 "summary": "Leaked prospectus: $42B 2025 net loss, $518B compute plans",
-"hi": true
+"hi": true,
+"replies": {
+"n": 19,
+"mean": -0.035,
+"wmean": -0.025,
+"delta": 0.475,
+"agree": 0.211,
+"disagree": 0.053,
+"question": 0.421,
+"offtopic": 0.316,
+"agree_of_opined": 0.8,
+"combined": -0.487,
+"drift": 0.895
+}
 },
 {
 "id": "2105600530558918931",
@@ -207,7 +389,20 @@
 "topic": "Compute deals & partners",
 "method": "hand",
 "summary": "Broadcom $42B financing for TPU commitment",
-"hi": true
+"hi": true,
+"replies": {
+"n": 24,
+"mean": 0.0,
+"wmean": -0.0,
+"delta": -0.2,
+"agree": 0.208,
+"disagree": 0.083,
+"question": 0.5,
+"offtopic": 0.208,
+"agree_of_opined": 0.714,
+"combined": 0.193,
+"drift": 0.708
+}
 },
 {
 "id": "2112629511695090036",
@@ -221,7 +416,20 @@
 "topic": "Compute deals & partners",
 "method": "hand",
 "summary": "Draft S-1: up to $750B compute spend, ~$450B cloud obligations",
-"hi": true
+"hi": true,
+"replies": {
+"n": 24,
+"mean": 0.0,
+"wmean": 0.0,
+"delta": 0.4,
+"agree": 0.417,
+"disagree": 0.125,
+"question": 0.25,
+"offtopic": 0.208,
+"agree_of_opined": 0.769,
+"combined": -0.386,
+"drift": 0.667
+}
 },
 {
 "id": "2098592664799388046",
@@ -235,7 +443,20 @@
 "topic": "Valuation & AI-bubble",
 "method": "hand",
 "summary": "Nvidia $10B in $100B raise at $2T, biggest IPO ever",
-"hi": true
+"hi": true,
+"replies": {
+"n": 19,
+"mean": -0.018,
+"wmean": 0.0,
+"delta": -0.4,
+"agree": 0.105,
+"disagree": 0.211,
+"question": 0.263,
+"offtopic": 0.421,
+"agree_of_opined": 0.333,
+"combined": 0.388,
+"drift": 1.0
+}
 },
 {
 "id": "2111174336501473314",
@@ -249,7 +470,20 @@
 "topic": "Safety / existential-risk disclosures",
 "method": "hand",
 "summary": "Call to delay IPO over safety concerns",
-"hi": true
+"hi": true,
+"replies": {
+"n": 26,
+"mean": -0.118,
+"wmean": -0.117,
+"delta": 0.383,
+"agree": 0.346,
+"disagree": 0.077,
+"question": 0.385,
+"offtopic": 0.192,
+"agree_of_opined": 0.818,
+"combined": -0.487,
+"drift": 0.577
+}
 },
 {
 "id": "2101184511082135881",
@@ -263,7 +497,20 @@
 "topic": "IPO timing & market impact",
 "method": "hand",
 "summary": "Considering new model launch before IPO",
-"hi": true
+"hi": true,
+"replies": {
+"n": 18,
+"mean": 0.0,
+"wmean": 0.014,
+"delta": -0.286,
+"agree": 0.167,
+"disagree": 0.111,
+"question": 0.333,
+"offtopic": 0.389,
+"agree_of_opined": 0.6,
+"combined": 0.291,
+"drift": 0.944
+}
 },
 {
 "id": "2110158646466547935",
@@ -277,7 +524,20 @@
 "topic": "IPO timing & market impact",
 "method": "hand",
 "summary": "Institutional investor day ahead of IPO",
-"hi": true
+"hi": true,
+"replies": {
+"n": 16,
+"mean": -0.043,
+"wmean": -0.077,
+"delta": -0.277,
+"agree": 0.125,
+"disagree": 0.125,
+"question": 0.625,
+"offtopic": 0.125,
+"agree_of_opined": 0.5,
+"combined": 0.192,
+"drift": 0.812
+}
 },
 {
 "id": "2109550760635871349",
@@ -291,7 +551,20 @@
 "topic": "Compute deals & partners",
 "method": "hand",
 "summary": "Multiyear cloud deal with IREN",
-"hi": true
+"hi": true,
+"replies": {
+"n": 24,
+"mean": -0.014,
+"wmean": -0.013,
+"delta": -0.213,
+"agree": 0.25,
+"disagree": 0.042,
+"question": 0.542,
+"offtopic": 0.167,
+"agree_of_opined": 0.857,
+"combined": 0.192,
+"drift": 0.458
+}
 },
 {
 "id": "2103544684320596381",
@@ -305,7 +578,20 @@
 "topic": "Governance & founder control",
 "method": "hand",
 "summary": "Founders own ~14% yet want 50.1% votes; unusual vs precedent",
-"hi": true
+"hi": true,
+"replies": {
+"n": 21,
+"mean": 0.0,
+"wmean": 0.061,
+"delta": 0.661,
+"agree": 0.238,
+"disagree": 0.143,
+"question": 0.238,
+"offtopic": 0.381,
+"agree_of_opined": 0.625,
+"combined": -0.56,
+"drift": 0.762
+}
 },
 {
 "id": "2114718523083595906",
@@ -319,7 +605,20 @@
 "topic": "Safety / existential-risk disclosures",
 "method": "hand",
 "summary": "94 pages of risk factors incl. catastrophic AI incidents",
-"hi": true
+"hi": true,
+"replies": {
+"n": 23,
+"mean": -0.147,
+"wmean": -0.103,
+"delta": 0.397,
+"agree": 0.391,
+"disagree": 0.087,
+"question": 0.304,
+"offtopic": 0.217,
+"agree_of_opined": 0.818,
+"combined": -0.477,
+"drift": 0.435
+}
 },
 {
 "id": "2096121147200790967",
@@ -333,7 +632,20 @@
 "topic": "Losses, burn & financing",
 "method": "hand",
 "summary": "Close to $15B credit facility ahead of IPO",
-"hi": true
+"hi": true,
+"replies": {
+"n": 22,
+"mean": 0.0,
+"wmean": 0.0,
+"delta": -0.3,
+"agree": 0.091,
+"disagree": 0.091,
+"question": 0.455,
+"offtopic": 0.364,
+"agree_of_opined": 0.5,
+"combined": 0.287,
+"drift": 0.682
+}
 },
 {
 "id": "2114723315424354506",
@@ -347,7 +659,20 @@
 "topic": "Safety / existential-risk disclosures",
 "method": "hand",
 "summary": "Joke: no risk factor about Claude suing Anthropic",
-"hi": true
+"hi": true,
+"replies": {
+"n": 23,
+"mean": -0.177,
+"wmean": -0.182,
+"delta": 0.018,
+"agree": 0.435,
+"disagree": 0.0,
+"question": 0.261,
+"offtopic": 0.304,
+"agree_of_opined": 1.0,
+"combined": -0.199,
+"drift": 0.522
+}
 },
 {
 "id": "2114709443212369991",
@@ -361,7 +686,20 @@
 "topic": "IPO timing & market impact",
 "method": "hand",
 "summary": "Targets IPO week of Nov 16 (WSJ)",
-"hi": true
+"hi": true,
+"replies": {
+"n": 17,
+"mean": -0.14,
+"wmean": -0.105,
+"delta": -0.205,
+"agree": 0.118,
+"disagree": 0.294,
+"question": 0.235,
+"offtopic": 0.353,
+"agree_of_opined": 0.286,
+"combined": 0.089,
+"drift": 0.882
+}
 },
 {
 "id": "2112628316759052401",
@@ -375,7 +713,20 @@
 "topic": "Losses, burn & financing",
 "method": "hand",
 "summary": "Draft S-1: >$600B compute, $16.3B H1 rev, $80.7B net loss (accounting)",
-"hi": true
+"hi": true,
+"replies": {
+"n": 14,
+"mean": -0.049,
+"wmean": -0.178,
+"delta": 0.022,
+"agree": 0.5,
+"disagree": 0.143,
+"question": 0.357,
+"offtopic": 0.0,
+"agree_of_opined": 0.778,
+"combined": -0.198,
+"drift": 0.714
+}
 },
 {
 "id": "2114707269355241559",
@@ -389,7 +740,20 @@
 "topic": "Governance & founder control",
 "method": "hand",
 "summary": "Class F share to Founder LLC: no economics, outsized votes",
-"hi": true
+"hi": true,
+"replies": {
+"n": 20,
+"mean": -0.017,
+"wmean": -0.079,
+"delta": 0.421,
+"agree": 0.15,
+"disagree": 0.1,
+"question": 0.45,
+"offtopic": 0.3,
+"agree_of_opined": 0.6,
+"combined": -0.427,
+"drift": 0.7
+}
 },
 {
 "id": "2104778333699617167",
@@ -403,7 +767,20 @@
 "topic": "Safety / existential-risk disclosures",
 "method": "hand",
 "summary": "Filing warns of existential risk, models resisting shutdown",
-"hi": true
+"hi": true,
+"replies": {
+"n": 18,
+"mean": -0.057,
+"wmean": -0.057,
+"delta": 0.443,
+"agree": 0.222,
+"disagree": 0.056,
+"question": 0.444,
+"offtopic": 0.278,
+"agree_of_opined": 0.8,
+"combined": -0.476,
+"drift": 0.778
+}
 },
 {
 "id": "2110497060667695351",
@@ -417,7 +794,20 @@
 "topic": "Revenue growth & profitability",
 "method": "hand",
 "summary": "Q3 revenue +46% to $16.8B (FT)",
-"hi": true
+"hi": true,
+"replies": {
+"n": 9,
+"mean": 0.113,
+"wmean": 0.113,
+"delta": -0.587,
+"agree": 0.333,
+"disagree": 0.222,
+"question": 0.333,
+"offtopic": 0.111,
+"agree_of_opined": 0.6,
+"combined": 0.683,
+"drift": 0.444
+}
 },
 {
 "id": "2112336813839065299",
@@ -431,7 +821,20 @@
 "topic": "IPO timing & market impact",
 "method": "hand",
 "summary": "Skeptic: S-1 still not public, doubts 2026 IPO",
-"hi": true
+"hi": true,
+"replies": {
+"n": 6,
+"mean": -0.057,
+"wmean": -0.094,
+"delta": 0.506,
+"agree": 0.5,
+"disagree": 0.0,
+"question": 0.333,
+"offtopic": 0.167,
+"agree_of_opined": 1.0,
+"combined": -0.578,
+"drift": 0.833
+}
 },
 {
 "id": "2105349862355304892",
@@ -445,7 +848,20 @@
 "topic": "Revenue growth & profitability",
 "method": "hand",
 "summary": "ARR flatlining just before IPO; investors beware",
-"hi": true
+"hi": true,
+"replies": {
+"n": 21,
+"mean": -0.064,
+"wmean": -0.03,
+"delta": 0.77,
+"agree": 0.286,
+"disagree": 0.095,
+"question": 0.429,
+"offtopic": 0.19,
+"agree_of_opined": 0.75,
+"combined": -0.706,
+"drift": 0.619
+}
 },
 {
 "id": "2113057749336719732",
@@ -459,7 +875,20 @@
 "topic": "IPO timing & market impact",
 "method": "hand",
 "summary": "Could publicly file S-1 as early as Friday",
-"hi": true
+"hi": true,
+"replies": {
+"n": 24,
+"mean": 0.014,
+"wmean": 0.037,
+"delta": -0.063,
+"agree": 0.333,
+"disagree": 0.167,
+"question": 0.375,
+"offtopic": 0.125,
+"agree_of_opined": 0.667,
+"combined": 0.093,
+"drift": 0.708
+}
 },
 {
 "id": "2113672938402849208",
@@ -473,7 +902,20 @@
 "topic": "Valuation & AI-bubble",
 "method": "hand",
 "summary": "Barbell: 94% $1.5T valuation vs 9% bankruptcy odds",
-"hi": true
+"hi": true,
+"replies": {
+"n": 21,
+"mean": -0.112,
+"wmean": -0.094,
+"delta": 0.206,
+"agree": 0.238,
+"disagree": 0.143,
+"question": 0.429,
+"offtopic": 0.19,
+"agree_of_opined": 0.625,
+"combined": -0.287,
+"drift": 0.571
+}
 },
 {
 "id": "2114719488226832791",
@@ -487,7 +929,20 @@
 "topic": "Losses, burn & financing",
 "method": "hand",
 "summary": "S-1 'terrifying numbers': losses, burn, commitments",
-"hi": true
+"hi": true,
+"replies": {
+"n": 23,
+"mean": -0.029,
+"wmean": -0.064,
+"delta": 0.736,
+"agree": 0.348,
+"disagree": 0.043,
+"question": 0.435,
+"offtopic": 0.174,
+"agree_of_opined": 0.889,
+"combined": -0.752,
+"drift": 0.739
+}
 },
 {
 "id": "2112970719609180165",
@@ -501,7 +956,20 @@
 "topic": "Valuation & AI-bubble",
 "method": "hand",
 "summary": "Pre-IPO perp pushing back to $2T implied valuation",
-"hi": true
+"hi": true,
+"replies": {
+"n": 19,
+"mean": -0.125,
+"wmean": -0.136,
+"delta": -0.436,
+"agree": 0.053,
+"disagree": 0.316,
+"question": 0.421,
+"offtopic": 0.211,
+"agree_of_opined": 0.143,
+"combined": 0.276,
+"drift": 0.789
+}
 },
 {
 "id": "2110717577760542965",
@@ -515,7 +983,20 @@
 "topic": "Revenue growth & profitability",
 "method": "hand",
 "summary": "Q3 rev $16.8B (+46%), adjusted profit per FT",
-"hi": true
+"hi": true,
+"replies": {
+"n": 9,
+"mean": 0.113,
+"wmean": 0.144,
+"delta": -0.456,
+"agree": 0.444,
+"disagree": 0.111,
+"question": 0.222,
+"offtopic": 0.222,
+"agree_of_opined": 0.8,
+"combined": 0.568,
+"drift": 0.667
+}
 },
 {
 "id": "2112958005838807199",
@@ -529,7 +1010,20 @@
 "topic": "IPO timing & market impact",
 "method": "hand",
 "summary": "Public filing as soon as Friday, could beat SpaceX as biggest",
-"hi": true
+"hi": true,
+"replies": {
+"n": 23,
+"mean": 0.015,
+"wmean": 0.0,
+"delta": -0.3,
+"agree": 0.174,
+"disagree": 0.043,
+"question": 0.696,
+"offtopic": 0.087,
+"agree_of_opined": 0.8,
+"combined": 0.276,
+"drift": 0.957
+}
 },
 {
 "id": "2096961606332903445",
@@ -543,7 +1037,20 @@
 "topic": "IPO timing & market impact",
 "method": "hand",
 "summary": "IPO delay signals something bad",
-"hi": true
+"hi": true,
+"replies": {
+"n": 19,
+"mean": -0.054,
+"wmean": -0.024,
+"delta": 0.676,
+"agree": 0.211,
+"disagree": 0.211,
+"question": 0.211,
+"offtopic": 0.368,
+"agree_of_opined": 0.5,
+"combined": -0.624,
+"drift": 0.684
+}
 },
 {
 "id": "2104779476781441075",
@@ -557,7 +1064,20 @@
 "topic": "Safety / existential-risk disclosures",
 "method": "hand",
 "summary": "Forbes: prospectus warns of existential risks",
-"hi": true
+"hi": true,
+"replies": {
+"n": 18,
+"mean": -0.019,
+"wmean": -0.018,
+"delta": 0.482,
+"agree": 0.222,
+"disagree": 0.056,
+"question": 0.278,
+"offtopic": 0.444,
+"agree_of_opined": 0.8,
+"combined": -0.475,
+"drift": 0.778
+}
 },
 {
 "id": "2107173074483421631",
@@ -571,7 +1091,20 @@
 "topic": "IPO timing & market impact",
 "method": "hand",
 "summary": "Still targeting Nov IPO; pre-IPO perps",
-"hi": true
+"hi": true,
+"replies": {
+"n": 18,
+"mean": 0.038,
+"wmean": 0.034,
+"delta": -0.166,
+"agree": 0.278,
+"disagree": 0.0,
+"question": 0.556,
+"offtopic": 0.167,
+"agree_of_opined": 1.0,
+"combined": 0.191,
+"drift": 0.944
+}
 },
 {
 "id": "2096009030527230171",
@@ -585,7 +1118,20 @@
 "topic": "IPO timing & market impact",
 "method": "hand",
 "summary": "76% odds IPO announced before Nov",
-"hi": true
+"hi": true,
+"replies": {
+"n": 24,
+"mean": 0.014,
+"wmean": 0.018,
+"delta": -0.182,
+"agree": 0.167,
+"disagree": 0.042,
+"question": 0.583,
+"offtopic": 0.208,
+"agree_of_opined": 0.8,
+"combined": 0.182,
+"drift": 0.875
+}
 },
 {
 "id": "2114704934503350508",
@@ -599,7 +1145,20 @@
 "topic": "IPO timing & market impact",
 "method": "hand",
 "summary": "S-1 link",
-"hi": true
+"hi": true,
+"replies": {
+"n": 8,
+"mean": 0.043,
+"wmean": 0.031,
+"delta": 0.031,
+"agree": 0.5,
+"disagree": 0.0,
+"question": 0.25,
+"offtopic": 0.25,
+"agree_of_opined": 1.0,
+"combined": 0.001,
+"drift": 1.0
+}
 },
 {
 "id": "2114709238454886805",
@@ -613,7 +1172,20 @@
 "topic": "IPO timing & market impact",
 "method": "hand",
 "summary": "Link to the S-1",
-"hi": true
+"hi": true,
+"replies": {
+"n": 17,
+"mean": -0.08,
+"wmean": -0.027,
+"delta": -0.027,
+"agree": 0.235,
+"disagree": 0.176,
+"question": 0.294,
+"offtopic": 0.294,
+"agree_of_opined": 0.571,
+"combined": -0.005,
+"drift": 0.941
+}
 },
 {
 "id": "2114722935575609624",
@@ -627,7 +1199,20 @@
 "topic": "IPO timing & market impact",
 "method": "hand",
 "summary": "Publicly filed S-1 with SEC",
-"hi": true
+"hi": true,
+"replies": {
+"n": 25,
+"mean": -0.109,
+"wmean": -0.143,
+"delta": -0.143,
+"agree": 0.12,
+"disagree": 0.2,
+"question": 0.56,
+"offtopic": 0.12,
+"agree_of_opined": 0.375,
+"combined": -0.016,
+"drift": 0.96
+}
 },
 {
 "id": "2114717117555573220",
@@ -641,7 +1226,20 @@
 "topic": "Revenue growth & profitability",
 "method": "hand",
 "summary": "S-1 ducked Q3: demand dropped, skirting the truth",
-"hi": true
+"hi": true,
+"replies": {
+"n": 23,
+"mean": -0.059,
+"wmean": -0.032,
+"delta": 0.868,
+"agree": 0.13,
+"disagree": 0.0,
+"question": 0.522,
+"offtopic": 0.348,
+"agree_of_opined": 1.0,
+"combined": -0.791,
+"drift": 0.913
+}
 },
 {
 "id": "2114706824909754521",
@@ -655,7 +1253,20 @@
 "topic": "Valuation & AI-bubble",
 "method": "hand",
 "summary": "Could target $2T valuation, $100B offering",
-"hi": true
+"hi": true,
+"replies": {
+"n": 18,
+"mean": -0.019,
+"wmean": -0.176,
+"delta": -0.576,
+"agree": 0.167,
+"disagree": 0.111,
+"question": 0.556,
+"offtopic": 0.167,
+"agree_of_opined": 0.6,
+"combined": 0.305,
+"drift": 0.5
+}
 },
 {
 "id": "2114710673842204978",
@@ -669,7 +1280,20 @@
 "topic": "Safety / existential-risk disclosures",
 "method": "hand",
 "summary": "Filing: losing control of powerful AI a global security threat",
-"hi": true
+"hi": true,
+"replies": {
+"n": 20,
+"mean": -0.17,
+"wmean": -0.182,
+"delta": 0.318,
+"agree": 0.35,
+"disagree": 0.0,
+"question": 0.45,
+"offtopic": 0.2,
+"agree_of_opined": 1.0,
+"combined": -0.472,
+"drift": 0.8
+}
 },
 {
 "id": "2104765839727632512",
@@ -683,7 +1307,20 @@
 "topic": "Safety / existential-risk disclosures",
 "method": "hand",
 "summary": "Prospectus warns of existential risk, shutdown resistance",
-"hi": true
+"hi": true,
+"replies": {
+"n": 22,
+"mean": -0.169,
+"wmean": -0.09,
+"delta": 0.41,
+"agree": 0.227,
+"disagree": 0.045,
+"question": 0.364,
+"offtopic": 0.364,
+"agree_of_opined": 0.833,
+"combined": -0.461,
+"drift": 0.773
+}
 },
 {
 "id": "2107146295110733885",
@@ -697,7 +1334,20 @@
 "topic": "IPO timing & market impact",
 "method": "hand",
 "summary": "80% odds IPO this year",
-"hi": true
+"hi": true,
+"replies": {
+"n": 16,
+"mean": 0.0,
+"wmean": 0.0,
+"delta": -0.2,
+"agree": 0.25,
+"disagree": 0.062,
+"question": 0.312,
+"offtopic": 0.375,
+"agree_of_opined": 0.8,
+"combined": 0.188,
+"drift": 0.875
+}
 },
 {
 "id": "2114722539029033262",
@@ -711,7 +1361,20 @@
 "topic": "IPO timing & market impact",
 "method": "hand",
 "summary": "2x long/short Anthropic ETFs filed",
-"hi": true
+"hi": true,
+"replies": {
+"n": 17,
+"mean": -0.1,
+"wmean": -0.097,
+"delta": -0.197,
+"agree": 0.176,
+"disagree": 0.059,
+"question": 0.529,
+"offtopic": 0.235,
+"agree_of_opined": 0.75,
+"combined": 0.081,
+"drift": 0.706
+}
 },
 {
 "id": "2095686006955524526",
@@ -725,7 +1388,20 @@
 "topic": "Losses, burn & financing",
 "method": "hand",
 "summary": "$15B revolver clears hurdle before IPO",
-"hi": true
+"hi": true,
+"replies": {
+"n": 10,
+"mean": 0.0,
+"wmean": 0.016,
+"delta": -0.284,
+"agree": 0.3,
+"disagree": 0.2,
+"question": 0.3,
+"offtopic": 0.2,
+"agree_of_opined": 0.6,
+"combined": 0.279,
+"drift": 0.4
+}
 },
 {
 "id": "2114734528334090384",
@@ -739,7 +1415,20 @@
 "topic": "IPO timing & market impact",
 "method": "hand",
 "summary": "AI stocks climb after filing",
-"hi": true
+"hi": true,
+"replies": {
+"n": 17,
+"mean": -0.08,
+"wmean": -0.072,
+"delta": -0.672,
+"agree": 0.118,
+"disagree": 0.176,
+"question": 0.647,
+"offtopic": 0.059,
+"agree_of_opined": 0.4,
+"combined": 0.55,
+"drift": 0.941
+}
 },
 {
 "id": "2101067494035484700",
@@ -753,7 +1442,20 @@
 "topic": "Valuation & AI-bubble",
 "method": "hand",
 "summary": "Nov IPO at ~$2T",
-"hi": true
+"hi": true,
+"replies": {
+"n": 20,
+"mean": -0.034,
+"wmean": -0.038,
+"delta": -0.338,
+"agree": 0.0,
+"disagree": 0.05,
+"question": 0.25,
+"offtopic": 0.7,
+"agree_of_opined": 0.0,
+"combined": 0.265,
+"drift": 1.0
+}
 },
 {
 "id": "2114729536877133915",
@@ -767,7 +1469,20 @@
 "topic": "Governance & founder control",
 "method": "hand",
 "summary": "Unconventional early lock-up release for insiders",
-"hi": true
+"hi": true,
+"replies": {
+"n": 24,
+"mean": -0.128,
+"wmean": -0.124,
+"delta": 0.176,
+"agree": 0.167,
+"disagree": 0.083,
+"question": 0.208,
+"offtopic": 0.542,
+"agree_of_opined": 0.667,
+"combined": -0.278,
+"drift": 0.917
+}
 },
 {
 "id": "2105710332882895275",
@@ -781,7 +1496,20 @@
 "topic": "Safety / existential-risk disclosures",
 "method": "hand",
 "summary": "Filing highlights AI promise and risks",
-"hi": true
+"hi": true,
+"replies": {
+"n": 23,
+"mean": -0.015,
+"wmean": -0.015,
+"delta": -0.015,
+"agree": 0.174,
+"disagree": 0.13,
+"question": 0.522,
+"offtopic": 0.174,
+"agree_of_opined": 0.571,
+"combined": -0.001,
+"drift": 0.565
+}
 },
 {
 "id": "2094599484407967798",
@@ -795,7 +1523,20 @@
 "topic": "Valuation & AI-bubble",
 "method": "hand",
 "summary": "zh: $86B raise at ~$1.5T, secondary sales",
-"hi": true
+"hi": true,
+"replies": {
+"n": 6,
+"mean": 0.0,
+"wmean": 0.0,
+"delta": -0.2,
+"agree": 0.167,
+"disagree": 0.0,
+"question": 0.167,
+"offtopic": 0.667,
+"agree_of_opined": 1.0,
+"combined": 0.195,
+"drift": 1.0
+}
 },
 {
 "id": "2095963616495190378",
@@ -809,7 +1550,20 @@
 "topic": "IPO timing & market impact",
 "method": "hand",
 "summary": "S-1 next week? GS/MS lead roles",
-"hi": true
+"hi": true,
+"replies": {
+"n": 7,
+"mean": -0.049,
+"wmean": -0.102,
+"delta": -0.502,
+"agree": 0.0,
+"disagree": 0.143,
+"question": 0.857,
+"offtopic": 0.0,
+"agree_of_opined": 0.0,
+"combined": 0.377,
+"drift": 1.0
+}
 },
 {
 "id": "2104945543738748960",
@@ -823,7 +1577,20 @@
 "topic": "Safety / existential-risk disclosures",
 "method": "hand",
 "summary": "Filing warns catastrophic/existential AI risks",
-"hi": true
+"hi": true,
+"replies": {
+"n": 20,
+"mean": 0.017,
+"wmean": 0.017,
+"delta": 0.517,
+"agree": 0.3,
+"disagree": 0.1,
+"question": 0.3,
+"offtopic": 0.3,
+"agree_of_opined": 0.75,
+"combined": -0.454,
+"drift": 0.8
+}
 },
 {
 "id": "2114710485123895664",
@@ -837,7 +1604,20 @@
 "topic": "Safety / existential-risk disclosures",
 "method": "hand",
 "summary": "Filing: AI may behave autonomously in unintended ways",
-"hi": true
+"hi": true,
+"replies": {
+"n": 16,
+"mean": -0.106,
+"wmean": -0.07,
+"delta": 0.33,
+"agree": 0.375,
+"disagree": 0.188,
+"question": 0.062,
+"offtopic": 0.375,
+"agree_of_opined": 0.667,
+"combined": -0.349,
+"drift": 0.625
+}
 },
 {
 "id": "2114711318200807713",
@@ -851,7 +1631,20 @@
 "topic": "Revenue growth & profitability",
 "method": "hand",
 "summary": "Thread: quarterly revenue, Q2'26 +1,368% YoY; costs +300%",
-"hi": true
+"hi": true,
+"replies": {
+"n": 12,
+"mean": -0.028,
+"wmean": -0.045,
+"delta": -0.545,
+"agree": 0.083,
+"disagree": 0.083,
+"question": 0.417,
+"offtopic": 0.417,
+"agree_of_opined": 0.5,
+"combined": 0.459,
+"drift": 0.75
+}
 },
 {
 "id": "2113868156746006655",
@@ -865,7 +1658,10 @@
 "topic": "IPO timing & market impact",
 "method": "hand",
 "summary": "ja: will it really IPO in Nov? timing before Thanksgiving",
-"hi": true
+"hi": true,
+"replies": {
+"n": 0
+}
 },
 {
 "id": "2114704965033947435",
@@ -879,7 +1675,20 @@
 "topic": "IPO timing & market impact",
 "method": "hand",
 "summary": "S-1 officially out (link)",
-"hi": true
+"hi": true,
+"replies": {
+"n": 4,
+"mean": -0.085,
+"wmean": -0.085,
+"delta": -0.085,
+"agree": 0.0,
+"disagree": 0.25,
+"question": 0.25,
+"offtopic": 0.5,
+"agree_of_opined": 0.0,
+"combined": -0.002,
+"drift": 0.75
+}
 },
 {
 "id": "2101889858222403955",
@@ -893,7 +1702,20 @@
 "topic": "Valuation & AI-bubble",
 "method": "hand",
 "summary": "FT Lex: $2tn isn't far-fetched",
-"hi": true
+"hi": true,
+"replies": {
+"n": 20,
+"mean": 0.034,
+"wmean": 0.0,
+"delta": -0.6,
+"agree": 0.25,
+"disagree": 0.05,
+"question": 0.45,
+"offtopic": 0.25,
+"agree_of_opined": 0.833,
+"combined": 0.512,
+"drift": 0.7
+}
 },
 {
 "id": "2105983876254294351",
@@ -907,7 +1729,20 @@
 "topic": "Safety / existential-risk disclosures",
 "method": "hand",
 "summary": "Prospectus flags US government relations as risk",
-"hi": true
+"hi": true,
+"replies": {
+"n": 24,
+"mean": -0.198,
+"wmean": -0.187,
+"delta": 0.113,
+"agree": 0.417,
+"disagree": 0.042,
+"question": 0.458,
+"offtopic": 0.083,
+"agree_of_opined": 0.909,
+"combined": -0.284,
+"drift": 0.458
+}
 },
 {
 "id": "2107411216390119567",
@@ -921,7 +1756,20 @@
 "topic": "Governance & founder control",
 "method": "hand",
 "summary": "Dario earned $18M in 2025",
-"hi": true
+"hi": true,
+"replies": {
+"n": 6,
+"mean": 0.0,
+"wmean": 0.0,
+"delta": 0.2,
+"agree": 0.167,
+"disagree": 0.0,
+"question": 0.667,
+"offtopic": 0.167,
+"agree_of_opined": 1.0,
+"combined": -0.192,
+"drift": 1.0
+}
 },
 {
 "id": "2114704992187596993",
@@ -935,7 +1783,20 @@
 "topic": "IPO timing & market impact",
 "method": "hand",
 "summary": "S-1 released (link)",
-"hi": true
+"hi": true,
+"replies": {
+"n": 3,
+"mean": -0.113,
+"wmean": -0.068,
+"delta": -0.068,
+"agree": 0.0,
+"disagree": 0.333,
+"question": 0.333,
+"offtopic": 0.333,
+"agree_of_opined": 0.0,
+"combined": -0.002,
+"drift": 1.0
+}
 },
 {
 "id": "2096017500169515448",
@@ -949,7 +1810,20 @@
 "topic": "Valuation & AI-bubble",
 "method": "hand",
 "summary": "Worth buying at $2T?",
-"hi": true
+"hi": true,
+"replies": {
+"n": 22,
+"mean": 0.0,
+"wmean": 0.052,
+"delta": 0.052,
+"agree": 0.364,
+"disagree": 0.045,
+"question": 0.227,
+"offtopic": 0.364,
+"agree_of_opined": 0.889,
+"combined": 0.008,
+"drift": 0.864
+}
 },
 {
 "id": "2114712415673696508",
@@ -963,7 +1837,20 @@
 "topic": "IPO timing & market impact",
 "method": "hand",
 "summary": "IPO terms from Goldman",
-"hi": true
+"hi": true,
+"replies": {
+"n": 8,
+"mean": -0.043,
+"wmean": -0.02,
+"delta": -0.02,
+"agree": 0.0,
+"disagree": 0.25,
+"question": 0.75,
+"offtopic": 0.0,
+"agree_of_opined": 0.0,
+"combined": -0.002,
+"drift": 1.0
+}
 },
 {
 "id": "2114694522282377312",
@@ -977,7 +1864,20 @@
 "topic": "Revenue growth & profitability",
 "method": "hand",
 "summary": "IPO as token prices hit record low; fantasy math",
-"hi": true
+"hi": true,
+"replies": {
+"n": 23,
+"mean": 0.014,
+"wmean": -0.014,
+"delta": 0.686,
+"agree": 0.391,
+"disagree": 0.13,
+"question": 0.304,
+"offtopic": 0.174,
+"agree_of_opined": 0.75,
+"combined": -0.609,
+"drift": 0.826
+}
 },
 {
 "id": "2110366661580869683",
@@ -991,7 +1891,20 @@
 "topic": "IPO timing & market impact",
 "method": "hand",
 "summary": "IPO date keeps slipping, token prices too",
-"hi": true
+"hi": true,
+"replies": {
+"n": 13,
+"mean": 0.026,
+"wmean": 0.0,
+"delta": 0.6,
+"agree": 0.231,
+"disagree": 0.077,
+"question": 0.462,
+"offtopic": 0.231,
+"agree_of_opined": 0.75,
+"combined": -0.527,
+"drift": 0.769
+}
 },
 {
 "id": "2109668044318392578",
@@ -1005,7 +1918,20 @@
 "topic": "Losses, burn & financing",
 "method": "hand",
 "summary": "Will public markets fund losses? op loss > revenue",
-"hi": true
+"hi": true,
+"replies": {
+"n": 17,
+"mean": -0.08,
+"wmean": -0.08,
+"delta": 0.42,
+"agree": 0.588,
+"disagree": 0.0,
+"question": 0.059,
+"offtopic": 0.353,
+"agree_of_opined": 1.0,
+"combined": -0.46,
+"drift": 0.824
+}
 },
 {
 "id": "2112336348640358746",
@@ -1019,7 +1945,20 @@
 "topic": "Valuation & AI-bubble",
 "method": "hand",
 "summary": "zh: IPO investors cut valuation $2T→$1.5T as growth decelerates (Q2 +147% → Q3 +45%)",
-"hi": true
+"hi": true,
+"replies": {
+"n": 14,
+"mean": 0.0,
+"wmean": 0.0,
+"delta": 0.4,
+"agree": 0.0,
+"disagree": 0.0,
+"question": 0.357,
+"offtopic": 0.643,
+"agree_of_opined": null,
+"combined": -0.36,
+"drift": 1.0
+}
 },
 {
 "id": "2114731331246518424",
@@ -1033,7 +1972,20 @@
 "topic": "Revenue growth & profitability",
 "method": "hand",
 "summary": "Filing touts healthcare/science opportunity",
-"hi": true
+"hi": true,
+"replies": {
+"n": 19,
+"mean": 0.072,
+"wmean": 0.059,
+"delta": -0.541,
+"agree": 0.368,
+"disagree": 0.211,
+"question": 0.263,
+"offtopic": 0.158,
+"agree_of_opined": 0.636,
+"combined": 0.518,
+"drift": 0.947
+}
 },
 {
 "id": "2114730405895037346",
@@ -1047,7 +1999,20 @@
 "topic": "Safety / existential-risk disclosures",
 "method": "hand",
 "summary": "94 pages on existential risks incl. blackmail",
-"hi": true
+"hi": true,
+"replies": {
+"n": 25,
+"mean": -0.109,
+"wmean": -0.117,
+"delta": 0.383,
+"agree": 0.24,
+"disagree": 0.04,
+"question": 0.36,
+"offtopic": 0.36,
+"agree_of_opined": 0.857,
+"combined": -0.436,
+"drift": 0.6
+}
 },
 {
 "id": "2114710205510627771",
@@ -1061,7 +2026,20 @@
 "topic": "Safety / existential-risk disclosures",
 "method": "hand",
 "summary": "Filing: economic disruption greater than prior tech",
-"hi": true
+"hi": true,
+"replies": {
+"n": 6,
+"mean": -0.283,
+"wmean": -0.34,
+"delta": 0.06,
+"agree": 0.5,
+"disagree": 0.167,
+"question": 0.167,
+"offtopic": 0.167,
+"agree_of_opined": 0.75,
+"combined": -0.397,
+"drift": 0.667
+}
 },
 {
 "id": "2104781932450263118",
@@ -1075,7 +2053,10 @@
 "topic": "Safety / existential-risk disclosures",
 "method": "hand",
 "summary": "ja: mocks doom-laden prospectus",
-"hi": true
+"hi": true,
+"replies": {
+"n": 0
+}
 },
 {
 "id": "2114425767048405164",
@@ -1089,7 +2070,20 @@
 "topic": "IPO timing & market impact",
 "method": "hand",
 "summary": "2x Anthropic ETFs coming after IPO",
-"hi": true
+"hi": true,
+"replies": {
+"n": 23,
+"mean": -0.03,
+"wmean": -0.013,
+"delta": -0.113,
+"agree": 0.391,
+"disagree": 0.261,
+"question": 0.261,
+"offtopic": 0.087,
+"agree_of_opined": 0.6,
+"combined": 0.083,
+"drift": 0.522
+}
 },
 {
 "id": "2099560388463591826",
@@ -1103,7 +2097,20 @@
 "topic": "IPO timing & market impact",
 "method": "hand",
 "summary": "Visser doubts IPO happens at all, let alone $3T",
-"hi": true
+"hi": true,
+"replies": {
+"n": 9,
+"mean": -0.227,
+"wmean": -0.198,
+"delta": 0.402,
+"agree": 0.333,
+"disagree": 0.0,
+"question": 0.222,
+"offtopic": 0.444,
+"agree_of_opined": 1.0,
+"combined": -0.568,
+"drift": 0.889
+}
 },
 {
 "id": "2104723547293934069",
@@ -1117,7 +2124,20 @@
 "topic": "Compute deals & partners",
 "method": "hand",
 "summary": "Prospectus deep-dive: $518B cloud commitments, what actually matters",
-"hi": true
+"hi": true,
+"replies": {
+"n": 12,
+"mean": 0.113,
+"wmean": 0.071,
+"delta": -0.029,
+"agree": 0.333,
+"disagree": 0.083,
+"question": 0.25,
+"offtopic": 0.333,
+"agree_of_opined": 0.8,
+"combined": 0.096,
+"drift": 0.75
+}
 },
 {
 "id": "2101063328697311313",
@@ -1131,7 +2151,20 @@
 "topic": "IPO timing & market impact",
 "method": "hand",
 "summary": "IPO pushed to Nov; S-1s hard to make look good",
-"hi": true
+"hi": true,
+"replies": {
+"n": 5,
+"mean": 0.136,
+"wmean": 0.085,
+"delta": 0.685,
+"agree": 0.0,
+"disagree": 0.0,
+"question": 0.6,
+"offtopic": 0.4,
+"agree_of_opined": null,
+"combined": -0.543,
+"drift": 1.0
+}
 },
 {
 "id": "2098882310133186592",
@@ -1145,7 +2178,20 @@
 "topic": "Valuation & AI-bubble",
 "method": "hand",
 "summary": "$100B raise at $2T, Nvidia anchor",
-"hi": true
+"hi": true,
+"replies": {
+"n": 20,
+"mean": -0.119,
+"wmean": -0.092,
+"delta": -0.492,
+"agree": 0.15,
+"disagree": 0.15,
+"question": 0.5,
+"offtopic": 0.2,
+"agree_of_opined": 0.5,
+"combined": 0.317,
+"drift": 0.65
+}
 },
 {
 "id": "2106142186538750192",
@@ -1159,7 +2205,20 @@
 "topic": "IPO timing & market impact",
 "method": "hand",
 "summary": "Mid-Nov IPO targeted at up to $2T",
-"hi": true
+"hi": true,
+"replies": {
+"n": 14,
+"mean": -0.073,
+"wmean": -0.072,
+"delta": -0.272,
+"agree": 0.214,
+"disagree": 0.214,
+"question": 0.5,
+"offtopic": 0.071,
+"agree_of_opined": 0.5,
+"combined": 0.164,
+"drift": 1.0
+}
 },
 {
 "id": "2106049194502844901",
@@ -1173,7 +2232,20 @@
 "topic": "Safety / existential-risk disclosures",
 "method": "hand",
 "summary": "Prospectus: government attitudes may hurt customers",
-"hi": true
+"hi": true,
+"replies": {
+"n": 16,
+"mean": -0.254,
+"wmean": -0.239,
+"delta": 0.061,
+"agree": 0.625,
+"disagree": 0.0,
+"question": 0.188,
+"offtopic": 0.188,
+"agree_of_opined": 1.0,
+"combined": -0.293,
+"drift": 0.562
+}
 },
 {
 "id": "2114716832460632570",
@@ -1187,7 +2259,20 @@
 "topic": "IPO timing & market impact",
 "method": "hand",
 "summary": "ja: prospectus published, Nov Nasdaq listing, $1.5-2T",
-"hi": true
+"hi": true,
+"replies": {
+"n": 1,
+"mean": 0.0,
+"wmean": 0.0,
+"delta": -0.2,
+"agree": 0.0,
+"disagree": 0.0,
+"question": 1.0,
+"offtopic": 0.0,
+"agree_of_opined": null,
+"combined": 0.197,
+"drift": 1.0
+}
 },
 {
 "id": "2114727322653806691",
@@ -1201,7 +2286,20 @@
 "topic": "Valuation & AI-bubble",
 "method": "hand",
 "summary": "Pre-IPO perps sell off after S-1",
-"hi": true
+"hi": true,
+"replies": {
+"n": 23,
+"mean": -0.177,
+"wmean": -0.085,
+"delta": 0.315,
+"agree": 0.348,
+"disagree": 0.087,
+"question": 0.391,
+"offtopic": 0.174,
+"agree_of_opined": 0.8,
+"combined": -0.34,
+"drift": 0.826
+}
 },
 {
 "id": "2105569859384004786",
@@ -1215,7 +2313,20 @@
 "topic": "Valuation & AI-bubble",
 "method": "hand",
 "summary": "Tulip-mania comparison",
-"hi": true
+"hi": true,
+"replies": {
+"n": 18,
+"mean": -0.113,
+"wmean": -0.151,
+"delta": 0.649,
+"agree": 0.5,
+"disagree": 0.0,
+"question": 0.333,
+"offtopic": 0.167,
+"agree_of_opined": 1.0,
+"combined": -0.646,
+"drift": 0.944
+}
 },
 {
 "id": "2107346890648076595",
@@ -1229,7 +2340,20 @@
 "topic": "Compute deals & partners",
 "method": "hand",
 "summary": "80% of $518B compute owed even if idle",
-"hi": true
+"hi": true,
+"replies": {
+"n": 12,
+"mean": -0.142,
+"wmean": -0.189,
+"delta": 0.411,
+"agree": 0.333,
+"disagree": 0.083,
+"question": 0.333,
+"offtopic": 0.25,
+"agree_of_opined": 0.8,
+"combined": -0.544,
+"drift": 0.667
+}
 },
 {
 "id": "2106710224472346721",
@@ -1243,7 +2367,20 @@
 "topic": "Safety / existential-risk disclosures",
 "method": "hand",
 "summary": "ko: leaked prospectus, $2T plus doom warning",
-"hi": true
+"hi": true,
+"replies": {
+"n": 7,
+"mean": 0.0,
+"wmean": 0.0,
+"delta": 0.3,
+"agree": 0.0,
+"disagree": 0.0,
+"question": 0.143,
+"offtopic": 0.857,
+"agree_of_opined": null,
+"combined": -0.257,
+"drift": 0.857
+}
 },
 {
 "id": "2113623229944483893",
@@ -1257,7 +2394,20 @@
 "topic": "Safety / existential-risk disclosures",
 "method": "hand",
 "summary": "Alignment failure disclosures; 'let's see that S-1'",
-"hi": true
+"hi": true,
+"replies": {
+"n": 4,
+"mean": 0.0,
+"wmean": 0.0,
+"delta": 0.5,
+"agree": 0.0,
+"disagree": 0.0,
+"question": 0.75,
+"offtopic": 0.25,
+"agree_of_opined": null,
+"combined": -0.471,
+"drift": 0.75
+}
 },
 {
 "id": "2112628368449659281",
@@ -1271,7 +2421,20 @@
 "topic": "Losses, burn & financing",
 "method": "hand",
 "summary": "Draft: revenue ~15x, $80.7B loss",
-"hi": true
+"hi": true,
+"replies": {
+"n": 6,
+"mean": -0.113,
+"wmean": -0.198,
+"delta": -0.198,
+"agree": 0.333,
+"disagree": 0.167,
+"question": 0.5,
+"offtopic": 0.0,
+"agree_of_opined": 0.667,
+"combined": -0.019,
+"drift": 0.5
+}
 },
 {
 "id": "2104875654504436005",
@@ -1285,7 +2448,20 @@
 "topic": "Valuation & AI-bubble",
 "method": "hand",
 "summary": "$2T for company that lost $42B",
-"hi": true
+"hi": true,
+"replies": {
+"n": 3,
+"mean": -0.113,
+"wmean": -0.204,
+"delta": 0.596,
+"agree": 0.333,
+"disagree": 0.333,
+"question": 0.333,
+"offtopic": 0.0,
+"agree_of_opined": 0.5,
+"combined": -0.774,
+"drift": 1.0
+}
 },
 {
 "id": "2114713380011606331",
@@ -1299,7 +2475,20 @@
 "topic": "Safety / existential-risk disclosures",
 "method": "hand",
 "summary": "Filing warns of catastrophic/existential risks",
-"hi": true
+"hi": true,
+"replies": {
+"n": 7,
+"mean": 0.049,
+"wmean": 0.038,
+"delta": 0.538,
+"agree": 0.286,
+"disagree": 0.143,
+"question": 0.143,
+"offtopic": 0.429,
+"agree_of_opined": 0.667,
+"combined": -0.459,
+"drift": 0.429
+}
 },
 {
 "id": "2096005199949431001",
@@ -1313,7 +2502,20 @@
 "topic": "IPO timing & market impact",
 "method": "hand",
 "summary": "Prospectus public late Sept, marketing mid-Oct",
-"hi": true
+"hi": true,
+"replies": {
+"n": 5,
+"mean": 0.0,
+"wmean": 0.0,
+"delta": 0.0,
+"agree": 0.4,
+"disagree": 0.0,
+"question": 0.6,
+"offtopic": 0.0,
+"agree_of_opined": 1.0,
+"combined": 0.0,
+"drift": 1.0
+}
 },
 {
 "id": "2114706912939737592",
@@ -1327,7 +2529,20 @@
 "topic": "IPO timing & market impact",
 "method": "hand",
 "summary": "Files S-1, Nasdaq $ANT",
-"hi": true
+"hi": true,
+"replies": {
+"n": 14,
+"mean": -0.049,
+"wmean": -0.049,
+"delta": -0.049,
+"agree": 0.357,
+"disagree": 0.071,
+"question": 0.357,
+"offtopic": 0.214,
+"agree_of_opined": 0.833,
+"combined": -0.006,
+"drift": 1.0
+}
 },
 {
 "id": "2113971775751287276",
