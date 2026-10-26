@@ -37,5 +37,25 @@
     "2026-09-01",
     "2026-10-26"
   ],
-  "last_update_note": "seeded from research CSVs"
+  "last_update_note": "seeded from research CSVs",
+  "replies": {
+    "posts": 95,
+    "posts_with_replies": 93,
+    "raw": 1672,
+    "kept": 1527,
+    "dropped": {
+      "spam": 12,
+      "emoji_or_short": 45,
+      "link_only": 67,
+      "author_self": 21
+    },
+    "caveats": [
+      "Replies come from X recent/full-archive search for each conversation, ranked by relevance. The API returned at most ~25 replies per post in one page, so the target cap of 50 was rarely reached; long threads are under-sampled and biased toward replies X ranks highly.",
+      "Only direct and nested replies in the conversation are included. Quote posts were not collected (time/rate limits), so quote-tweet dunks — often the harshest pushback — are missing.",
+      "Spam/promo, self-replies by the original author, link-only and emoji-only/very short replies were dropped by simple rules; some bots surely remain.",
+      "Reply sentiment, stance and topic are keyword-scored (not hand-read). Sarcasm, non-English replies and memes are often misread; stance leans on cue words (\"exactly\", \"cope\", \"wrong\", \"?\") and on sentiment sign vs. the original.",
+      "For neutral news posts, \"agree\" means positive/approving replies and \"disagree\" means negative/skeptical replies, since there is no opinion to agree with.",
+      "Engagement weight = 1 + likes + reposts + replies + quotes of each reply. Combined conversation sentiment weights the original by its own interactions + 1."
+    ]
+  }
 }
