@@ -13,7 +13,7 @@ async function init(){
   $('#topic').innerHTML=TOPICS.map(t=>`<option>${t}</option>`).join('');
   const langs=Object.entries(ALL.reduce((a,p)=>(a[p.language]=(a[p.language]||0)+1,a),{})).sort((a,b)=>b[1]-a[1]);
   $('#lang').innerHTML=langs.map(([l,n])=>`<option value="${esc(l)}">${esc(l)} (${n})</option>`).join('');
-  $('#method-text').innerHTML=`<p>Posts were collected with read-only X searches (many keyword, account and language variants, sliced by day) from Sep 1 to Oct 26, 2026. Reposts and off-topic posts were removed.</p>
+  $('#method-text').innerHTML=`<p>Posts were collected with read-only X searches (many keyword, account and language variants, sliced by day) from Sep 1 to Oct 28, 2026. Reposts and off-topic posts were removed.</p>
    <p><b>Scoring:</b> ${META.counts.hand} posts (every post with 100+ interactions) were read and scored by hand. The other ${META.counts.keyword} were scored by simple keyword rules, which are coarse and pull toward neutral. Use the "Scoring method" filter to compare.</p>
    <p><b>Coverage:</b> ${esc(META.coverage)}</p><ul>${META.caveats.map(c=>`<li>${esc(c)}</li>`).join('')}</ul>
    ${META.last_update_note?`<p class="muted">Last refresh: ${esc(META.last_update_note)}</p>`:''}`;

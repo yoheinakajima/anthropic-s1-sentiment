@@ -26,28 +26,28 @@
     "Interaction counts are snapshots and grow over time; dates are UTC.",
     "Reposts and off-topic posts were excluded."
   ],
-  "last_updated": "2026-10-27T13:16:12+00:00",
+  "last_updated": "2026-10-28T13:15:52+00:00",
   "counts": {
-    "total": 1348,
-    "hi": 116,
-    "hand": 227,
-    "keyword": 1121
+    "total": 1691,
+    "hi": 146,
+    "hand": 256,
+    "keyword": 1435
   },
   "date_range": [
     "2026-09-01",
-    "2026-10-27"
+    "2026-10-28"
   ],
-  "last_update_note": "merged 19 raw file(s): +263 new, 171 refreshed",
+  "last_update_note": "merged 29 raw file(s): +343 new (336 via keyword pipeline + 7 hand-added), 751 refreshed; 29 posts hand-scored; replies refreshed for 30 new 100+ posts",
   "replies": {
-    "posts": 116,
-    "posts_with_replies": 114,
-    "raw": 2226,
-    "kept": 2120,
+    "posts": 146,
+    "posts_with_replies": 144,
+    "raw": 2798,
+    "kept": 2741,
     "dropped": {
-      "spam": 7,
-      "emoji_or_short": 50,
-      "link_only": 31,
-      "author_self": 18
+      "spam": 14,
+      "emoji_or_short": 19,
+      "link_only": 18,
+      "author_self": 6
     },
     "caveats": [
       "Replies come from X recent/full-archive search for each conversation, ranked by relevance. The API returned at most ~25 replies per post in one page, so the target cap of 50 was rarely reached; long threads are under-sampled and biased toward replies X ranks highly.",
