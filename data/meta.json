@@ -16,6 +16,10 @@
     {
       "date": "2026-10-26",
       "label": "Public S-1"
+    },
+    {
+      "date": "2026-10-30",
+      "label": "FT: Blackstone sees junk rating post-IPO"
     }
   ],
   "coverage": "X counted about 13,800 non-repost posts matching Anthropic + IPO/S-1/prospectus between Oct 19 and Oct 26 alone. This dataset is a relevance-ranked sample (perhaps 5-10% of total volume), far more complete for posts with real engagement than for low-engagement ones.",
@@ -26,28 +30,28 @@
     "Interaction counts are snapshots and grow over time; dates are UTC.",
     "Reposts and off-topic posts were excluded."
   ],
-  "last_updated": "2026-10-30T13:06:59+00:00",
+  "last_updated": "2026-10-31T13:12:39+00:00",
   "counts": {
-    "total": 2203,
-    "hi": 193,
-    "hand": 302,
-    "keyword": 1901
+    "total": 2659,
+    "hi": 216,
+    "hand": 325,
+    "keyword": 2334
   },
   "date_range": [
     "2026-09-01",
-    "2026-10-30"
+    "2026-10-31"
   ],
-  "last_update_note": "merged 23 new raw file(s) (+earlier files re-merged): +199 new via keyword pipeline, counts refreshed for 226 tracked posts; 11 posts hand-scored; replies fetched for 12 new 100+ conversations (193 raw replies)",
+  "last_update_note": "merged 40 new raw file(s) (+earlier files re-merged): +456 new via keyword pipeline, counts refreshed for 290 tracked posts; 23 posts hand-scored; replies fetched for 22 new 100+ conversations (430 raw replies)",
   "replies": {
-    "posts": 193,
-    "posts_with_replies": 186,
-    "raw": 3618,
-    "kept": 3406,
+    "posts": 216,
+    "posts_with_replies": 208,
+    "raw": 4143,
+    "kept": 3765,
     "dropped": {
-      "spam": 31,
-      "emoji_or_short": 78,
-      "link_only": 59,
-      "author_self": 44
+      "spam": 42,
+      "emoji_or_short": 127,
+      "link_only": 127,
+      "author_self": 82
     },
     "caveats": [
       "Replies come from X recent/full-archive search for each conversation, ranked by relevance. The API returned at most ~25 replies per post in one page, so the target cap of 50 was rarely reached; long threads are under-sampled and biased toward replies X ranks highly.",
