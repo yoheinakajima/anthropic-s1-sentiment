@@ -30,27 +30,27 @@
     "Interaction counts are snapshots and grow over time; dates are UTC.",
     "Reposts and off-topic posts were excluded."
   ],
-  "last_updated": "2026-11-01T14:10:05+00:00",
+  "last_updated": "2026-11-02T14:05:16+00:00",
   "counts": {
-    "total": 2961,
-    "hi": 229,
-    "hand": 338,
-    "keyword": 2623
+    "total": 3122,
+    "hi": 237,
+    "hand": 346,
+    "keyword": 2776
   },
   "date_range": [
     "2026-09-01",
-    "2026-11-01"
+    "2026-11-02"
   ],
-  "last_update_note": "merged 24 new raw file(s) (+earlier files re-merged): +299 new via keyword pipeline, +3 hand-added junk-rating headlines, counts refreshed for 165 tracked 100+ posts; 13 posts hand-scored",
+  "last_update_note": "merged 15 new raw file(s) (+earlier files re-merged): +161 new via keyword pipeline, counts refreshed for 272 tracked posts; 8 posts hand-scored",
   "replies": {
-    "posts": 229,
-    "posts_with_replies": 219,
-    "raw": 4191,
-    "kept": 3929,
+    "posts": 237,
+    "posts_with_replies": 226,
+    "raw": 4287,
+    "kept": 4016,
     "dropped": {
       "spam": 35,
-      "emoji_or_short": 103,
-      "link_only": 76,
+      "emoji_or_short": 109,
+      "link_only": 79,
       "author_self": 48
     },
     "caveats": [
