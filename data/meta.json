@@ -20,6 +20,10 @@
     {
       "date": "2026-10-30",
       "label": "FT: Blackstone sees junk rating post-IPO"
+    },
+    {
+      "date": "2026-11-02",
+      "label": "S-1/A: Q3 numbers + $895B commitments"
     }
   ],
   "coverage": "X counted about 13,800 non-repost posts matching Anthropic + IPO/S-1/prospectus between Oct 19 and Oct 26 alone. This dataset is a relevance-ranked sample (perhaps 5-10% of total volume), far more complete for posts with real engagement than for low-engagement ones.",
@@ -30,28 +34,28 @@
     "Interaction counts are snapshots and grow over time; dates are UTC.",
     "Reposts and off-topic posts were excluded."
   ],
-  "last_updated": "2026-11-02T14:05:16+00:00",
+  "last_updated": "2026-11-03T14:05:20+00:00",
   "counts": {
-    "total": 3122,
-    "hi": 237,
-    "hand": 346,
-    "keyword": 2776
+    "total": 3542,
+    "hi": 259,
+    "hand": 368,
+    "keyword": 3174
   },
   "date_range": [
     "2026-09-01",
-    "2026-11-02"
+    "2026-11-03"
   ],
-  "last_update_note": "merged 15 new raw file(s) (+earlier files re-merged): +161 new via keyword pipeline, counts refreshed for 272 tracked posts; 8 posts hand-scored",
+  "last_update_note": "merged 34 new raw file(s) (+earlier files re-merged): +420 new via keyword pipeline, counts refreshed for 287 tracked posts; 22 posts hand-scored",
   "replies": {
-    "posts": 237,
-    "posts_with_replies": 226,
-    "raw": 4287,
-    "kept": 4016,
+    "posts": 259,
+    "posts_with_replies": 247,
+    "raw": 4680,
+    "kept": 4382,
     "dropped": {
-      "spam": 35,
-      "emoji_or_short": 109,
-      "link_only": 79,
-      "author_self": 48
+      "spam": 37,
+      "emoji_or_short": 125,
+      "link_only": 84,
+      "author_self": 52
     },
     "caveats": [
       "Replies come from X recent/full-archive search for each conversation, ranked by relevance. The API returned at most ~25 replies per post in one page, so the target cap of 50 was rarely reached; long threads are under-sampled and biased toward replies X ranks highly.",
