@@ -34,28 +34,28 @@
     "Interaction counts are snapshots and grow over time; dates are UTC.",
     "Reposts and off-topic posts were excluded."
   ],
-  "last_updated": "2026-11-05T14:20:19+00:00",
+  "last_updated": "2026-11-06T14:35:23+00:00",
   "counts": {
-    "total": 4393,
-    "hi": 301,
-    "hand": 410,
-    "keyword": 3983
+    "total": 4761,
+    "hi": 318,
+    "hand": 427,
+    "keyword": 4334
   },
   "date_range": [
     "2026-09-01",
-    "2026-11-05"
+    "2026-11-06"
   ],
-  "last_update_note": "merged 55 new raw file(s) (+earlier files re-merged): +516 new via keyword pipeline, counts refreshed for tracked posts; 9 posts hand-scored; replies collected for 9 of 9 new 100+ posts (+backfill Damodaran/GaryMarcus/DarioCpx where available)",
+  "last_update_note": "Daily refresh 2026-11-06: +368 new posts via keyword pipeline; metrics refreshed for tracked hi posts; 17 new 100+ posts hand-scored (valuation cut $2T→~$1.2-1.3T / IPO odds & delay chatter); replies collected for 15 of 17 new hi posts (2 had no/few replies)",
   "replies": {
-    "posts": 301,
-    "posts_with_replies": 278,
-    "raw": 5159,
-    "kept": 4818,
+    "posts": 318,
+    "posts_with_replies": 293,
+    "raw": 5475,
+    "kept": 5103,
     "dropped": {
       "spam": 38,
-      "emoji_or_short": 147,
-      "link_only": 89,
-      "author_self": 67
+      "emoji_or_short": 162,
+      "link_only": 102,
+      "author_self": 70
     },
     "caveats": [
       "Replies come from X recent/full-archive search for each conversation, ranked by relevance. The API returned at most ~25 replies per post in one page, so the target cap of 50 was rarely reached; long threads are under-sampled and biased toward replies X ranks highly.",
