@@ -34,27 +34,27 @@
     "Interaction counts are snapshots and grow over time; dates are UTC.",
     "Reposts and off-topic posts were excluded."
   ],
-  "last_updated": "2026-11-08T14:08:12+00:00",
+  "last_updated": "2026-11-09T14:15:15+00:00",
   "counts": {
-    "total": 5247,
-    "hi": 348,
-    "hand": 457,
-    "keyword": 4790
+    "total": 5287,
+    "hi": 351,
+    "hand": 460,
+    "keyword": 4827
   },
   "date_range": [
     "2026-09-01",
-    "2026-11-08"
+    "2026-11-09"
   ],
-  "last_update_note": "Daily refresh 2026-11-08: +347 new posts via keyword pipeline; metrics refreshed for tracked hi posts; 5 new 100+ posts hand-scored ($3.4B gas-power deal; Finnish IPO demand joke; midterm data-center backlash; $1T poll); replies collected for 5 of 5 new hi posts",
+  "last_update_note": "merged 4 raw file(s): +40 new, 11 refreshed",
   "replies": {
-    "posts": 348,
-    "posts_with_replies": 323,
-    "raw": 6111,
-    "kept": 5703,
+    "posts": 351,
+    "posts_with_replies": 326,
+    "raw": 6160,
+    "kept": 5748,
     "dropped": {
-      "spam": 41,
-      "emoji_or_short": 177,
-      "link_only": 118,
+      "spam": 42,
+      "emoji_or_short": 179,
+      "link_only": 119,
       "author_self": 72
     },
     "caveats": [
