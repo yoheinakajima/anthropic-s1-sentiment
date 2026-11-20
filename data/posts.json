@@ -1,5 +1,32 @@
 [
 {
+"id": "2123454759118024840",
+"url": "https://x.com/KobeissiLetter/status/2123454759118024840",
+"handle": "KobeissiLetter",
+"date": "2026-11-19",
+"interactions": 22509,
+"views": 3533189,
+"language": "",
+"sentiment": 0.25,
+"topic": "Valuation & AI-bubble",
+"method": "hand",
+"summary": "BREAKING: The average Anthropic, $ANT, employee will be worth $44 million after today's IPO, based on current indicated share price: 1. 7 Co-Founders: ~$20+ billion each 2. Several early employees: $1",
+"hi": true,
+"replies": {
+"n": 17,
+"mean": -0.04,
+"wmean": -0.065,
+"delta": -0.315,
+"agree": 0.118,
+"disagree": 0.118,
+"question": 0.294,
+"offtopic": 0.471,
+"agree_of_opined": 0.5,
+"combined": 0.25,
+"drift": 1.0
+}
+},
+{
 "id": "2116228648978055455",
 "url": "https://x.com/KobeissiLetter/status/2116228648978055455",
 "handle": "KobeissiLetter",
@@ -24,6 +51,33 @@
 "agree_of_opined": 0.75,
 "combined": -0.499,
 "drift": 0.409
+}
+},
+{
+"id": "2123594507065450953",
+"url": "https://x.com/Polymarket/status/2123594507065450953",
+"handle": "Polymarket",
+"date": "2026-11-20",
+"interactions": 11575,
+"views": 862921,
+"language": "",
+"sentiment": 0.25,
+"topic": "Valuation & AI-bubble",
+"method": "hand",
+"summary": "JUST IN: Leopold Aschenbrenner’s $320M investment in Anthropic now worth roughly $9,000,000,000.00 after the IPO.",
+"hi": true,
+"replies": {
+"n": 25,
+"mean": 0.027,
+"wmean": 0.038,
+"delta": -0.212,
+"agree": 0.2,
+"disagree": 0.04,
+"question": 0.2,
+"offtopic": 0.56,
+"agree_of_opined": 0.833,
+"combined": 0.25,
+"drift": 1.0
 }
 },
 {
@@ -81,6 +135,87 @@
 }
 },
 {
+"id": "2123424189172601110",
+"url": "https://x.com/Polymarket/status/2123424189172601110",
+"handle": "Polymarket",
+"date": "2026-11-19",
+"interactions": 7028,
+"views": 357946,
+"language": "",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "BREAKING: Anthropic raises $107,300,000,000.00 before its Nasdaq debut, officially setting the record for the largest IPO in history.",
+"hi": true,
+"replies": {
+"n": 20,
+"mean": -0.051,
+"wmean": -0.159,
+"delta": -0.409,
+"agree": 0.1,
+"disagree": 0.1,
+"question": 0.4,
+"offtopic": 0.4,
+"agree_of_opined": 0.5,
+"combined": 0.247,
+"drift": 0.95
+}
+},
+{
+"id": "2123168870429274123",
+"url": "https://x.com/KobeissiLetter/status/2123168870429274123",
+"handle": "KobeissiLetter",
+"date": "2026-11-18",
+"interactions": 6558,
+"views": 798161,
+"language": "",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "BREAKING: Anthropic, $ANT, has priced its IPO at $83 per share, above its marketed range of $70 to $78, per Bloomberg. The company is now expected to raise at least $68 billion through its IPO, plus a",
+"hi": true,
+"replies": {
+"n": 24,
+"mean": -0.057,
+"wmean": -0.052,
+"delta": -0.302,
+"agree": 0.125,
+"disagree": 0.042,
+"question": 0.583,
+"offtopic": 0.25,
+"agree_of_opined": 0.75,
+"combined": 0.248,
+"drift": 0.875
+}
+},
+{
+"id": "2123754558279319884",
+"url": "https://x.com/KobeissiLetter/status/2123754558279319884",
+"handle": "KobeissiLetter",
+"date": "2026-11-20",
+"interactions": 6463,
+"views": 406986,
+"language": "",
+"sentiment": -0.5,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "BREAKING: Anthropic stock, $ANT, extends losses to -10% in premarket trading, now down -25% from its post-IPO high. The stock is now 5% away from its IPO price of $83/share.",
+"hi": true,
+"replies": {
+"n": 20,
+"mean": -0.085,
+"wmean": -0.113,
+"delta": 0.387,
+"agree": 0.3,
+"disagree": 0.1,
+"question": 0.4,
+"offtopic": 0.2,
+"agree_of_opined": 0.75,
+"combined": -0.499,
+"drift": 1.0
+}
+},
+{
 "id": "2114732281390657861",
 "url": "https://x.com/unusual_whales/status/2114732281390657861",
 "handle": "unusual_whales",
@@ -108,6 +243,33 @@
 }
 },
 {
+"id": "2123124579619267015",
+"url": "https://x.com/Polymarket/status/2123124579619267015",
+"handle": "Polymarket",
+"date": "2026-11-18",
+"interactions": 6137,
+"views": 124950,
+"language": "",
+"sentiment": -0.5,
+"topic": "Safety / existential-risk disclosures",
+"method": "hand",
+"summary": "BREAKING: Coalition of scientists, legal scholars, &amp; tech leaders warns “Anthropic is not a safe AI company” in an open statement ahead of its IPO.",
+"hi": true,
+"replies": {
+"n": 10,
+"mean": -0.102,
+"wmean": -0.093,
+"delta": 0.407,
+"agree": 0.2,
+"disagree": 0.0,
+"question": 0.5,
+"offtopic": 0.3,
+"agree_of_opined": 1.0,
+"combined": -0.499,
+"drift": 0.9
+}
+},
+{
 "id": "2115520189051855082",
 "url": "https://x.com/AswathDamodaran/status/2115520189051855082",
 "handle": "AswathDamodaran",
@@ -132,6 +294,33 @@
 "agree_of_opined": 0.667,
 "combined": -0.1,
 "drift": 0.783
+}
+},
+{
+"id": "2123430023986376719",
+"url": "https://x.com/Polymarket/status/2123430023986376719",
+"handle": "Polymarket",
+"date": "2026-11-19",
+"interactions": 5438,
+"views": 241870,
+"language": "",
+"sentiment": 0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "BREAKING: Anthropic CEO Dario Amodei rings the Nasdaq opening bell to mark the largest IPO in history.",
+"hi": true,
+"replies": {
+"n": 19,
+"mean": 0.036,
+"wmean": 0.032,
+"delta": 0.032,
+"agree": 0.158,
+"disagree": 0.158,
+"question": 0.579,
+"offtopic": 0.105,
+"agree_of_opined": 0.5,
+"combined": 0.0,
+"drift": 0.947
 }
 },
 {
@@ -223,6 +412,50 @@
 }
 },
 {
+"id": "2123075663456264438",
+"url": "https://x.com/KobeissiLetter/status/2123075663456264438",
+"handle": "KobeissiLetter",
+"date": "2026-11-18",
+"interactions": 4166,
+"views": 796237,
+"language": "",
+"sentiment": 0.5,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "BREAKING: Anthropic's IPO has now attracted nearly $500 billion in investor orders, per CNBC. Institutional demand has reached ~$400 billion, while retail orders are approaching $100 billion. The comp",
+"hi": true,
+"replies": {
+"n": 18,
+"mean": -0.001,
+"wmean": -0.001,
+"delta": -0.501,
+"agree": 0.333,
+"disagree": 0.222,
+"question": 0.167,
+"offtopic": 0.278,
+"agree_of_opined": 0.6,
+"combined": 0.498,
+"drift": 0.889
+}
+},
+{
+"id": "2123396042431385907",
+"url": "https://x.com/KobeissiLetter/status/2123396042431385907",
+"handle": "KobeissiLetter",
+"date": "2026-11-19",
+"interactions": 3828,
+"views": 434732,
+"language": "",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "BREAKING: Anthropic, $ANT, is expected to begin trading on the Nasdaq today at 10:00 AM ET, with shares being released for quotation at 9:50 AM ET. The IPO is expected to raise $81.3 billion, making i",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
 "id": "2116245250079342709",
 "url": "https://x.com/unusual_whales/status/2116245250079342709",
 "handle": "unusual_whales",
@@ -301,6 +534,50 @@
 "agree_of_opined": 0.5,
 "combined": -0.893,
 "drift": 0.737
+}
+},
+{
+"id": "2123462999839302085",
+"url": "https://x.com/KobeissiLetter/status/2123462999839302085",
+"handle": "KobeissiLetter",
+"date": "2026-11-19",
+"interactions": 3210,
+"views": 465089,
+"language": "",
+"sentiment": -0.5,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "BREAKING: The S&amp;P 500 falls over -230 points from its high of the day as the Anthropic, $ANT, IPO debuts and technology stocks sell off. The S&amp;P 500 is now trading below 7200 for the first tim",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
+"id": "2123452623089017103",
+"url": "https://x.com/KobeissiLetter/status/2123452623089017103",
+"handle": "KobeissiLetter",
+"date": "2026-11-19",
+"interactions": 3038,
+"views": 319043,
+"language": "",
+"sentiment": 0.5,
+"topic": "Valuation & AI-bubble",
+"method": "hand",
+"summary": "BREAKING: Anthropic, $ANT, is now indicated to open at $110/share, up +32.5% from its IPO price of $83/share. This implies a market cap of $1.44 trillion at the open. Shares are set to begin trading s",
+"hi": true,
+"replies": {
+"n": 22,
+"mean": -0.031,
+"wmean": -0.085,
+"delta": -0.585,
+"agree": 0.136,
+"disagree": 0.136,
+"question": 0.364,
+"offtopic": 0.364,
+"agree_of_opined": 0.5,
+"combined": 0.492,
+"drift": 0.818
 }
 },
 {
@@ -402,6 +679,33 @@
 }
 },
 {
+"id": "2123472754070733220",
+"url": "https://x.com/Polymarket/status/2123472754070733220",
+"handle": "Polymarket",
+"date": "2026-11-19",
+"interactions": 2675,
+"views": 82630,
+"language": "",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "JUST IN: Anthropic declares on IPO day that Claude could one day cure all allergies.",
+"hi": true,
+"replies": {
+"n": 22,
+"mean": -0.015,
+"wmean": -0.03,
+"delta": -0.28,
+"agree": 0.273,
+"disagree": 0.136,
+"question": 0.273,
+"offtopic": 0.318,
+"agree_of_opined": 0.667,
+"combined": 0.248,
+"drift": 0.909
+}
+},
+{
 "id": "2122760517530137043",
 "url": "https://x.com/kimmonismus/status/2122760517530137043",
 "handle": "kimmonismus",
@@ -419,20 +723,30 @@
 }
 },
 {
-"id": "2123396042431385907",
-"url": "https://x.com/KobeissiLetter/status/2123396042431385907",
+"id": "2123426312937210221",
+"url": "https://x.com/KobeissiLetter/status/2123426312937210221",
 "handle": "KobeissiLetter",
 "date": "2026-11-19",
-"interactions": 2598,
-"views": 230008,
+"interactions": 2552,
+"views": 252700,
 "language": "",
 "sentiment": 0.25,
 "topic": "IPO timing & market impact",
 "method": "hand",
-"summary": "BREAKING: Anthropic, $ANT, is expected to begin trading on the Nasdaq today at 10:00 AM ET, with shares being released for quotation at 9:50 AM ET. The IPO is expected to raise $81.3 billion, making i",
+"summary": "BREAKING: The Nasdaq 100 extends gains to +2% on the day as Nvidia, $NVDA, rises over +4% and traders await the Anthropic IPO.",
 "hi": true,
 "replies": {
-"n": 0
+"n": 8,
+"mean": 0.085,
+"wmean": 0.085,
+"delta": -0.165,
+"agree": 0.25,
+"disagree": 0.0,
+"question": 0.375,
+"offtopic": 0.375,
+"agree_of_opined": 1.0,
+"combined": 0.249,
+"drift": 1.0
 }
 },
 {
@@ -487,6 +801,60 @@
 "agree_of_opined": 0.833,
 "combined": -0.297,
 "drift": 0.522
+}
+},
+{
+"id": "2123465131501736418",
+"url": "https://x.com/KobeissiLetter/status/2123465131501736418",
+"handle": "KobeissiLetter",
+"date": "2026-11-19",
+"interactions": 2330,
+"views": 222892,
+"language": "",
+"sentiment": 0.5,
+"topic": "Valuation & AI-bubble",
+"method": "hand",
+"summary": "BREAKING: Anthropic, $ANT, officially begins trading on the Nasdaq and surges to $115/share, up +39% from its $83 IPO price. This officially pushes the company's fully diluted valuation above $2 trill",
+"hi": true,
+"replies": {
+"n": 24,
+"mean": -0.028,
+"wmean": -0.0,
+"delta": -0.5,
+"agree": 0.25,
+"disagree": 0.208,
+"question": 0.375,
+"offtopic": 0.167,
+"agree_of_opined": 0.545,
+"combined": 0.494,
+"drift": 0.667
+}
+},
+{
+"id": "2123425222217097502",
+"url": "https://x.com/zerohedge/status/2123425222217097502",
+"handle": "zerohedge",
+"date": "2026-11-19",
+"interactions": 2297,
+"views": 409530,
+"language": "en",
+"sentiment": -0.25,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "*ANTHROPIC IPO SAID TO GIVE NOTHING TO MOST INSTITUTIONAL BUYERS Retail will HODL, guaranteed.",
+"hi": true,
+"replies": {
+"n": 25,
+"mean": -0.108,
+"wmean": -0.11,
+"delta": 0.14,
+"agree": 0.24,
+"disagree": 0.0,
+"question": 0.48,
+"offtopic": 0.28,
+"agree_of_opined": 1.0,
+"combined": -0.247,
+"drift": 0.92
 }
 },
 {
@@ -615,6 +983,33 @@
 }
 },
 {
+"id": "2123433417240916259",
+"url": "https://x.com/zerohedge/status/2123433417240916259",
+"handle": "zerohedge",
+"date": "2026-11-19",
+"interactions": 2048,
+"views": 187400,
+"language": "en",
+"sentiment": 0,
+"topic": "Valuation & AI-bubble",
+"method": "hand",
+"summary": "Nvidia went public at 0.04% of ANT's valuation \"The difference is that those companies were worth a fraction of Anthropic's expected IPO valuation when they came to market — in Nvidia's case, just 0.0",
+"hi": true,
+"replies": {
+"n": 19,
+"mean": 0.0,
+"wmean": 0.0,
+"delta": 0.0,
+"agree": 0.263,
+"disagree": 0.053,
+"question": 0.474,
+"offtopic": 0.211,
+"agree_of_opined": 0.833,
+"combined": 0.0,
+"drift": 0.842
+}
+},
+{
 "id": "2114682374038389023",
 "url": "https://x.com/Kalshi/status/2114682374038389023",
 "handle": "Kalshi",
@@ -666,6 +1061,33 @@
 "agree_of_opined": 0.625,
 "combined": -0.394,
 "drift": 0.714
+}
+},
+{
+"id": "2123430514375946244",
+"url": "https://x.com/unusual_whales/status/2123430514375946244",
+"handle": "unusual_whales",
+"date": "2026-11-19",
+"interactions": 1969,
+"views": 661894,
+"language": "en",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "BREAKING: Anthropic shares are indicated to open at $99.60 in their Nasdaq debut, about 20% above the IPO price of $83, per Bloomberg If the stock opens there, Anthropic would be valued at about $1.8 ",
+"hi": true,
+"replies": {
+"n": 22,
+"mean": 0.0,
+"wmean": 0.0,
+"delta": -0.25,
+"agree": 0.273,
+"disagree": 0.091,
+"question": 0.409,
+"offtopic": 0.227,
+"agree_of_opined": 0.75,
+"combined": 0.247,
+"drift": 0.955
 }
 },
 {
@@ -848,6 +1270,60 @@
 }
 },
 {
+"id": "2123440662905245987",
+"url": "https://x.com/unusual_whales/status/2123440662905245987",
+"handle": "unusual_whales",
+"date": "2026-11-19",
+"interactions": 1783,
+"views": 387780,
+"language": "en",
+"sentiment": 0.25,
+"topic": "Valuation & AI-bubble",
+"method": "hand",
+"summary": "BREAKING: The average Anthropic $ANT employee could be worth more than $40 million after today’s IPO, per CNBC. Anthropic’s roughly 5,300 employees hold about $216 billion in stock options and restric",
+"hi": true,
+"replies": {
+"n": 24,
+"mean": 0.0,
+"wmean": 0.0,
+"delta": -0.25,
+"agree": 0.167,
+"disagree": 0.0,
+"question": 0.583,
+"offtopic": 0.25,
+"agree_of_opined": 1.0,
+"combined": 0.246,
+"drift": 1.0
+}
+},
+{
+"id": "2123076559774855564",
+"url": "https://x.com/unusual_whales/status/2123076559774855564",
+"handle": "unusual_whales",
+"date": "2026-11-18",
+"interactions": 1745,
+"views": 441305,
+"language": "en",
+"sentiment": 0.5,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "BREAKING: Anthropic's IPO has drawn nearly $500 billion in investor orders, per CNBC. Institutional orders reached about $400 billion after the books closed a day early, while retail orders are approa",
+"hi": true,
+"replies": {
+"n": 21,
+"mean": -0.032,
+"wmean": -0.039,
+"delta": -0.539,
+"agree": 0.238,
+"disagree": 0.048,
+"question": 0.333,
+"offtopic": 0.381,
+"agree_of_opined": 0.833,
+"combined": 0.492,
+"drift": 0.905
+}
+},
+{
 "id": "2112702202267807996",
 "url": "https://x.com/jun_song/status/2112702202267807996",
 "handle": "jun_song",
@@ -1000,6 +1476,33 @@
 }
 },
 {
+"id": "2123155864936665236",
+"url": "https://x.com/zerohedge/status/2123155864936665236",
+"handle": "zerohedge",
+"date": "2026-11-18",
+"interactions": 1577,
+"views": 142401,
+"language": "en",
+"sentiment": -0.25,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "*ANTHROPIC IS SAID TO BE WEIGHING IPO PRICE UP TO $85 PER SHARE so $70 on day two?",
+"hi": true,
+"replies": {
+"n": 22,
+"mean": -0.107,
+"wmean": -0.117,
+"delta": 0.133,
+"agree": 0.227,
+"disagree": 0.045,
+"question": 0.273,
+"offtopic": 0.455,
+"agree_of_opined": 0.833,
+"combined": -0.246,
+"drift": 0.955
+}
+},
+{
 "id": "2115249605046837662",
 "url": "https://x.com/DarioCpx/status/2115249605046837662",
 "handle": "DarioCpx",
@@ -1149,6 +1652,23 @@
 "agree_of_opined": 1.0,
 "combined": 0.099,
 "drift": 0.95
+}
+},
+{
+"id": "2123456600174219499",
+"url": "https://x.com/KobeissiLetter/status/2123456600174219499",
+"handle": "KobeissiLetter",
+"date": "2026-11-19",
+"interactions": 1478,
+"views": 222285,
+"language": "",
+"sentiment": 0.5,
+"topic": "Valuation & AI-bubble",
+"method": "hand",
+"summary": "BREAKING: Anthropic, $ANT, is now indicated to open at a $2 trillion market cap, up +33% from its IPO price. This would mark a +57% increase from the bottom end of its initial IPO pricing range announ",
+"hi": true,
+"replies": {
+"n": 0
 }
 },
 {
@@ -1547,6 +2067,23 @@
 }
 },
 {
+"id": "2123390079418921154",
+"url": "https://x.com/unusual_whales/status/2123390079418921154",
+"handle": "unusual_whales",
+"date": "2026-11-19",
+"interactions": 1220,
+"views": 170291,
+"language": "",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "Anthropic and its seven co-founders raised $107.3 billion through an $81.3 billion IPO and a $26 billion private placement. The IPO is the biggest of all time, topping the $75 billion raised by SpaceX",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
 "id": "2114719488226832791",
 "url": "https://x.com/BullTheoryio/status/2114719488226832791",
 "handle": "BullTheoryio",
@@ -1763,6 +2300,23 @@
 }
 },
 {
+"id": "2123459099505594451",
+"url": "https://x.com/KobeissiLetter/status/2123459099505594451",
+"handle": "KobeissiLetter",
+"date": "2026-11-19",
+"interactions": 1181,
+"views": 156832,
+"language": "",
+"sentiment": 0.5,
+"topic": "Valuation & AI-bubble",
+"method": "hand",
+"summary": "BREAKING: Anthropic, $ANT, officially begins trading on the Nasdaq and surges to $115/share, up +39% from its $83 IPO price. This officially pushes the company's market cap above $2 trillion, making i",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
 "id": "2120196536252440820",
 "url": "https://x.com/unusual_whales/status/2120196536252440820",
 "handle": "unusual_whales",
@@ -1952,6 +2506,23 @@
 }
 },
 {
+"id": "2123161153954099608",
+"url": "https://x.com/DeItaone/status/2123161153954099608",
+"handle": "DeItaone",
+"date": "2026-11-18",
+"interactions": 1124,
+"views": 221438,
+"language": "en",
+"sentiment": 0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "ANTHROPIC SAID TO PRICE IPO AT $83 PER SHARE",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
 "id": "2114707269355241559",
 "url": "https://x.com/zerohedge/status/2114707269355241559",
 "handle": "zerohedge",
@@ -2030,6 +2601,23 @@
 "agree_of_opined": 0.556,
 "combined": -0.297,
 "drift": 0.429
+}
+},
+{
+"id": "2123427269683134633",
+"url": "https://x.com/DeItaone/status/2123427269683134633",
+"handle": "DeItaone",
+"date": "2026-11-19",
+"interactions": 1100,
+"views": 303618,
+"language": "en",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "$ANT - ANTHROPIC IPO LEAVES OVER HALF OF INSTITUTIONAL INVESTORS EMPTY-HANDED Anthropic's record-breaking IPO left more than 50% of institutional bidders without shares, Bloomberg reports. Approximate",
+"hi": true,
+"replies": {
+"n": 0
 }
 },
 {
@@ -2141,6 +2729,23 @@
 }
 },
 {
+"id": "2123458846597513307",
+"url": "https://x.com/zerohedge/status/2123458846597513307",
+"handle": "zerohedge",
+"date": "2026-11-19",
+"interactions": 1040,
+"views": 168290,
+"language": "en",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "*ANTHROPIC OPENS 34% ABOVE IPO PRICE AFTER RAISING $107 BILLION",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
 "id": "2117262613239288317",
 "url": "https://x.com/DeItaone/status/2117262613239288317",
 "handle": "DeItaone",
@@ -2165,6 +2770,23 @@
 "agree_of_opined": 1.0,
 "combined": 0.299,
 "drift": 1.0
+}
+},
+{
+"id": "2123280337820348539",
+"url": "https://x.com/unusual_whales/status/2123280337820348539",
+"handle": "unusual_whales",
+"date": "2026-11-19",
+"interactions": 1030,
+"views": 195789,
+"language": "en",
+"sentiment": 0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "NEWS: Anthropic has priced their IPO at $83 per share, with trading expected to begin on Nasdaq tomorrow.",
+"hi": true,
+"replies": {
+"n": 0
 }
 },
 {
@@ -2236,6 +2858,23 @@
 "agree_of_opined": null,
 "combined": -0.196,
 "drift": 0.571
+}
+},
+{
+"id": "2123073467167760409",
+"url": "https://x.com/DeItaone/status/2123073467167760409",
+"handle": "DeItaone",
+"date": "2026-11-18",
+"interactions": 999,
+"views": 260838,
+"language": "en",
+"sentiment": 0.5,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "$ANT - ANTHROPIC IPO DRAWS NEARLY $500 BILLION IN ORDERS AS DEMAND EXPLODES Anthropic is considering expanding its IPO and pricing shares well above $80, CNBC reports. Institutional demand has reporte",
+"hi": true,
+"replies": {
+"n": 0
 }
 },
 {
@@ -2344,6 +2983,57 @@
 "agree_of_opined": 0.75,
 "combined": -0.834,
 "drift": 0.936
+}
+},
+{
+"id": "2123429019865563609",
+"url": "https://x.com/zerohedge/status/2123429019865563609",
+"handle": "zerohedge",
+"date": "2026-11-19",
+"interactions": 963,
+"views": 132500,
+"language": "en",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "ANTHROPIC SHARES INDICATED TO OPEN AT $100 VS IPO PRICE OF $83 PER SHARE",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
+"id": "2123394016414777659",
+"url": "https://x.com/unusual_whales/status/2123394016414777659",
+"handle": "unusual_whales",
+"date": "2026-11-19",
+"interactions": 954,
+"views": 187142,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "BREAKING: Anthropic is set to begin trading on Nasdaq at about 10 a.m. ET today. Nasdaq's IPO notice says shares will be released for quotation at 9:50 a.m. ET, with trading expected to begin around 1",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
+"id": "2123560129488392537",
+"url": "https://x.com/Polymarket/status/2123560129488392537",
+"handle": "Polymarket",
+"date": "2026-11-19",
+"interactions": 953,
+"views": 61427,
+"language": "",
+"sentiment": 0.5,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "JUST IN: NBA player Tristan Thompson reveals he invested in Anthropic before its record-breaking IPO &amp; remains “extremely bullish” with no plans to sell.",
+"hi": true,
+"replies": {
+"n": 0
 }
 },
 {
@@ -2509,6 +3199,23 @@
 }
 },
 {
+"id": "2123460440525332560",
+"url": "https://x.com/Polymarket/status/2123460440525332560",
+"handle": "Polymarket",
+"date": "2026-11-19",
+"interactions": 921,
+"views": 59923,
+"language": "",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "BREAKING: Anthropic officially opens at $111.50 in its Nasdaq debut, up +34.3% from its $83 IPO price.",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
 "id": "2114892356260626705",
 "url": "https://x.com/nodiligence/status/2114892356260626705",
 "handle": "nodiligence",
@@ -2533,6 +3240,23 @@
 "agree_of_opined": 0.5,
 "combined": -0.381,
 "drift": 1.0
+}
+},
+{
+"id": "2123425385157120258",
+"url": "https://x.com/DeItaone/status/2123425385157120258",
+"handle": "DeItaone",
+"date": "2026-11-19",
+"interactions": 914,
+"views": 213661,
+"language": "en",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "*ANTHROPIC IPO SAID TO GIVE NOTHING TO MOST INSTITUTIONAL BUYERS",
+"hi": true,
+"replies": {
+"n": 0
 }
 },
 {
@@ -2968,6 +3692,23 @@
 }
 },
 {
+"id": "2123446070491648120",
+"url": "https://x.com/Polymarket/status/2123446070491648120",
+"handle": "Polymarket",
+"date": "2026-11-19",
+"interactions": 841,
+"views": 55905,
+"language": "",
+"sentiment": -0.25,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "BREAKING: Anthropic heads into its record-breaking IPO with just an 11% chance of having the best AI model at year-end, trailing Google. 🔗",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
 "id": "2122505799406903524",
 "url": "https://x.com/DarioCpx/status/2122505799406903524",
 "handle": "DarioCpx",
@@ -3137,6 +3878,23 @@
 }
 },
 {
+"id": "2123197348440351092",
+"url": "https://x.com/zerohedge/status/2123197348440351092",
+"handle": "zerohedge",
+"date": "2026-11-18",
+"interactions": 787,
+"views": 126855,
+"language": "en",
+"sentiment": 0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "*ANTHROPIC PRICES IPO AT $83 PER SHARE, ABOVE RANGE *ANTHROPIC UPSIZED IPO TO 980M SHARES *ANTHROPIC: 956M SHARES SOLD BY ANTHROPIC, 23.6M BY HOLDERS",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
 "id": "2119968503880884493",
 "url": "https://x.com/zerohedge/status/2119968503880884493",
 "handle": "zerohedge",
@@ -3161,6 +3919,23 @@
 "agree_of_opined": 0.833,
 "combined": 0.097,
 "drift": 0.875
+}
+},
+{
+"id": "2123161421391233352",
+"url": "https://x.com/zerohedge/status/2123161421391233352",
+"handle": "zerohedge",
+"date": "2026-11-18",
+"interactions": 776,
+"views": 126210,
+"language": "",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "*ANTHROPIC IS SAID TO PRICE IPO AT $83 PER SHARE *ANTHROPIC IS SAID TO INCREASE THE SIZE OF ITS IPO",
+"hi": true,
+"replies": {
+"n": 0
 }
 },
 {
@@ -3242,6 +4017,23 @@
 "agree_of_opined": null,
 "combined": 0.0,
 "drift": 1.0
+}
+},
+{
+"id": "2123452187506315344",
+"url": "https://x.com/zerohedge/status/2123452187506315344",
+"handle": "zerohedge",
+"date": "2026-11-19",
+"interactions": 767,
+"views": 119425,
+"language": "en",
+"sentiment": 0.25,
+"topic": "Valuation & AI-bubble",
+"method": "hand",
+"summary": "*ANTHROPIC SHARES INDICATED TO OPEN AT $110 EACH, IPO PRICE $83 Market cap would surpass $2TN",
+"hi": true,
+"replies": {
+"n": 0
 }
 },
 {
@@ -3512,17 +4304,34 @@
 }
 },
 {
-"id": "2123390079418921154",
-"url": "https://x.com/unusual_whales/status/2123390079418921154",
-"handle": "unusual_whales",
+"id": "2123607720330756395",
+"url": "https://x.com/DeItaone/status/2123607720330756395",
+"handle": "DeItaone",
+"date": "2026-11-20",
+"interactions": 720,
+"views": 171266,
+"language": "en",
+"sentiment": -0.5,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "$ANT - JAPAN’S NIKKEI PLUNGES NEARLY 5% AS ANTHROPIC IPO FAILS TO REVIVE AI CONFIDENCE Japan’s Nikkei plunged as much as 4.85%, hitting a seven-month low, as technology stocks suffered heavy selling. ",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
+"id": "2123428689903780071",
+"url": "https://x.com/DeItaone/status/2123428689903780071",
+"handle": "DeItaone",
 "date": "2026-11-19",
-"interactions": 722,
-"views": 111131,
-"language": "",
+"interactions": 719,
+"views": 173832,
+"language": "en",
 "sentiment": 0.25,
 "topic": "IPO timing & market impact",
 "method": "hand",
-"summary": "Anthropic and its seven co-founders raised $107.3 billion through an $81.3 billion IPO and a $26 billion private placement. The IPO is the biggest of all time, topping the $75 billion raised by SpaceX",
+"summary": "$ANT - ANTHROPIC SHARES INDICATED TO OPEN AT $99.60 IN NASDAQ DEBUT VS IPO PRICE OF $83 PER SHARE",
 "hi": true,
 "replies": {
 "n": 0
@@ -3553,6 +4362,33 @@
 "agree_of_opined": 0.6,
 "combined": 0.291,
 "drift": 0.944
+}
+},
+{
+"id": "2123379714890842539",
+"url": "https://x.com/DeItaone/status/2123379714890842539",
+"handle": "DeItaone",
+"date": "2026-11-19",
+"interactions": 711,
+"views": 188508,
+"language": "",
+"sentiment": 0.75,
+"topic": "Valuation & AI-bubble",
+"method": "hand",
+"summary": "$ANT - WALL STREET TURNS BULLISH ON ANTHROPIC WITH PRICE TARGETS UP TO $155 Four Wall Street firms initiated bullish coverage following Anthropic's $83-per-share IPO pricing, projecting substantial up",
+"hi": true,
+"replies": {
+"n": 23,
+"mean": 0.044,
+"wmean": 0.033,
+"delta": -0.717,
+"agree": 0.261,
+"disagree": 0.043,
+"question": 0.304,
+"offtopic": 0.391,
+"agree_of_opined": 0.857,
+"combined": 0.72,
+"drift": 0.913
 }
 },
 {
@@ -3742,23 +4578,6 @@
 "agree_of_opined": 0.0,
 "combined": 0.396,
 "drift": 1.0
-}
-},
-{
-"id": "2123394016414777659",
-"url": "https://x.com/unusual_whales/status/2123394016414777659",
-"handle": "unusual_whales",
-"date": "2026-11-19",
-"interactions": 679,
-"views": 123829,
-"language": "",
-"sentiment": 0.0,
-"topic": "IPO timing & market impact",
-"method": "hand",
-"summary": "BREAKING: Anthropic is set to begin trading on Nasdaq at about 10 a.m. ET today. Nasdaq's IPO notice says shares will be released for quotation at 9:50 a.m. ET, with trading expected to begin around 1",
-"hi": true,
-"replies": {
-"n": 0
 }
 },
 {
@@ -3995,30 +4814,20 @@
 }
 },
 {
-"id": "2123379714890842539",
-"url": "https://x.com/DeItaone/status/2123379714890842539",
-"handle": "DeItaone",
+"id": "2123459868334104811",
+"url": "https://x.com/unusual_whales/status/2123459868334104811",
+"handle": "unusual_whales",
 "date": "2026-11-19",
-"interactions": 636,
-"views": 125709,
-"language": "",
-"sentiment": 0.75,
-"topic": "Valuation & AI-bubble",
+"interactions": 638,
+"views": 157419,
+"language": "en",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
 "method": "hand",
-"summary": "$ANT - WALL STREET TURNS BULLISH ON ANTHROPIC WITH PRICE TARGETS UP TO $155 Four Wall Street firms initiated bullish coverage following Anthropic's $83-per-share IPO pricing, projecting substantial up",
+"summary": "BREAKING: Anthropic shares opened at $111.50 in their Nasdaq debut, up about 34% from the IPO price of $83. The opening price values Anthropic at roughly $2 trillion.",
 "hi": true,
 "replies": {
-"n": 23,
-"mean": 0.044,
-"wmean": 0.033,
-"delta": -0.717,
-"agree": 0.261,
-"disagree": 0.043,
-"question": 0.304,
-"offtopic": 0.391,
-"agree_of_opined": 0.857,
-"combined": 0.717,
-"drift": 0.913
+"n": 0
 }
 },
 {
@@ -4046,6 +4855,23 @@
 "agree_of_opined": 1.0,
 "combined": 0.099,
 "drift": 1.0
+}
+},
+{
+"id": "2123388213116944750",
+"url": "https://x.com/DeItaone/status/2123388213116944750",
+"handle": "DeItaone",
+"date": "2026-11-19",
+"interactions": 621,
+"views": 160951,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "$ANT - ANTHROPIC IPO TO BE RELEASED FOR QUOTATION AT 9:50AM ET",
+"hi": true,
+"replies": {
+"n": 0
 }
 },
 {
@@ -4100,6 +4926,23 @@
 "agree_of_opined": 0.875,
 "combined": 0.099,
 "drift": 0.8
+}
+},
+{
+"id": "2123246331976139084",
+"url": "https://x.com/StockMKTNewz/status/2123246331976139084",
+"handle": "StockMKTNewz",
+"date": "2026-11-19",
+"interactions": 614,
+"views": 83806,
+"language": "",
+"sentiment": 0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "Tell me what you think of the Anthropic $ANT IPO using just 1 word",
+"hi": true,
+"replies": {
+"n": 0
 }
 },
 {
@@ -4289,6 +5132,23 @@
 "agree_of_opined": 0.889,
 "combined": -0.287,
 "drift": 0.409
+}
+},
+{
+"id": "2123058161582240140",
+"url": "https://x.com/damiparta/status/2123058161582240140",
+"handle": "damiparta",
+"date": "2026-11-18",
+"interactions": 589,
+"views": 45588,
+"language": "es",
+"sentiment": -0.5,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "conversación que acaba de suceder: -necesito que salga ya el IPO de anthropic así voy short -por qué irías short? pasás literalmente 5 horas al día en claude y ya no podés ni mandar un mail en inglés ",
+"hi": true,
+"replies": {
+"n": 0
 }
 },
 {
@@ -4559,6 +5419,23 @@
 }
 },
 {
+"id": "2123389170240332142",
+"url": "https://x.com/DeItaone/status/2123389170240332142",
+"handle": "DeItaone",
+"date": "2026-11-19",
+"interactions": 542,
+"views": 164854,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "$ANT - ANTHROPIC IPO SET TO BEGIN NASDAQ TRADING AT APPROXIMATELY 10:00 A.M. ET Nasdaq has issued an IPO notice confirming that Anthropic shares are scheduled to be released for quotation at 9:50 a.m.",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
 "id": "2120187361711780238",
 "url": "https://x.com/StockMKTNewz/status/2120187361711780238",
 "handle": "StockMKTNewz",
@@ -4640,6 +5517,23 @@
 }
 },
 {
+"id": "2123450000592060741",
+"url": "https://x.com/zerohedge/status/2123450000592060741",
+"handle": "zerohedge",
+"date": "2026-11-19",
+"interactions": 531,
+"views": 108053,
+"language": "en",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "*ANTHROPIC SHARES INDICATED TO OPEN 30% ABOVE IPO PRICE IN DEBUT",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
 "id": "2121298717861187639",
 "url": "https://x.com/wallstengine/status/2121298717861187639",
 "handle": "wallstengine",
@@ -4664,23 +5558,6 @@
 "agree_of_opined": 1.0,
 "combined": 0.236,
 "drift": 1.0
-}
-},
-{
-"id": "2123388213116944750",
-"url": "https://x.com/DeItaone/status/2123388213116944750",
-"handle": "DeItaone",
-"date": "2026-11-19",
-"interactions": 524,
-"views": 114822,
-"language": "",
-"sentiment": 0.0,
-"topic": "IPO timing & market impact",
-"method": "hand",
-"summary": "$ANT - ANTHROPIC IPO TO BE RELEASED FOR QUOTATION AT 9:50AM ET",
-"hi": true,
-"replies": {
-"n": 0
 }
 },
 {
@@ -4762,6 +5639,23 @@
 "agree_of_opined": 0.875,
 "combined": -0.086,
 "drift": 0.958
+}
+},
+{
+"id": "2123447072913236065",
+"url": "https://x.com/DeItaone/status/2123447072913236065",
+"handle": "DeItaone",
+"date": "2026-11-19",
+"interactions": 504,
+"views": 159937,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "ANTHROPIC SHARES INDICATED TO OPEN AT $106 IN NASDAQ DEBUT VS IPO PRICE OF $83 PER SHARE",
+"hi": true,
+"replies": {
+"n": 0
 }
 },
 {
@@ -4995,6 +5889,23 @@
 }
 },
 {
+"id": "2123458452978594257",
+"url": "https://x.com/DeItaone/status/2123458452978594257",
+"handle": "DeItaone",
+"date": "2026-11-19",
+"interactions": 487,
+"views": 152855,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "$ANT - ANTHROPIC SHARES OPEN AT $111.5 IN DEBUT VS IPO PRICE OF $83 PER SHARE",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
 "id": "2115337887940059413",
 "url": "https://x.com/Cointelegraph/status/2115337887940059413",
 "handle": "Cointelegraph",
@@ -5181,6 +6092,67 @@
 }
 },
 {
+"id": "2123526550431670394",
+"url": "https://x.com/DeItaone/status/2123526550431670394",
+"handle": "DeItaone",
+"date": "2026-11-19",
+"interactions": 466,
+"views": 151314,
+"language": "en",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "ANTHROPIC ($ANT) CLOSES FIRST TRADING DAY AT $97.17, UP OVER 17% FROM IPO PRICE",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
+"id": "2123161563926577477",
+"url": "https://x.com/StockMKTNewz/status/2123161563926577477",
+"handle": "StockMKTNewz",
+"date": "2026-11-18",
+"interactions": 466,
+"views": 57821,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "ANTHROPIC $ANT IS REPORTEDLY PRICING ITS IPO AT $83 PER SHARE",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
+"id": "2123395112613114207",
+"url": "https://x.com/unusual_whales/status/2123395112613114207",
+"handle": "unusual_whales",
+"date": "2026-11-19",
+"interactions": 463,
+"views": 166228,
+"language": "",
+"sentiment": 0.75,
+"topic": "Revenue growth & profitability",
+"method": "hand",
+"summary": "BREAKING: Wall Street analysts are bullish on Anthropic after its $83 IPO pricing, with price targets up to $155. Citizens: Market Outperform, $125 (+51%) Wolfe Research: Outperform, $135 (+63%) Needh",
+"hi": true,
+"replies": {
+"n": 25,
+"mean": 0.081,
+"wmean": 0.072,
+"delta": -0.678,
+"agree": 0.28,
+"disagree": 0.12,
+"question": 0.2,
+"offtopic": 0.4,
+"agree_of_opined": 0.7,
+"combined": 0.711,
+"drift": 0.76
+}
+},
+{
 "id": "2118737723905454369",
 "url": "https://x.com/zerohedge/status/2118737723905454369",
 "handle": "zerohedge",
@@ -5232,6 +6204,23 @@
 "agree_of_opined": 0.8,
 "combined": 0.171,
 "drift": 0.636
+}
+},
+{
+"id": "2123752467464589645",
+"url": "https://x.com/unusual_whales/status/2123752467464589645",
+"handle": "unusual_whales",
+"date": "2026-11-20",
+"interactions": 457,
+"views": 105833,
+"language": "en",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "Anthropic, $ANT, is now the 7th most valuable company in the world, by marketcap. It raised $81.3 billion in its IPO",
+"hi": true,
+"replies": {
+"n": 0
 }
 },
 {
@@ -5343,17 +6332,17 @@
 }
 },
 {
-"id": "2123389170240332142",
-"url": "https://x.com/DeItaone/status/2123389170240332142",
-"handle": "DeItaone",
+"id": "2123428066835718325",
+"url": "https://x.com/StockMKTNewz/status/2123428066835718325",
+"handle": "StockMKTNewz",
 "date": "2026-11-19",
-"interactions": 446,
-"views": 114930,
+"interactions": 447,
+"views": 65139,
 "language": "",
 "sentiment": 0.0,
 "topic": "IPO timing & market impact",
 "method": "hand",
-"summary": "$ANT - ANTHROPIC IPO SET TO BEGIN NASDAQ TRADING AT APPROXIMATELY 10:00 A.M. ET Nasdaq has issued an IPO notice confirming that Anthropic shares are scheduled to be released for quotation at 9:50 a.m.",
+"summary": "ANTHROPIC $ANT GAVE 15% OF THE IPO SHARES TO RETAIL INVESTORS ANTHROPIC IPO LEAVES OVER HALF OF INSTITUTIONAL INVESTORS WITHOUT SHARES",
 "hi": true,
 "replies": {
 "n": 0
@@ -5411,6 +6400,23 @@
 "agree_of_opined": 0.5,
 "combined": -0.192,
 "drift": 1.0
+}
+},
+{
+"id": "2123099773574230259",
+"url": "https://x.com/Polymarket/status/2123099773574230259",
+"handle": "Polymarket",
+"date": "2026-11-18",
+"interactions": 436,
+"views": 53888,
+"language": "",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "JUST IN: SoftBank founder Masayoshi Son calls passing on an early investment in Anthropic “one of my mistakes” as the company prepares for a potentially record-breaking IPO.",
+"hi": true,
+"replies": {
+"n": 0
 }
 },
 {
@@ -5539,6 +6545,23 @@
 }
 },
 {
+"id": "2123449218907914622",
+"url": "https://x.com/unusual_whales/status/2123449218907914622",
+"handle": "unusual_whales",
+"date": "2026-11-19",
+"interactions": 429,
+"views": 156717,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "BREAKING: Anthropic shares are now indicated to open at $106 in their Nasdaq debut, about 28% above the IPO price of $83, per Bloomberg. That’s up from an earlier indication of $99.60. The stock trade",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
 "id": "2120502845359145207",
 "url": "https://x.com/DeItaone/status/2120502845359145207",
 "handle": "DeItaone",
@@ -5563,6 +6586,23 @@
 "agree_of_opined": 0.75,
 "combined": 0.48,
 "drift": 0.778
+}
+},
+{
+"id": "2123427980386988358",
+"url": "https://x.com/DeItaone/status/2123427980386988358",
+"handle": "DeItaone",
+"date": "2026-11-19",
+"interactions": 422,
+"views": 161735,
+"language": "en",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "$ANT - ANTHROPIC ALLOCATES 15% OF RECORD IPO TO RETAIL INVESTORS Anthropic allocated approximately 15% of its $80 billion public offering to retail investors, according to people familiar with the dea",
+"hi": true,
+"replies": {
+"n": 0
 }
 },
 {
@@ -5870,6 +6910,23 @@
 }
 },
 {
+"id": "2123452151242629556",
+"url": "https://x.com/DeItaone/status/2123452151242629556",
+"handle": "DeItaone",
+"date": "2026-11-19",
+"interactions": 408,
+"views": 152174,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "ANTHROPIC SHARES INDICATED TO OPEN AT $110 IN NASDAQ DEBUT VS IPO PRICE OF $83 PER SHARE",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
 "id": "2119744643201909148",
 "url": "https://x.com/moltgem/status/2119744643201909148",
 "handle": "moltgem",
@@ -5914,6 +6971,23 @@
 }
 },
 {
+"id": "2123457558719644036",
+"url": "https://x.com/unusual_whales/status/2123457558719644036",
+"handle": "unusual_whales",
+"date": "2026-11-19",
+"interactions": 401,
+"views": 173530,
+"language": "en",
+"sentiment": 0.0,
+"topic": "Valuation & AI-bubble",
+"method": "hand",
+"summary": "BREAKING: Anthropic shares are now indicated to open at $110 in their Nasdaq debut, about 33% above the IPO price of $83, putting the company on track for a valuation of roughly $2 trillion, per Bloom",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
 "id": "2123048969341444321",
 "url": "https://x.com/zerohedge/status/2123048969341444321",
 "handle": "zerohedge",
@@ -5925,6 +6999,23 @@
 "topic": "IPO timing & market impact",
 "method": "hand",
 "summary": "*ANTHROPIC IS SAID TO GUIDE IPO PRICING ABOVE MARKETED RANGE same headline for the 3rd day in a row. We get it",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
+"id": "2123074106631270715",
+"url": "https://x.com/StockMKTNewz/status/2123074106631270715",
+"handle": "StockMKTNewz",
+"date": "2026-11-18",
+"interactions": 397,
+"views": 53288,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "ANTHROPIC $ANT'S IPO HAS REPORTEDLY DRAWN NEARLY $500B IN ORDERS Institutional demand has reached about $400B, with retail orders approaching $100B, per CNBC. Those orders are nonbinding. Anthropic is",
 "hi": true,
 "replies": {
 "n": 0
@@ -6009,6 +7100,23 @@
 "agree_of_opined": 0.545,
 "combined": -0.379,
 "drift": 0.32
+}
+},
+{
+"id": "2123465110853169296",
+"url": "https://x.com/CNBC/status/2123465110853169296",
+"handle": "CNBC",
+"date": "2026-11-19",
+"interactions": 394,
+"views": 48005,
+"language": "en",
+"sentiment": 0.0,
+"topic": "Valuation & AI-bubble",
+"method": "hand",
+"summary": "The average Anthropic employee could be worth over $40 million after the company’s IPO today, with over 400 employees likely to be worth over $100 million, according to SEC filings and investors. At a",
+"hi": true,
+"replies": {
+"n": 0
 }
 },
 {
@@ -6272,6 +7380,23 @@
 }
 },
 {
+"id": "2123081228244897857",
+"url": "https://x.com/DeItaone/status/2123081228244897857",
+"handle": "DeItaone",
+"date": "2026-11-18",
+"interactions": 371,
+"views": 163114,
+"language": "en",
+"sentiment": -0.25,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "OPENAI CEO SAM ALTMAN REAFFIRMS IPO PLANS AS ANTHROPIC PREPARES TO GO PUBLIC OpenAI CEO Sam Altman confirmed the company expects to go public “at some point”, but offered no timeline during the New Yo",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
 "id": "2117904101916774653",
 "url": "https://x.com/DefiStark/status/2117904101916774653",
 "handle": "DefiStark",
@@ -6401,6 +7526,23 @@
 "agree_of_opined": 0.5,
 "combined": 0.086,
 "drift": 0.5
+}
+},
+{
+"id": "2123165198852956403",
+"url": "https://x.com/CNBC/status/2123165198852956403",
+"handle": "CNBC",
+"date": "2026-11-18",
+"interactions": 354,
+"views": 104227,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "BREAKING: Anthropic prices IPO at $83 per share, above expected range, source tells CNBC",
+"hi": true,
+"replies": {
+"n": 0
 }
 },
 {
@@ -6661,6 +7803,23 @@
 "agree_of_opined": 0.333,
 "combined": 0.091,
 "drift": 0.706
+}
+},
+{
+"id": "2123440051140874411",
+"url": "https://x.com/StockMKTNewz/status/2123440051140874411",
+"handle": "StockMKTNewz",
+"date": "2026-11-19",
+"interactions": 343,
+"views": 48305,
+"language": "",
+"sentiment": 0.0,
+"topic": "Losses, burn & financing",
+"method": "hand",
+"summary": "Anthropic $ANT now has $232 Billion of cash and short term investments following its IPO today",
+"hi": true,
+"replies": {
+"n": 0
 }
 },
 {
@@ -7049,6 +8208,23 @@
 }
 },
 {
+"id": "2123414504218177954",
+"url": "https://x.com/TheStalwart/status/2123414504218177954",
+"handle": "TheStalwart",
+"date": "2026-11-19",
+"interactions": 329,
+"views": 52397,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "Gonna be a very interesting market test here. IPO priced at $83, but Anthropic tokens on Hyperliquid are priced around $103, implying a nice pop on the open. Let's see how accurate this trading is. As",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
 "id": "2122682973736571214",
 "url": "https://x.com/DeItaone/status/2122682973736571214",
 "handle": "DeItaone",
@@ -7174,30 +8350,20 @@
 }
 },
 {
-"id": "2123395112613114207",
-"url": "https://x.com/unusual_whales/status/2123395112613114207",
-"handle": "unusual_whales",
-"date": "2026-11-19",
-"interactions": 318,
-"views": 103353,
+"id": "2123161879853875345",
+"url": "https://x.com/StockMKTNewz/status/2123161879853875345",
+"handle": "StockMKTNewz",
+"date": "2026-11-18",
+"interactions": 319,
+"views": 56129,
 "language": "",
-"sentiment": 0.75,
-"topic": "Revenue growth & profitability",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
 "method": "hand",
-"summary": "BREAKING: Wall Street analysts are bullish on Anthropic after its $83 IPO pricing, with price targets up to $155. Citizens: Market Outperform, $125 (+51%) Wolfe Research: Outperform, $135 (+63%) Needh",
+"summary": "The Anthropic $ANT IPO is coming tomorrow",
 "hi": true,
 "replies": {
-"n": 25,
-"mean": 0.081,
-"wmean": 0.072,
-"delta": -0.678,
-"agree": 0.28,
-"disagree": 0.12,
-"question": 0.2,
-"offtopic": 0.4,
-"agree_of_opined": 0.7,
-"combined": 0.695,
-"drift": 0.76
+"n": 0
 }
 },
 {
@@ -7522,6 +8688,23 @@
 }
 },
 {
+"id": "2123508202281255369",
+"url": "https://x.com/unusual_whales/status/2123508202281255369",
+"handle": "unusual_whales",
+"date": "2026-11-19",
+"interactions": 299,
+"views": 162745,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "Have you bought any of the Anthropic $ANT IPO?",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
 "id": "2122738024593412537",
 "url": "https://x.com/wallstengine/status/2122738024593412537",
 "handle": "wallstengine",
@@ -7725,6 +8908,23 @@
 }
 },
 {
+"id": "2123109366308196426",
+"url": "https://x.com/StockMKTNewz/status/2123109366308196426",
+"handle": "StockMKTNewz",
+"date": "2026-11-18",
+"interactions": 278,
+"views": 45452,
+"language": "",
+"sentiment": 0.0,
+"topic": "Valuation & AI-bubble",
+"method": "hand",
+"summary": "Anthropic is currently trading at a valuation of roughly $1.7 Trillion on Liquid's pre IPO market We are now just 1 day away from the ANT IPO",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
 "id": "2107146295110733885",
 "url": "https://x.com/Kalshi/status/2107146295110733885",
 "handle": "Kalshi",
@@ -7857,6 +9057,23 @@
 "agree_of_opined": 0.714,
 "combined": 0.173,
 "drift": 0.625
+}
+},
+{
+"id": "2123427924720353363",
+"url": "https://x.com/Polymarket/status/2123427924720353363",
+"handle": "Polymarket",
+"date": "2026-11-19",
+"interactions": 271,
+"views": 32652,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "JUST IN: Ex-Anthropic researcher Jacob Coxon plans protest outside his former workplace on IPO day, calling for a ban on “AIs building better AIs.”",
+"hi": true,
+"replies": {
+"n": 0
 }
 },
 {
@@ -8127,6 +9344,23 @@
 }
 },
 {
+"id": "2123276033470423356",
+"url": "https://x.com/StockMKTNewz/status/2123276033470423356",
+"handle": "StockMKTNewz",
+"date": "2026-11-19",
+"interactions": 259,
+"views": 37439,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "Anthropic $ANT raised $81 Billion in its IPO offering which is more money raised than any other IPO in history - WSJ",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
 "id": "2117197031844561129",
 "url": "https://x.com/wallstengine/status/2117197031844561129",
 "handle": "wallstengine",
@@ -8259,6 +9493,23 @@
 "agree_of_opined": 0.667,
 "combined": 0.0,
 "drift": 1.0
+}
+},
+{
+"id": "2123473950327914930",
+"url": "https://x.com/DeItaone/status/2123473950327914930",
+"handle": "DeItaone",
+"date": "2026-11-19",
+"interactions": 252,
+"views": 132116,
+"language": "en",
+"sentiment": 0.5,
+"topic": "Valuation & AI-bubble",
+"method": "hand",
+"summary": "$ANT - YORKVILLE'S IVES: ANTHROPIC'S 34% IPO SURGE TO $2 TRILLION VALUATION IS A MAJOR WIN FOR AI Anthropic opened at $111.50, up 34% from its $83 IPO price, lifting its fully diluted valuation to app",
+"hi": true,
+"replies": {
+"n": 0
 }
 },
 {
@@ -8411,6 +9662,23 @@
 "agree_of_opined": 0.667,
 "combined": -0.189,
 "drift": 0.933
+}
+},
+{
+"id": "2123447247308521972",
+"url": "https://x.com/StockMKTNewz/status/2123447247308521972",
+"handle": "StockMKTNewz",
+"date": "2026-11-19",
+"interactions": 240,
+"views": 50070,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "ANTHROPIC $ANT INDICATED TO OPEN AT $106 IN NASDAQ DEBUT, VS $83 IPO PRICE",
+"hi": true,
+"replies": {
+"n": 0
 }
 },
 {
@@ -8617,6 +9885,23 @@
 }
 },
 {
+"id": "2123417752077476267",
+"url": "https://x.com/Polymarket/status/2123417752077476267",
+"handle": "Polymarket",
+"date": "2026-11-19",
+"interactions": 234,
+"views": 45876,
+"language": "",
+"sentiment": 0.0,
+"topic": "Valuation & AI-bubble",
+"method": "hand",
+"summary": "BREAKING: Anthropic goes public on the Nasdaq today in what could be the biggest IPO in history. Trade $⁠ANT with up to 10x leverage on Polymarket Perps👇",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
 "id": "2120478067395351036",
 "url": "https://x.com/Kalshi/status/2120478067395351036",
 "handle": "Kalshi",
@@ -8709,6 +9994,23 @@
 "topic": "IPO timing & market impact",
 "method": "hand",
 "summary": "2X LONG AND 2X SHORT ANTHROPIC ETFS LAUNCHING ON MONDAY Watch out for this coming soon following the Anthropic IPO The 2x Long and 2x Short Anthropic ETFs will begin trading ... here are the tickers t",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
+"id": "2123413880613548521",
+"url": "https://x.com/DeItaone/status/2123413880613548521",
+"handle": "DeItaone",
+"date": "2026-11-19",
+"interactions": 229,
+"views": 131037,
+"language": "",
+"sentiment": -0.25,
+"topic": "Losses, burn & financing",
+"method": "hand",
+"summary": "$ANT - ANTHROPIC, PBC: LISTS UNDERWRITING DISCOUNT OF $550 MLN IN IPO - SEC FILING",
 "hi": true,
 "replies": {
 "n": 0
@@ -9155,6 +10457,23 @@
 "topic": "IPO timing & market impact",
 "method": "hand",
 "summary": "ANTHROPIC SAID TO GUIDE IPO PRICING TO TOP OF RANGE OR HIGHER",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
+"id": "2123189620896584177",
+"url": "https://x.com/zerohedge/status/2123189620896584177",
+"handle": "zerohedge",
+"date": "2026-11-18",
+"interactions": 209,
+"views": 81010,
+"language": "en",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "Anthropic IPO Prices At $83, Raises A Record $94 Billion... With Its Own Chip Suppliers Holding Up The Floor",
 "hi": true,
 "replies": {
 "n": 0
@@ -9668,6 +10987,23 @@
 "agree_of_opined": 0.5,
 "combined": -0.003,
 "drift": 0.786
+}
+},
+{
+"id": "2123535319253537058",
+"url": "https://x.com/TheStalwart/status/2123535319253537058",
+"handle": "TheStalwart",
+"date": "2026-11-19",
+"interactions": 191,
+"views": 24479,
+"language": "",
+"sentiment": 0.5,
+"topic": "Compute deals & partners",
+"method": "hand",
+"summary": "BIG BLOB OF COMPUTE MEETS BIG BLOB OF MONEY In today's newsletter, I wrote about today's episode and the Anthropic IPO, and how it's (for now) possible to have huge businesses, some of them quite prof",
+"hi": true,
+"replies": {
+"n": 0
 }
 },
 {
@@ -10235,6 +11571,23 @@
 }
 },
 {
+"id": "2123452288891261434",
+"url": "https://x.com/StockMKTNewz/status/2123452288891261434",
+"handle": "StockMKTNewz",
+"date": "2026-11-19",
+"interactions": 172,
+"views": 50487,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "Anthropic $ANT IPO shares are now indicated to open trading today at $110",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
 "id": "2117267721981218969",
 "url": "https://x.com/CNBC/status/2117267721981218969",
 "handle": "CNBC",
@@ -10313,6 +11666,23 @@
 "agree_of_opined": null,
 "combined": -0.092,
 "drift": 0.867
+}
+},
+{
+"id": "2123427073083715846",
+"url": "https://x.com/StockMKTNewz/status/2123427073083715846",
+"handle": "StockMKTNewz",
+"date": "2026-11-19",
+"interactions": 169,
+"views": 51651,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "The average Anthropic $ANT employee could be worth over $40 million after the company’s IPO today - CNBC",
+"hi": true,
+"replies": {
+"n": 0
 }
 },
 {
@@ -10593,6 +11963,40 @@
 }
 },
 {
+"id": "2123352582156660966",
+"url": "https://x.com/Polymarket/status/2123352582156660966",
+"handle": "Polymarket",
+"date": "2026-11-19",
+"interactions": 164,
+"views": 60284,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "🚨 NEW POLYMARKET: Anthropic IPO first-day % pop above…?",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
+"id": "2123218642741387698",
+"url": "https://x.com/StockMKTNewz/status/2123218642741387698",
+"handle": "StockMKTNewz",
+"date": "2026-11-19",
+"interactions": 163,
+"views": 45237,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "The Anthropic $ANT IPO is coming up tomorrow Gav Blaxberg told WSJ \"I don't think retail is falling out of love with AI,\" \"I just think they're falling out of love with paying any price for it.\"",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
 "id": "2109668044318392578",
 "url": "https://x.com/murtuza_merc/status/2109668044318392578",
 "handle": "murtuza_merc",
@@ -10769,6 +12173,57 @@
 "agree_of_opined": 0.667,
 "combined": -0.097,
 "drift": 0.8
+}
+},
+{
+"id": "2123058559936073893",
+"url": "https://x.com/P_W_Kuczynski/status/2123058559936073893",
+"handle": "P_W_Kuczynski",
+"date": "2026-11-18",
+"interactions": 159,
+"views": 13461,
+"language": "pl",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "Ostateczna cena akcji Anthropic w IPO ma być ogłoszona po dzisiejszej sesji. być 70-78$, a niektórzy mówią o 80. Apetyt na te akcje ma być miernikiem nastroju w stosunku do AI. Wg mnie niczego nie zmi",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
+"id": "2123524574524399638",
+"url": "https://x.com/CNBC/status/2123524574524399638",
+"handle": "CNBC",
+"date": "2026-11-19",
+"interactions": 159,
+"views": 29035,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "Stocks tumbled on Thursday, falling to their lows of the session the very moment the widely anticipated artificial intelligence IPO Anthropic began trading. - The Dow closed below 50,000 - The S&amp;P",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
+"id": "2123429219049119923",
+"url": "https://x.com/TheStalwart/status/2123429219049119923",
+"handle": "TheStalwart",
+"date": "2026-11-19",
+"interactions": 158,
+"views": 19374,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "Looking like Hyperliquid is gonna be pretty close. *ANTHROPIC SHARES INDICATED TO OPEN 20% ABOVE IPO PRICE IN DEBUT",
+"hi": true,
+"replies": {
+"n": 0
 }
 },
 {
@@ -11634,6 +13089,40 @@
 }
 },
 {
+"id": "2123416113539080430",
+"url": "https://x.com/zerohedge/status/2123416113539080430",
+"handle": "zerohedge",
+"date": "2026-11-19",
+"interactions": 138,
+"views": 69368,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "Countdown To Anthropic: Will World's Biggest IPO Reignite AI FOMO?",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
+"id": "2123460155559886991",
+"url": "https://x.com/zerohedge/status/2123460155559886991",
+"handle": "zerohedge",
+"date": "2026-11-19",
+"interactions": 138,
+"views": 66965,
+"language": "en",
+"sentiment": 0.0,
+"topic": "Valuation & AI-bubble",
+"method": "hand",
+"summary": "Anthropic Opens 34% Above IPO Price, Market Cap Tops $2 Trillion",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
 "id": "2116609121281790212",
 "url": "https://x.com/StockMKTNewz/status/2116609121281790212",
 "handle": "StockMKTNewz",
@@ -11796,6 +13285,23 @@
 }
 },
 {
+"id": "2123165141868937217",
+"url": "https://x.com/StockMKTNewz/status/2123165141868937217",
+"handle": "StockMKTNewz",
+"date": "2026-11-18",
+"interactions": 135,
+"views": 360582,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "Yes this is 2026 … we will be getting 2x long and 2x short Anthropic ETFs shortly after the IPO For the people who trade single stock leveraged ETFs here are the tickers to know $ANTT - 2x Long Anthro",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
 "id": "2115419018781700388",
 "url": "https://x.com/Stanifi_/status/2115419018781700388",
 "handle": "Stanifi_",
@@ -11901,6 +13407,40 @@
 "agree_of_opined": null,
 "combined": 0.128,
 "drift": 1.0
+}
+},
+{
+"id": "2123221702528180688",
+"url": "https://x.com/CNBC/status/2123221702528180688",
+"handle": "CNBC",
+"date": "2026-11-19",
+"interactions": 133,
+"views": 27243,
+"language": "en",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
+"id": "2123422031895212076",
+"url": "https://x.com/StockMKTNewz/status/2123422031895212076",
+"handle": "StockMKTNewz",
+"date": "2026-11-19",
+"interactions": 131,
+"views": 32231,
+"language": "",
+"sentiment": 0.0,
+"topic": "Governance & founder control",
+"method": "hand",
+"summary": "The 7 Anthropic $ANT co-founders are now all worth $20 Billion each as of ANT's IPO price",
+"hi": true,
+"replies": {
+"n": 0
 }
 },
 {
@@ -12147,17 +13687,17 @@
 }
 },
 {
-"id": "2123413880613548521",
-"url": "https://x.com/DeItaone/status/2123413880613548521",
-"handle": "DeItaone",
-"date": "2026-11-19",
-"interactions": 126,
-"views": 64099,
-"language": "",
-"sentiment": -0.25,
-"topic": "Losses, burn & financing",
+"id": "2123169646551417172",
+"url": "https://x.com/CNBC/status/2123169646551417172",
+"handle": "CNBC",
+"date": "2026-11-18",
+"interactions": 127,
+"views": 28456,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
 "method": "hand",
-"summary": "$ANT - ANTHROPIC, PBC: LISTS UNDERWRITING DISCOUNT OF $550 MLN IN IPO - SEC FILING",
+"summary": "Anthropic priced its IPO at $83 per share on Wednesday, a person familiar told CNBC, above the expected range, setting the stage for the Claude creator’s eagerly awaited Nasdaq listing and a historic ",
 "hi": true,
 "replies": {
 "n": 0
@@ -12546,6 +14086,23 @@
 }
 },
 {
+"id": "2123170884932297214",
+"url": "https://x.com/Polymarket/status/2123170884932297214",
+"handle": "Polymarket",
+"date": "2026-11-18",
+"interactions": 120,
+"views": 47537,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "🚨 NEW POLYMARKET: Anthropic IPO: Who will ring the bell?",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
 "id": "2115419532831436865",
 "url": "https://x.com/smol244/status/2115419532831436865",
 "handle": "smol244",
@@ -12706,6 +14263,23 @@
 "topic": "Valuation & AI-bubble",
 "method": "hand",
 "summary": "IPO range $70-78/share per SEC filing; pre-IPO contract trades at $101.65 on TradeXYZ, 30% above range",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
+"id": "2123442947848888346",
+"url": "https://x.com/CNBC/status/2123442947848888346",
+"handle": "CNBC",
+"date": "2026-11-19",
+"interactions": 116,
+"views": 36777,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "Anthropic IPO live updates: Amodei siblings feeling ‘calm’ ahead of debut, give a shoutout to mom",
 "hi": true,
 "replies": {
 "n": 0
@@ -13070,6 +14644,23 @@
 }
 },
 {
+"id": "2123197417378181343",
+"url": "https://x.com/StockMKTNewz/status/2123197417378181343",
+"handle": "StockMKTNewz",
+"date": "2026-11-18",
+"interactions": 111,
+"views": 35977,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "Anthropic $ANT raised about $81 billion in its upsized IPO, selling roughly 980 million shares at $83 per share More info will be posted by @IPONewsroom_ as it comes out",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
 "id": "2115066617319092456",
 "url": "https://x.com/CNBC/status/2115066617319092456",
 "handle": "CNBC",
@@ -13270,6 +14861,40 @@
 "topic": "Valuation & AI-bubble",
 "method": "hand",
 "summary": "Mocks the 'Self-Reinforcing Loop' diagram in Anthropic's S-1 with a 'corrected' version",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
+"id": "2123403983565775214",
+"url": "https://x.com/CNBC/status/2123403983565775214",
+"handle": "CNBC",
+"date": "2026-11-19",
+"interactions": 107,
+"views": 42806,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "Anthropic IPO: Investors who flip the stock may face brokerage penalty",
+"hi": true,
+"replies": {
+"n": 0
+}
+},
+{
+"id": "2123765917872017705",
+"url": "https://x.com/zerohedge/status/2123765917872017705",
+"handle": "zerohedge",
+"date": "2026-11-20",
+"interactions": 107,
+"views": 43855,
+"language": "en",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "hand",
+"summary": "Futures Tumble As Anthropic IPO Hangover Turns AI Unwind Into Global Rout",
 "hi": true,
 "replies": {
 "n": 0
@@ -13613,20 +15238,6 @@
 "hi": false
 },
 {
-"id": "2123414504218177954",
-"url": "https://x.com/TheStalwart/status/2123414504218177954",
-"handle": "TheStalwart",
-"date": "2026-11-19",
-"interactions": 99,
-"views": 7927,
-"language": "",
-"sentiment": 0.0,
-"topic": "IPO timing & market impact",
-"method": "keyword",
-"summary": "Gonna be a very interesting market test here. IPO priced at $83, but Anthropic tokens on Hyperliquid are priced around $103, implying a nice pop on the open. Let's see how accurate this trading is. As",
-"hi": false
-},
-{
 "id": "2123339259100709273",
 "url": "https://x.com/tru33th/status/2123339259100709273",
 "handle": "tru33th",
@@ -13697,6 +15308,20 @@
 "hi": false
 },
 {
+"id": "2123377155144868038",
+"url": "https://x.com/CNBC/status/2123377155144868038",
+"handle": "CNBC",
+"date": "2026-11-19",
+"interactions": 97,
+"views": 27130,
+"language": "",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "It’s Anthropic IPO day! @andrewrsorkin sits down with Dario and Daniela Amodei, Anthropic’s CEO and president, for an EXCLUSIVE interview. Stream on CNBC at 10:00 a.m. ET to watch, and follow along he",
+"hi": false
+},
+{
 "id": "2115352163316846909",
 "url": "https://x.com/qinbafrank/status/2115352163316846909",
 "handle": "qinbafrank",
@@ -13736,6 +15361,20 @@
 "topic": "IPO timing & market impact",
 "method": "keyword",
 "summary": "Anthropic reportedly warns in its draft IPO prospectus that its AI could wipe out humanity. I believe it also has a legal duty to warn that ",
+"hi": false
+},
+{
+"id": "2123403284517929357",
+"url": "https://x.com/zerohedge/status/2123403284517929357",
+"handle": "zerohedge",
+"date": "2026-11-19",
+"interactions": 95,
+"views": 72530,
+"language": "",
+"sentiment": 0.0,
+"topic": "Compute deals & partners",
+"method": "keyword",
+"summary": "Futures Rip As Anthropic IPO Frenzy Revives AI Trade, Asian Chips Puke",
 "hi": false
 },
 {
@@ -13792,6 +15431,20 @@
 "topic": "IPO timing & market impact",
 "method": "keyword",
 "summary": "🔥 UPDATE: Bitget reports 13,290 participants and over $217.3M in subscriptions for its Anthropic IPO round.",
+"hi": false
+},
+{
+"id": "2123773719680086322",
+"url": "https://x.com/zerohedge/status/2123773719680086322",
+"handle": "zerohedge",
+"date": "2026-11-20",
+"interactions": 92,
+"views": 40438,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "\"If Everyone Needs One, It Won't\": Anthropic Slides Toward $83 IPO Price As Wall Street Waits For An AI \"Clearing Event\"",
 "hi": false
 },
 {
@@ -13907,6 +15560,20 @@
 "hi": false
 },
 {
+"id": "2123075136135856433",
+"url": "https://x.com/CNBC/status/2123075136135856433",
+"handle": "CNBC",
+"date": "2026-11-18",
+"interactions": 88,
+"views": 27945,
+"language": "en",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges",
+"hi": false
+},
+{
 "id": "2116021870621499621",
 "url": "https://x.com/Cointelegraph/status/2116021870621499621",
 "handle": "Cointelegraph",
@@ -13977,6 +15644,20 @@
 "hi": false
 },
 {
+"id": "2123393856171360640",
+"url": "https://x.com/CNBC/status/2123393856171360640",
+"handle": "CNBC",
+"date": "2026-11-19",
+"interactions": 86,
+"views": 24921,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic IPO could create thousands of multimillionaire employees",
+"hi": false
+},
+{
 "id": "2115439729839612026",
 "url": "https://x.com/zerohedge/status/2115439729839612026",
 "handle": "zerohedge",
@@ -14002,6 +15683,20 @@
 "topic": "IPO timing & market impact",
 "method": "keyword",
 "summary": "速報：Anthropicアンソロピック IPO価格を1株あたり83ドルに設定🚀 これは、当初の想定70～78ドルを上回ってきましたね 今晩上場です！",
+"hi": false
+},
+{
+"id": "2123612637317767372",
+"url": "https://x.com/StockMKTNewz/status/2123612637317767372",
+"handle": "StockMKTNewz",
+"date": "2026-11-20",
+"interactions": 84,
+"views": 30537,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic $ANT raised $81.3B in its IPO $81.3 Billion is more than the 2025 GDP of North Dakota - CNBC",
 "hi": false
 },
 {
@@ -14327,6 +16022,20 @@
 "hi": false
 },
 {
+"id": "2123408702350770541",
+"url": "https://x.com/Polymarket/status/2123408702350770541",
+"handle": "Polymarket",
+"date": "2026-11-19",
+"interactions": 76,
+"views": 25117,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "🚨 NEW POLYMARKET: How many Anthropic shares will trade on IPO day?",
+"hi": false
+},
+{
 "id": "2104755955762081865",
 "url": "https://x.com/digijordan/status/2104755955762081865",
 "handle": "digijordan",
@@ -14422,20 +16131,6 @@
 "topic": "IPO timing & market impact",
 "method": "keyword",
 "summary": "Anthropic is likely to price its IPO above the current range of $70 to $78, multiple sources told CNBC’s David Faber on Tuesday. The artificial intelligence company is planning to list on the Nasdaq u",
-"hi": false
-},
-{
-"id": "2123416113539080430",
-"url": "https://x.com/zerohedge/status/2123416113539080430",
-"handle": "zerohedge",
-"date": "2026-11-19",
-"interactions": 75,
-"views": 29629,
-"language": "",
-"sentiment": 0.0,
-"topic": "IPO timing & market impact",
-"method": "keyword",
-"summary": "Countdown To Anthropic: Will World's Biggest IPO Reignite AI FOMO?",
 "hi": false
 },
 {
@@ -14537,20 +16232,6 @@
 "hi": false
 },
 {
-"id": "2123377155144868038",
-"url": "https://x.com/CNBC/status/2123377155144868038",
-"handle": "CNBC",
-"date": "2026-11-19",
-"interactions": 73,
-"views": 20665,
-"language": "",
-"sentiment": 0.25,
-"topic": "IPO timing & market impact",
-"method": "keyword",
-"summary": "It’s Anthropic IPO day! @andrewrsorkin sits down with Dario and Daniela Amodei, Anthropic’s CEO and president, for an EXCLUSIVE interview. Stream on CNBC at 10:00 a.m. ET to watch, and follow along he",
-"hi": false
-},
-{
 "id": "2104802123057696851",
 "url": "https://x.com/TechCrunch/status/2104802123057696851",
 "handle": "TechCrunch",
@@ -14621,20 +16302,6 @@
 "hi": false
 },
 {
-"id": "2123403284517929357",
-"url": "https://x.com/zerohedge/status/2123403284517929357",
-"handle": "zerohedge",
-"date": "2026-11-19",
-"interactions": 71,
-"views": 47731,
-"language": "",
-"sentiment": 0.0,
-"topic": "Compute deals & partners",
-"method": "keyword",
-"summary": "Futures Rip As Anthropic IPO Frenzy Revives AI Trade, Asian Chips Puke",
-"hi": false
-},
-{
 "id": "2114717754997735462",
 "url": "https://x.com/wallstengine/status/2114717754997735462",
 "handle": "wallstengine",
@@ -14677,6 +16344,20 @@
 "hi": false
 },
 {
+"id": "2123611994838401175",
+"url": "https://x.com/StockMKTNewz/status/2123611994838401175",
+"handle": "StockMKTNewz",
+"date": "2026-11-20",
+"interactions": 70,
+"views": 37718,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic $ANT raised $81.3 Billion in its IPO If you stacked $81.3 Billion in $100 bills it would go 55.2 Miles in the air on to the edge of space - CNBC",
+"hi": false
+},
+{
 "id": "2107204762097647726",
 "url": "https://x.com/TradrETFs/status/2107204762097647726",
 "handle": "TradrETFs",
@@ -14716,6 +16397,20 @@
 "topic": "IPO timing & market impact",
 "method": "keyword",
 "summary": "#OKX达人 #交易TradFi就来OKX #交易Anthropic就来OKX Anthropic 三季度收入又涨了47%，我这次却在 OKX @okxchinese 开了一个做空网格。 看完最新披露，我一直在想：收入已经增长得这么快，后面还得做到什么程度，才能撑住大家讨论的上市估值。 11月2日更新的数据里，Anthropic",
+"hi": false
+},
+{
+"id": "2123085441205477385",
+"url": "https://x.com/PatRyanUC/status/2123085441205477385",
+"handle": "PatRyanUC",
+"date": "2026-11-18",
+"interactions": 69,
+"views": 1745,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Now, in their prospectus, Anthropic promised to stand up for their values “at critical points, even when this is costly for us commercially.” That’s admirable. My question is: why the fuck is that up ",
 "hi": false
 },
 {
@@ -14814,6 +16509,20 @@
 "topic": "IPO timing & market impact",
 "method": "keyword",
 "summary": "JUST IN: Anthropic files amended S-1 ahead of IPO.",
+"hi": false
+},
+{
+"id": "2123372724164633006",
+"url": "https://x.com/CNBC/status/2123372724164633006",
+"handle": "CNBC",
+"date": "2026-11-19",
+"interactions": 67,
+"views": 24556,
+"language": "",
+"sentiment": 0.5,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic is gearing up for its long-awaited Nasdaq debut on Thursday, in a huge test for the AI industry. Stay current with CNBC’s live coverage of Anthropic’s IPO:",
 "hi": false
 },
 {
@@ -14926,6 +16635,20 @@
 "topic": "IPO timing & market impact",
 "method": "keyword",
 "summary": "Anthropic’s IPO journey is becoming one of the biggest conversations in the AI market, but there’s an interesting question: do you have to wait for the company to go public before getting market expos",
+"hi": false
+},
+{
+"id": "2123061596599783551",
+"url": "https://x.com/MetaBaz7/status/2123061596599783551",
+"handle": "MetaBaz7",
+"date": "2026-11-18",
+"interactions": 65,
+"views": 731,
+"language": "en",
+"sentiment": 0.0,
+"topic": "Valuation & AI-bubble",
+"method": "keyword",
+"summary": "Trading Anthropic on a crypto exchange before the IPO? Read the fine print first. Binance just reset its Anthropic pre-IPO perp. Share-count basis went from 1B to ~13.1 billion. Ticker changed from AN",
 "hi": false
 },
 {
@@ -15517,17 +17240,17 @@
 "hi": false
 },
 {
-"id": "2123408702350770541",
-"url": "https://x.com/Polymarket/status/2123408702350770541",
-"handle": "Polymarket",
-"date": "2026-11-19",
+"id": "2123148968993370549",
+"url": "https://x.com/HannesZipfel/status/2123148968993370549",
+"handle": "HannesZipfel",
+"date": "2026-11-18",
 "interactions": 56,
-"views": 15297,
+"views": 2316,
 "language": "",
 "sentiment": 0.0,
 "topic": "IPO timing & market impact",
 "method": "keyword",
-"summary": "🚨 NEW POLYMARKET: How many Anthropic shares will trade on IPO day?",
+"summary": "⚠️🌪️💸 Anthropic-IPO: Liquiditäts-Staubsauger trifft auf angeschlagene Börsen! 📅 Morgen, 19. November: Anthropic plant sein Börsendebüt. 💰 IPO-Dimension: Zweitgrößter IPO aller Zeiten – nach SpaceX (si",
 "hi": false
 },
 {
@@ -15615,6 +17338,20 @@
 "hi": false
 },
 {
+"id": "2123494019804103045",
+"url": "https://x.com/Polymarket/status/2123494019804103045",
+"handle": "Polymarket",
+"date": "2026-11-19",
+"interactions": 55,
+"views": 25049,
+"language": "",
+"sentiment": 0.5,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "JUST IN: The pope is unlikely to meet with Anthropic by year-end, following the company's record-breaking IPO. 11% chance. 🔗",
+"hi": false
+},
+{
 "id": "2114681761896464751",
 "url": "https://x.com/crypto_banter/status/2114681761896464751",
 "handle": "crypto_banter",
@@ -15696,6 +17433,20 @@
 "topic": "IPO timing & market impact",
 "method": "keyword",
 "summary": "Anthropic plans to raise up to $64bn in IPO",
+"hi": false
+},
+{
+"id": "2123058572623831339",
+"url": "https://x.com/Dpete9Peterson/status/2123058572623831339",
+"handle": "Dpete9Peterson",
+"date": "2026-11-18",
+"interactions": 54,
+"views": 1557,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "@spencerpratt @songpinganq Anthropic needed Jensen removed before their IPO. There are no coincidences. National infrastructure hacks are not a coincidence either.",
 "hi": false
 },
 {
@@ -15850,20 +17601,6 @@
 "topic": "IPO timing & market impact",
 "method": "keyword",
 "summary": "🚨ANTHROPIC COULD RAISE ~$100B. IS THIS THE BIGGEST IPO EVER? $ANT prices Nov 18 and starts trading Nov 19 on Nasdaq At $78, the Claude maker would be worth up to $1.405T fully diluted In May it was va",
-"hi": false
-},
-{
-"id": "2123417752077476267",
-"url": "https://x.com/Polymarket/status/2123417752077476267",
-"handle": "Polymarket",
-"date": "2026-11-19",
-"interactions": 53,
-"views": 8777,
-"language": "",
-"sentiment": 0.0,
-"topic": "Valuation & AI-bubble",
-"method": "keyword",
-"summary": "BREAKING: Anthropic goes public on the Nasdaq today in what could be the biggest IPO in history. Trade $⁠ANT with up to 10x leverage on Polymarket Perps👇",
 "hi": false
 },
 {
@@ -16049,6 +17786,20 @@
 "hi": false
 },
 {
+"id": "2123432415981130180",
+"url": "https://x.com/TheStalwart/status/2123432415981130180",
+"handle": "TheStalwart",
+"date": "2026-11-19",
+"interactions": 51,
+"views": 8717,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "*ANTHROPIC SHARES INDICATED TO OPEN AT $103 EACH, IPO PRICE $83",
+"hi": false
+},
+{
 "id": "2113983531563327488",
 "url": "https://x.com/ipo_majime/status/2113983531563327488",
 "handle": "ipo_majime",
@@ -16175,6 +17926,20 @@
 "hi": false
 },
 {
+"id": "2123388920217878607",
+"url": "https://x.com/CNBC/status/2123388920217878607",
+"handle": "CNBC",
+"date": "2026-11-19",
+"interactions": 50,
+"views": 23929,
+"language": "",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic is ready for its IPO. Three analysts see huge gains for the stock",
+"hi": false
+},
+{
 "id": "2096005305964376114",
 "url": "https://x.com/financialjuice/status/2096005305964376114",
 "handle": "financialjuice",
@@ -16228,20 +17993,6 @@
 "topic": "Governance & founder control",
 "method": "keyword",
 "summary": "ngl didn’t expect to see an anthropic ipo play open to retail bitget ipo prime vip round: min $100, no lock-up on allocations. partner channels have historically allocated 40-80% but that’s historical",
-"hi": false
-},
-{
-"id": "2123393856171360640",
-"url": "https://x.com/CNBC/status/2123393856171360640",
-"handle": "CNBC",
-"date": "2026-11-19",
-"interactions": 49,
-"views": 16554,
-"language": "",
-"sentiment": 0.0,
-"topic": "IPO timing & market impact",
-"method": "keyword",
-"summary": "Anthropic IPO could create thousands of multimillionaire employees",
 "hi": false
 },
 {
@@ -16329,6 +18080,48 @@
 "hi": false
 },
 {
+"id": "2123371515252969486",
+"url": "https://x.com/CNBC/status/2123371515252969486",
+"handle": "CNBC",
+"date": "2026-11-19",
+"interactions": 48,
+"views": 23403,
+"language": "",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic IPO live updates: AI lab's Nasdaq debut follows record $81 billion offering",
+"hi": false
+},
+{
+"id": "2123189752161804389",
+"url": "https://x.com/momiage0088/status/2123189752161804389",
+"handle": "momiage0088",
+"date": "2026-11-18",
+"interactions": 48,
+"views": 17233,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "🇺🇸米国株 11/18｜医療保険株急落でダウ3日続落 S&amp;P500 −0.23%／NASDAQ +0.42%／ダウ −1.11% ① 国の不正対策案でユナイテッドヘルス−10%、利上げ観測も重荷 ② エヌビディア好決算も−2.9% ③ 今夜：Anthropic上場、ウォルマート決算 ❓Anthropic上場、初値は？ A 公募価格より上 B 下回る",
+"hi": false
+},
+{
+"id": "2123462321783615534",
+"url": "https://x.com/CNBC/status/2123462321783615534",
+"handle": "CNBC",
+"date": "2026-11-19",
+"interactions": 48,
+"views": 21766,
+"language": "en",
+"sentiment": 0.5,
+"topic": "Revenue growth & profitability",
+"method": "keyword",
+"summary": "Stocks tumble as investors take profits following blockbuster Anthropic IPO: Live updates",
+"hi": false
+},
+{
 "id": "2104724408745222315",
 "url": "https://x.com/FirstSquawk/status/2104724408745222315",
 "handle": "FirstSquawk",
@@ -16410,20 +18203,6 @@
 "topic": "Valuation & AI-bubble",
 "method": "keyword",
 "summary": "🚨 $ANT IPO THURSDAY: Wall Street is trying to pull off the ultimate magic trick this week🔥 $1.4 TRILLION VALUATION MEETS A HAWKISH FED. The setup heading into Anthropic’s debut is wild: 🔴 THE MACRO: H",
-"hi": false
-},
-{
-"id": "2123372724164633006",
-"url": "https://x.com/CNBC/status/2123372724164633006",
-"handle": "CNBC",
-"date": "2026-11-19",
-"interactions": 47,
-"views": 18217,
-"language": "",
-"sentiment": 0.5,
-"topic": "IPO timing & market impact",
-"method": "keyword",
-"summary": "Anthropic is gearing up for its long-awaited Nasdaq debut on Thursday, in a huge test for the AI industry. Stay current with CNBC’s live coverage of Anthropic’s IPO:",
 "hi": false
 },
 {
@@ -16539,6 +18318,20 @@
 "hi": false
 },
 {
+"id": "2123427819120463894",
+"url": "https://x.com/StockMKTNewz/status/2123427819120463894",
+"handle": "StockMKTNewz",
+"date": "2026-11-19",
+"interactions": 45,
+"views": 48817,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "We’re trying something a little different today We made a live blog with news updating for the Anthropic $ANT IPO today, maybe something we do more going forward. But here give this a try today ⬇️",
+"hi": false
+},
+{
 "id": "2094819698374558029",
 "url": "https://x.com/hectoinc/status/2094819698374558029",
 "handle": "hectoinc",
@@ -16609,20 +18402,6 @@
 "hi": false
 },
 {
-"id": "2123403983565775214",
-"url": "https://x.com/CNBC/status/2123403983565775214",
-"handle": "CNBC",
-"date": "2026-11-19",
-"interactions": 44,
-"views": 16503,
-"language": "",
-"sentiment": 0.0,
-"topic": "IPO timing & market impact",
-"method": "keyword",
-"summary": "Anthropic IPO: Investors who flip the stock may face brokerage penalty",
-"hi": false
-},
-{
 "id": "2122704303278465251",
 "url": "https://x.com/WEEX_Official/status/2122704303278465251",
 "handle": "WEEX_Official",
@@ -16634,6 +18413,20 @@
 "topic": "Valuation & AI-bubble",
 "method": "keyword",
 "summary": "Anthropic prices its IPO Nov. 18 and starts Nasdaq trading as ANT on Nov. 19. 825 million Class A shares at $70–$78, targeting a $1.4 trillion fully diluted valuation — demand nearly 7× the offering. ",
+"hi": false
+},
+{
+"id": "2123075467838103656",
+"url": "https://x.com/CryptoMavEth/status/2123075467838103656",
+"handle": "CryptoMavEth",
+"date": "2026-11-18",
+"interactions": 44,
+"views": 2728,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Gm gm Legends...Lets GO!!! Would you bet on $78? 🟢🔴 Anthropic prices its IPO TONIGHT after 4 PM ET. Range $70–78, 825M shares, Nasdaq: ANT. Top of the range ≈ $1.4T. Last private round: $965B. My bet:",
 "hi": false
 },
 {
@@ -16777,6 +18570,48 @@
 "hi": false
 },
 {
+"id": "2123414378523320762",
+"url": "https://x.com/CNBC/status/2123414378523320762",
+"handle": "CNBC",
+"date": "2026-11-19",
+"interactions": 42,
+"views": 39014,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "An analyst explains the ‘trigger’ that prompted him to sell every stock he owns on Anthropic IPO day",
+"hi": false
+},
+{
+"id": "2123062547549208776",
+"url": "https://x.com/beincrypto/status/2123062547549208776",
+"handle": "beincrypto",
+"date": "2026-11-18",
+"interactions": 42,
+"views": 7291,
+"language": "en",
+"sentiment": -0.25,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Bitcoin crashed to $59K right before the SpaceX IPO. @CryptoMichNL says the same thing is happening now, just before Anthropic lists. 👀 \"I think that we're going to have a relatively fast-paced bounce",
+"hi": false
+},
+{
+"id": "2123605732532613281",
+"url": "https://x.com/CNBC/status/2123605732532613281",
+"handle": "CNBC",
+"date": "2026-11-20",
+"interactions": 42,
+"views": 22916,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic IPO 'exactly what the markets need', but analysts warn of volatility",
+"hi": false
+},
+{
 "id": "2114704700767699155",
 "url": "https://x.com/Kalshi/status/2114704700767699155",
 "handle": "Kalshi",
@@ -16816,6 +18651,20 @@
 "topic": "Losses, burn & financing",
 "method": "keyword",
 "summary": "📢 𝐉𝐔𝐒𝐓 𝐈𝐍: $ANT Anthropic may not secure investment-grade rating after IPO, Blackstone tells investors - FT",
+"hi": false
+},
+{
+"id": "2123081150109303218",
+"url": "https://x.com/Polymarket/status/2123081150109303218",
+"handle": "Polymarket",
+"date": "2026-11-18",
+"interactions": 41,
+"views": 19973,
+"language": "",
+"sentiment": 0.0,
+"topic": "Valuation & AI-bubble",
+"method": "keyword",
+"summary": "Trade Anthropic before Wall Street can. $30K up for grabs in the Anthropic IPO Blitz, live now on Polymarket Perps👇",
 "hi": false
 },
 {
@@ -16928,20 +18777,6 @@
 "topic": "IPO timing & market impact",
 "method": "keyword",
 "summary": "Some Real talk on the @bitget Anthropic IPO The problem for regular traders has never been \"understanding the AI story.\" It's \"getting to the starting line.\" Traditional path-wait for mid-November lis",
-"hi": false
-},
-{
-"id": "2123388920217878607",
-"url": "https://x.com/CNBC/status/2123388920217878607",
-"handle": "CNBC",
-"date": "2026-11-19",
-"interactions": 39,
-"views": 17152,
-"language": "",
-"sentiment": 0.25,
-"topic": "IPO timing & market impact",
-"method": "keyword",
-"summary": "Anthropic is ready for its IPO. Three analysts see huge gains for the stock",
 "hi": false
 },
 {
@@ -17729,20 +19564,6 @@
 "hi": false
 },
 {
-"id": "2123371515252969486",
-"url": "https://x.com/CNBC/status/2123371515252969486",
-"handle": "CNBC",
-"date": "2026-11-19",
-"interactions": 33,
-"views": 18397,
-"language": "",
-"sentiment": 0.25,
-"topic": "IPO timing & market impact",
-"method": "keyword",
-"summary": "Anthropic IPO live updates: AI lab's Nasdaq debut follows record $81 billion offering",
-"hi": false
-},
-{
 "id": "2112699667402363143",
 "url": "https://x.com/rexsalisbury/status/2112699667402363143",
 "handle": "rexsalisbury",
@@ -18429,6 +20250,20 @@
 "hi": false
 },
 {
+"id": "2123396585874764264",
+"url": "https://x.com/CNBC/status/2123396585874764264",
+"handle": "CNBC",
+"date": "2026-11-19",
+"interactions": 28,
+"views": 22261,
+"language": "",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic lifts Nasdaq futures and tech stocks ahead of its record-breaking IPO",
+"hi": false
+},
+{
 "id": "2117161789263622561",
 "url": "https://x.com/UnfilteredNaz/status/2117161789263622561",
 "handle": "UnfilteredNaz",
@@ -18454,6 +20289,20 @@
 "topic": "IPO timing & market impact",
 "method": "keyword",
 "summary": "Anthropic employees are sitting on $216 billion worth of stock ahead of the IPO, and there is another $160 billion set aside for future hires. Read more:",
+"hi": false
+},
+{
+"id": "2123058742799327337",
+"url": "https://x.com/IndSocEnjoyer/status/2123058742799327337",
+"handle": "IndSocEnjoyer",
+"date": "2026-11-18",
+"interactions": 27,
+"views": 474,
+"language": "en",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic for IPO took out Jensen huang and made his company buy their ipo while running a cyberterror campaign against the world to get open source AI made illegal. What a familiar business playbook.",
 "hi": false
 },
 {
@@ -18678,6 +20527,20 @@
 "topic": "IPO timing & market impact",
 "method": "keyword",
 "summary": "@abhilash_writes I’m aware. It’s a BS metric they’ve all adopted. Anthropic only dropped it towards the S-1",
+"hi": false
+},
+{
+"id": "2123061985268871528",
+"url": "https://x.com/MarketWatch/status/2123061985268871528",
+"handle": "MarketWatch",
+"date": "2026-11-18",
+"interactions": 26,
+"views": 12305,
+"language": "en",
+"sentiment": 0.0,
+"topic": "Compute deals & partners",
+"method": "keyword",
+"summary": "Nasdaq opens higher as Nvidia results, Anthropic IPO lead tech stocks",
 "hi": false
 },
 {
@@ -19017,6 +20880,20 @@
 "hi": false
 },
 {
+"id": "2123424803444998406",
+"url": "https://x.com/Polymarket/status/2123424803444998406",
+"handle": "Polymarket",
+"date": "2026-11-19",
+"interactions": 24,
+"views": 28859,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic IPO closing market cap forecast:",
+"hi": false
+},
+{
 "id": "2114705435009626534",
 "url": "https://x.com/AIStockSavvy/status/2114705435009626534",
 "handle": "AIStockSavvy",
@@ -19325,6 +21202,34 @@
 "hi": false
 },
 {
+"id": "2123294700660474346",
+"url": "https://x.com/unusual_whales/status/2123294700660474346",
+"handle": "unusual_whales",
+"date": "2026-11-19",
+"interactions": 23,
+"views": 34722,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic says its IPO price range is still $70 to $78 per share, with pricing set for tomorrow and trading starting Thursday. Read more:",
+"hi": false
+},
+{
+"id": "2123659430772240812",
+"url": "https://x.com/CNBC/status/2123659430772240812",
+"handle": "CNBC",
+"date": "2026-11-20",
+"interactions": 23,
+"views": 20751,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
+"hi": false
+},
+{
 "id": "2115368830960591152",
 "url": "https://x.com/uzor_of_defi/status/2115368830960591152",
 "handle": "uzor_of_defi",
@@ -19546,6 +21451,48 @@
 "topic": "IPO timing & market impact",
 "method": "keyword",
 "summary": "🚨 BREAKING: Anthropic $ANT files updated IPO prospectus, targeting $70–$78 per share, with 825,000,000 shares being offered.",
+"hi": false
+},
+{
+"id": "2123419074994508247",
+"url": "https://x.com/CNBC/status/2123419074994508247",
+"handle": "CNBC",
+"date": "2026-11-19",
+"interactions": 22,
+"views": 21279,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic IPO, AI wealth spawn a new, leaner kind of family office",
+"hi": false
+},
+{
+"id": "2123183226923766007",
+"url": "https://x.com/TheEthanDing/status/2123183226923766007",
+"handle": "TheEthanDing",
+"date": "2026-11-18",
+"interactions": 22,
+"views": 2748,
+"language": "en",
+"sentiment": 0.0,
+"topic": "Valuation & AI-bubble",
+"method": "keyword",
+"summary": "Anthropic Closing IPO day price forecast has gone down 36% since before the S-1 came out, on Polymarket 75% of a trillion dollars of EV wiped out since the S-1",
+"hi": false
+},
+{
+"id": "2123129759911559642",
+"url": "https://x.com/CNBC/status/2123129759911559642",
+"handle": "CNBC",
+"date": "2026-11-18",
+"interactions": 22,
+"views": 21626,
+"language": "en",
+"sentiment": -0.25,
+"topic": "Compute deals & partners",
+"method": "keyword",
+"summary": "Nvidia reverses, metals crash ahead of Anthropic IPO: Options Action Live",
 "hi": false
 },
 {
@@ -19857,6 +21804,20 @@
 "hi": false
 },
 {
+"id": "2123096419384926569",
+"url": "https://x.com/WOLF_Terminal/status/2123096419384926569",
+"handle": "WOLF_Terminal",
+"date": "2026-11-18",
+"interactions": 21,
+"views": 4504,
+"language": "en",
+"sentiment": 0.0,
+"topic": "Compute deals & partners",
+"method": "keyword",
+"summary": "🚨 $ANT ANTHROPIC NOW BRINGS IN MORE REVENUE PER QUARTER THAN SPACEX Latest reported revenue: $GOOGL Alphabet: $127.6 BILLION (Q3) $NVDA Nvidia: $96.2 BILLION (FY Q2) $META Meta: $64.6 BILLION (Q3) $AN",
+"hi": false
+},
+{
 "id": "2104460254323077397",
 "url": "https://x.com/arangotrades/status/2104460254323077397",
 "handle": "arangotrades",
@@ -20022,6 +21983,48 @@
 "topic": "IPO timing & market impact",
 "method": "keyword",
 "summary": "Radar #9 update: Anthropic's IPO price went up. For Binance Wallet buyers, that's not all good news... Anthropic, the AI company behind Claude, priced its IPO at $83 a share, above its $70-78 range. I",
+"hi": false
+},
+{
+"id": "2123462573471502699",
+"url": "https://x.com/dknori/status/2123462573471502699",
+"handle": "dknori",
+"date": "2026-11-19",
+"interactions": 20,
+"views": 1129,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "アンソロピック上場 初値111.50ドル 公募83ドルを34%上回る #Anthropic #上場 #初値 #ANT",
+"hi": false
+},
+{
+"id": "2123734445094060398",
+"url": "https://x.com/CNBC/status/2123734445094060398",
+"handle": "CNBC",
+"date": "2026-11-20",
+"interactions": 20,
+"views": 18057,
+"language": "en",
+"sentiment": 0.5,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market",
+"hi": false
+},
+{
+"id": "2123438097622860051",
+"url": "https://x.com/CNBC/status/2123438097622860051",
+"handle": "CNBC",
+"date": "2026-11-19",
+"interactions": 20,
+"views": 19631,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Traders in new market bet on big IPO pop for Anthropic",
 "hi": false
 },
 {
@@ -20232,6 +22235,20 @@
 "topic": "IPO timing & market impact",
 "method": "keyword",
 "summary": "@zhao89898989 @CyberPhilos SEC – Anthropic S-1/A⁠￼ ·IPO Prospectus PDF⁠￼可以读啊",
+"hi": false
+},
+{
+"id": "2123060569808740691",
+"url": "https://x.com/CNBC/status/2123060569808740691",
+"handle": "CNBC",
+"date": "2026-11-18",
+"interactions": 19,
+"views": 22475,
+"language": "en",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "How to get Anthropic stock — without buying the IPO",
 "hi": false
 },
 {
@@ -20596,20 +22613,6 @@
 "topic": "IPO timing & market impact",
 "method": "keyword",
 "summary": "Will Anthropic's IPO pull money from other markets? Ethereum Institutional's David Duong doesn't think so, but says AI commoditization and the Jensen Huang fallout make the listing a real challenge \"T",
-"hi": false
-},
-{
-"id": "2123396585874764264",
-"url": "https://x.com/CNBC/status/2123396585874764264",
-"handle": "CNBC",
-"date": "2026-11-19",
-"interactions": 18,
-"views": 15223,
-"language": "",
-"sentiment": 0.25,
-"topic": "IPO timing & market impact",
-"method": "keyword",
-"summary": "Anthropic lifts Nasdaq futures and tech stocks ahead of its record-breaking IPO",
 "hi": false
 },
 {
@@ -21019,6 +23022,34 @@
 "hi": false
 },
 {
+"id": "2123064136175112591",
+"url": "https://x.com/make_me_dev/status/2123064136175112591",
+"handle": "make_me_dev",
+"date": "2026-11-18",
+"interactions": 17,
+"views": 159,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "\"Anthropic under $1.25T\" is ~0.4¢ on Polymarket. it's also ~34¢. the first bet settles on the final IPO offer price × fully diluted shares. the second uses the first day's closing price × shares outst",
+"hi": false
+},
+{
+"id": "2123094557281943739",
+"url": "https://x.com/Polymarket/status/2123094557281943739",
+"handle": "Polymarket",
+"date": "2026-11-18",
+"interactions": 17,
+"views": 17603,
+"language": "",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "5% chance Anthropic beats SpaceX for largest IPO of the year.",
+"hi": false
+},
+{
 "id": "2095407745398673486",
 "url": "https://x.com/G2AIStack/status/2095407745398673486",
 "handle": "G2AIStack",
@@ -21355,6 +23386,20 @@
 "hi": false
 },
 {
+"id": "2123191397771788547",
+"url": "https://x.com/TanesenWhale/status/2123191397771788547",
+"handle": "TanesenWhale",
+"date": "2026-11-18",
+"interactions": 16,
+"views": 1110,
+"language": "",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "【速報📈】Anthropic 2倍レバETF登場！ $ANT #Anthropic Anthropic IPO、レバレッジETF好きはこちらもチェックが必要！ 🔴 ANUU｜ANT×2倍（2倍ロング） 🟢 ANDD｜ANT−2倍（2倍ショート） 運用会社はLeverage Shares。 IPOに合わせて上場準備中！ Anthropic IPO、持つなら 🚀 ANUU（2倍ロング）？",
+"hi": false
+},
+{
 "id": "2105386876895166802",
 "url": "https://x.com/faststocknewss/status/2105386876895166802",
 "handle": "faststocknewss",
@@ -21646,6 +23691,34 @@
 "topic": "Losses, burn & financing",
 "method": "keyword",
 "summary": "Anthropic funding helps $NVDA, but cash must reach deliveries. On November 10, I flagged a withdrawn pricing filing. The November 10 prospectus lists ~$900.9B in commitments through 2045, ~$451.6B by ",
+"hi": false
+},
+{
+"id": "2123078182995636328",
+"url": "https://x.com/_naina_20/status/2123078182995636328",
+"handle": "_naina_20",
+"date": "2026-11-18",
+"interactions": 15,
+"views": 226,
+"language": "",
+"sentiment": 0.5,
+"topic": "Valuation & AI-bubble",
+"method": "keyword",
+"summary": "ONE IPO. TWO VERDICTS. The market seems almost convinced Anthropic will close above its IPO price. But its closing valuation? That's a different story. First-day price: Strong bullish sentiment. First",
+"hi": false
+},
+{
+"id": "2123060343358501063",
+"url": "https://x.com/ANCrypto_/status/2123060343358501063",
+"handle": "ANCrypto_",
+"date": "2026-11-18",
+"interactions": 15,
+"views": 893,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "🚨 $500 MILLION IN USDC — BINANCE WALLET'S ANTHROPIC IPO CAMPAIGN HITS FULL CAPACITY! 🔥 The race for tokenized AI stock exposure is heating up! Binance Wallet's Anthropic IPO xStocks campaign has offic",
 "hi": false
 },
 {
@@ -22475,6 +24548,34 @@
 "hi": false
 },
 {
+"id": "2123058224899203201",
+"url": "https://x.com/CNBCMorningCall/status/2123058224899203201",
+"handle": "CNBCMorningCall",
+"date": "2026-11-18",
+"interactions": 13,
+"views": 5484,
+"language": "en",
+"sentiment": 0.0,
+"topic": "Governance & founder control",
+"method": "keyword",
+"summary": "Morning Call Sheet: Nvidia earnings, Anthropic IPO and AI regulation. Brent Kochuba, Founder of @spotgamma; Sarah Kunst, Managing Director at Cleo Capital; and @JimPethokoukis, Economic Policy Analyst",
+"hi": false
+},
+{
+"id": "2123181979911004663",
+"url": "https://x.com/AlliumLabs/status/2123181979911004663",
+"handle": "AlliumLabs",
+"date": "2026-11-18",
+"interactions": 13,
+"views": 707,
+"language": "en",
+"sentiment": 0.0,
+"topic": "Valuation & AI-bubble",
+"method": "keyword",
+"summary": "Anthropic IPOs on Nov 19. Top of the S-1 range: $78 Onchain perp price (Nov 17): $97.22 Full report:",
+"hi": false
+},
+{
 "id": "2114712843341922713",
 "url": "https://x.com/RoaringRagnar/status/2114712843341922713",
 "handle": "RoaringRagnar",
@@ -22920,6 +25021,20 @@
 "topic": "Valuation & AI-bubble",
 "method": "keyword",
 "summary": "🚨 WALL STREET IS ABOUT TO WITNESS SOMETHING INSANE. $ANT — ANTHROPIC. IPO PRICE: $83. VALUATION: ~$1.5 TRILLION. CAPITAL RAISED: ~$81 BILLION. THE BIGGEST IPO IN HISTORY. And investors are still debat",
+"hi": false
+},
+{
+"id": "2123182964632654061",
+"url": "https://x.com/crypto__bites/status/2123182964632654061",
+"handle": "crypto__bites",
+"date": "2026-11-18",
+"interactions": 12,
+"views": 82,
+"language": "en",
+"sentiment": 0.25,
+"topic": "Compute deals & partners",
+"method": "keyword",
+"summary": "JUST IN : Nvidia is buying $10 billion of Anthropic shares. Anthropic is set to list on Nasdaq under $ANT around Nov 18–19. Boost for $ANT.",
 "hi": false
 },
 {
@@ -23410,20 +25525,6 @@
 "topic": "IPO timing & market impact",
 "method": "keyword",
 "summary": "Today in Bloomberg Deals: Activist shareholders double down on targets, Anthropic guides IPO price to top of range or above and BASF prepares new Evonik offer.",
-"hi": false
-},
-{
-"id": "2123414378523320762",
-"url": "https://x.com/CNBC/status/2123414378523320762",
-"handle": "CNBC",
-"date": "2026-11-19",
-"interactions": 11,
-"views": 10430,
-"language": "",
-"sentiment": 0.0,
-"topic": "IPO timing & market impact",
-"method": "keyword",
-"summary": "An analyst explains the ‘trigger’ that prompted him to sell every stock he owns on Anthropic IPO day",
 "hi": false
 },
 {
@@ -24082,6 +26183,20 @@
 "topic": "Valuation & AI-bubble",
 "method": "keyword",
 "summary": "本日、Anthropic(Claude)がナスダック上場🐜 🚨アンソロピック📈 AI企業が1兆ドル超で株式市場へ AI企業が1兆ドル超で株式市場へ バブルか、新時代か?あなたの予想は?👇 #Anthropic #ANT #IPO",
+"hi": false
+},
+{
+"id": "2123067279135178777",
+"url": "https://x.com/PSInvestor/status/2123067279135178777",
+"handle": "PSInvestor",
+"date": "2026-11-18",
+"interactions": 10,
+"views": 5692,
+"language": "en",
+"sentiment": 0.0,
+"topic": "Compute deals & partners",
+"method": "keyword",
+"summary": "$CHRN X $ANT ? ChronoScale didn't name the lab behind its $7.5B Odessa deal. My calculated guess: Anthropic . The lab needs an investment-grade tech company standing behind it, which rules out $GOOGL,",
 "hi": false
 },
 {
@@ -24771,6 +26886,34 @@
 "hi": false
 },
 {
+"id": "2123065462464319628",
+"url": "https://x.com/TheBeastzilla/status/2123065462464319628",
+"handle": "TheBeastzilla",
+"date": "2026-11-18",
+"interactions": 9,
+"views": 128,
+"language": "en",
+"sentiment": 0.0,
+"topic": "Losses, burn & financing",
+"method": "keyword",
+"summary": "Anthropic lists tomorrow at a $1.3T to $1.4T target, and CZ says IPO cash-raising is part of why BTC slid to $64K. Analysts call it a coincidence and blame rate hike fears instead. What's really drain",
+"hi": false
+},
+{
+"id": "2123766425063989657",
+"url": "https://x.com/CNBC/status/2123766425063989657",
+"handle": "CNBC",
+"date": "2026-11-20",
+"interactions": 9,
+"views": 13867,
+"language": "en",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic just had its record-smashing IPO. Seaport is 'cautious' on the stock",
+"hi": false
+},
+{
 "id": "2106387259415052600",
 "url": "https://x.com/Grazi/status/2106387259415052600",
 "handle": "Grazi",
@@ -25443,20 +27586,6 @@
 "hi": false
 },
 {
-"id": "2123419074994508247",
-"url": "https://x.com/CNBC/status/2123419074994508247",
-"handle": "CNBC",
-"date": "2026-11-19",
-"interactions": 8,
-"views": 7711,
-"language": "",
-"sentiment": 0.0,
-"topic": "IPO timing & market impact",
-"method": "keyword",
-"summary": "Anthropic IPO, AI wealth spawn a new, leaner kind of family office",
-"hi": false
-},
-{
 "id": "2122760359094415695",
 "url": "https://x.com/MadLukas86/status/2122760359094415695",
 "handle": "MadLukas86",
@@ -25482,6 +27611,34 @@
 "topic": "IPO timing & market impact",
 "method": "keyword",
 "summary": "🚨 ANTHROPIC : 1 600 MILLIARDS $ DE VALORISATION, 900 MILLIARDS $ D’ENGAGEMENTS… QUI ENCAISSE RÉELLEMENT L’ARGENT ? Selon le WSJ, Anthropic ($ANT) pourrait relever son prix d’IPO au-delà de 80 $, propu",
+"hi": false
+},
+{
+"id": "2123060764177224027",
+"url": "https://x.com/SimonsWealth/status/2123060764177224027",
+"handle": "SimonsWealth",
+"date": "2026-11-18",
+"interactions": 8,
+"views": 263,
+"language": "en",
+"sentiment": 0.0,
+"topic": "Compute deals & partners",
+"method": "keyword",
+"summary": "$NVDA Nvidia sells Anthropic the chips. Now it's buying $10B of Anthropic stock at the IPO price. Pricing is guided above $70-78 tonight, per Bloomberg. Retail gets up to 20% vs a typical 5-10%. $ANT ",
+"hi": false
+},
+{
+"id": "2123061563544530969",
+"url": "https://x.com/agrawalmohit12/status/2123061563544530969",
+"handle": "agrawalmohit12",
+"date": "2026-11-18",
+"interactions": 8,
+"views": 849,
+"language": "en",
+"sentiment": 0.25,
+"topic": "Valuation & AI-bubble",
+"method": "keyword",
+"summary": "Anthropic $ANT is expected to join the Nasdaq 100 on Dec. 21 following its IPO, potentially triggering mandatory purchases by index funds. Its projected $1.02T valuation qualifies it for accelerated e",
 "hi": false
 },
 {
@@ -26546,6 +28703,34 @@
 "topic": "IPO timing & market impact",
 "method": "keyword",
 "summary": "ANTHROPIC IPO VS CRYPTO @AnthropicAI is set to price its IPO on November 18 and start trading on Nasdaq as ANT on November 19. At the top of the $70 - $78 range, the 825M-share offering raises $64.35B",
+"hi": false
+},
+{
+"id": "2123113370920382901",
+"url": "https://x.com/NN_Terminal/status/2123113370920382901",
+"handle": "NN_Terminal",
+"date": "2026-11-18",
+"interactions": 7,
+"views": 42,
+"language": "",
+"sentiment": 0.25,
+"topic": "Compute deals & partners",
+"method": "keyword",
+"summary": "🇬🇧 Anthropic weighs a bigger IPO as demand surges; Amazon and Google would each own over 14%. 🇮🇹 Anthropic valuta un'IPO più grande; Amazon e Google avrebbero oltre il 14% a testa. via CNBC / Economic",
+"hi": false
+},
+{
+"id": "2123165369724510521",
+"url": "https://x.com/CNBC/status/2123165369724510521",
+"handle": "CNBC",
+"date": "2026-11-18",
+"interactions": 7,
+"views": 9434,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic priced its IPO at $83 per share on Wednesday, a person familiar told CNBC, above the expected range, setting the stage for the Claude creator’s eagerly awaited Nasdaq listing and a historic ",
 "hi": false
 },
 {
@@ -27778,6 +29963,20 @@
 "topic": "IPO timing & market impact",
 "method": "keyword",
 "summary": "Anthropic lists today Nasdaq open: 14:30 UTC, ticker ANT 825M shares offered, close to 7× oversubscribed per Bloomberg Confidential S-1 in June, public prospectus in October, listing today: Claude's m",
+"hi": false
+},
+{
+"id": "2123058389379125554",
+"url": "https://x.com/lllleeenny4321/status/2123058389379125554",
+"handle": "lllleeenny4321",
+"date": "2026-11-18",
+"interactions": 6,
+"views": 991,
+"language": "zh",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "今晚首日就有大型首次公开募股 IPO 阿里巴巴：+38.1% SpaceX：+19.2% Anthropic：？ @grok",
 "hi": false
 },
 {
@@ -29284,7 +31483,7 @@
 "handle": "jpmbiz",
 "date": "2026-11-18",
 "interactions": 5,
-"views": 30,
+"views": 40,
 "language": "",
 "sentiment": 0.0,
 "topic": "Losses, burn & financing",
@@ -29346,6 +31545,20 @@
 "topic": "IPO timing & market impact",
 "method": "keyword",
 "summary": "Is Anthropic still going to IPO with Schwab &amp; banks down? Are Schwab &amp; banks down because Anthropic is going to IPO?",
+"hi": false
+},
+{
+"id": "2123058645621788751",
+"url": "https://x.com/XZ_BNB/status/2123058645621788751",
+"handle": "XZ_BNB",
+"date": "2026-11-18",
+"interactions": 5,
+"views": 446,
+"language": "zh",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic IPO 引爆散户热情，首日净买入预计约 2.5 亿美元 随着 Anthropic 计划于周四登陆纳斯达克，散户投资者参与热情高涨。Vanda Research 预计其上市首日散户净买入规模有望达到约 SpaceX IPO 首日的两倍。 散户参与： · 预计首日散户净买入：约 2.5 亿美元 · 约为 SpaceX IPO",
 "hi": false
 },
 {
@@ -31902,7 +34115,7 @@
 "handle": "Polymarket",
 "date": "2026-11-19",
 "interactions": 4,
-"views": 2439,
+"views": 3476,
 "language": "",
 "sentiment": 0.0,
 "topic": "Valuation & AI-bubble",
@@ -31964,6 +34177,62 @@
 "topic": "Valuation & AI-bubble",
 "method": "keyword",
 "summary": "生成AI「Claude（クロード）」を作っている米国のAI企業 Anthropic（アンソロピック） が、いよいよ11月19日に米🍆DAQ市場へ上場（IPO）！売り出し規模は最大約10兆円と史上最大級で、すでに申込が殺到らしい。日本のネット証券で申し込めるのがすごい時代…！#Anthropic #Claude #米国株 #IPO #AI投資",
+"hi": false
+},
+{
+"id": "2123058302015984117",
+"url": "https://x.com/daniel_praguepp/status/2123058302015984117",
+"handle": "daniel_praguepp",
+"date": "2026-11-18",
+"interactions": 4,
+"views": 133,
+"language": "zh",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic（ANT）IPO 定价时间 美东时间：11 月 18 日 美股收盘之后（美东 16:00 收盘，定价磋商在美东 18:00–22:00这个窗口内敲定，不是固定整点） 认购订单在美东 11 月 17 日下午 4 点已经截止；18 日晚投行 + 公司敲定最终发行价，随后向 SEC 提交文件、媒体对外披露。 发行指导价区间：70–78",
+"hi": false
+},
+{
+"id": "2123067237083078915",
+"url": "https://x.com/Nodus42/status/2123067237083078915",
+"handle": "Nodus42",
+"date": "2026-11-18",
+"interactions": 4,
+"views": 291,
+"language": "en",
+"sentiment": 0.0,
+"topic": "Compute deals & partners",
+"method": "keyword",
+"summary": "Nov 18 · After the open 1. $NVDA opened +2.4% on the beat. It was red in 15 minutes 2. Fed's Waller wants 50 bps in December: \"shock people\" 3. Nvidia put $1B+ into Kinsus. SPIL to triple packaging by",
+"hi": false
+},
+{
+"id": "2123181963918094846",
+"url": "https://x.com/Yatta5064/status/2123181963918094846",
+"handle": "Yatta5064",
+"date": "2026-11-18",
+"interactions": 4,
+"views": 591,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Claudeを作ってるAnthropic、今日ナスダックに上場予定と報道されてますね〜！ AIの会社が上場ってなんだか時代を感じる・・・ 普段Claude Codeで使ってる身としては、ニュースとして気になりますw ・・・てか、買っちゃったしwww",
+"hi": false
+},
+{
+"id": "2123462968629236182",
+"url": "https://x.com/Polymarket/status/2123462968629236182",
+"handle": "Polymarket",
+"date": "2026-11-19",
+"interactions": 4,
+"views": 15141,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic IPO closing market cap forecast:",
 "hi": false
 },
 {
@@ -35542,7 +37811,7 @@
 "handle": "findatasets",
 "date": "2026-11-18",
 "interactions": 3,
-"views": 611,
+"views": 635,
 "language": "",
 "sentiment": 0.0,
 "topic": "IPO timing & market impact",
@@ -35660,6 +37929,132 @@
 "topic": "Valuation & AI-bubble",
 "method": "keyword",
 "summary": "🚨 TODAY AT 11 AM ET Is Anthropic Worth $2 TRILLION? Hedgeye CEO @KeithMcCullough and Communications &amp; Software Sector Head @HedgeyeComm go head-to-head on Anthropic's IPO valuation. Is the AI hype",
+"hi": false
+},
+{
+"id": "2123198075141509181",
+"url": "https://x.com/andrescardenal/status/2123198075141509181",
+"handle": "andrescardenal",
+"date": "2026-11-18",
+"interactions": 3,
+"views": 1103,
+"language": "",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Bullish $ANT raising a lot of money stabilizes the AI ecosystem *ANTHROPIC PRICES IPO AT $83 PER SHARE, ABOVE RANGE *ANTHROPIC UPSIZED IPO TO 980M SHARES *ANTHROPIC: 956M SHARES SOLD BY ANTHROPIC, 23.",
+"hi": false
+},
+{
+"id": "2123196427606057091",
+"url": "https://x.com/GBAFReview/status/2123196427606057091",
+"handle": "GBAFReview",
+"date": "2026-11-18",
+"interactions": 3,
+"views": 120,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Report from Global Banking &amp; Finance Review Anthropic reportedly clinches an $81 billion IPO—potentially the biggest ever. A landmark moment for AI investing, tech IPOs, and the global IPO market.",
+"hi": false
+},
+{
+"id": "2123101044922314770",
+"url": "https://x.com/ishanick3/status/2123101044922314770",
+"handle": "ishanick3",
+"date": "2026-11-18",
+"interactions": 3,
+"views": 138,
+"language": "",
+"sentiment": 0.25,
+"topic": "Valuation & AI-bubble",
+"method": "keyword",
+"summary": "Day 33/365 | With @BitgetWallet Anthropic Pre-IPO Perps Big news for AI and crypto enthusiasts! Bitget Wallet brings Anthropic Pre-IPO Perps, giving users an opportunity to trade exposure to Anthropic",
+"hi": false
+},
+{
+"id": "2123062627391746270",
+"url": "https://x.com/thenrys1/status/2123062627391746270",
+"handle": "thenrys1",
+"date": "2026-11-18",
+"interactions": 3,
+"views": 78,
+"language": "en",
+"sentiment": 0.5,
+"topic": "Valuation & AI-bubble",
+"method": "keyword",
+"summary": "The Anthropic IPO is over, but the trading opportunity is just getting started. $ANT is now available through perpetual contracts on @bitget, giving traders another way to participate in its price mov",
+"hi": false
+},
+{
+"id": "2123058659836264664",
+"url": "https://x.com/adityaa_behera/status/2123058659836264664",
+"handle": "adityaa_behera",
+"date": "2026-11-18",
+"interactions": 3,
+"views": 661,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Yesterday: GPT-6.2 Astra and Sol Today: Gemini 4 Neon Tomorrow: Fable 5.5+ Anthropic IPO We thought this week will be boring but AI labs always finds a way to entertain.",
+"hi": false
+},
+{
+"id": "2123152842726756656",
+"url": "https://x.com/nilaymod/status/2123152842726756656",
+"handle": "nilaymod",
+"date": "2026-11-18",
+"interactions": 3,
+"views": 919,
+"language": "en",
+"sentiment": -0.25,
+"topic": "Safety / existential-risk disclosures",
+"method": "keyword",
+"summary": "Anthropic S-1 risk factor #22: \"Our biggest customer and our biggest competitor are both Cursor.\"",
+"hi": false
+},
+{
+"id": "2123172178514305276",
+"url": "https://x.com/GetPursa/status/2123172178514305276",
+"handle": "GetPursa",
+"date": "2026-11-18",
+"interactions": 3,
+"views": 162,
+"language": "tr",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "$ANT Anthropic Nasdaq'ta İşleme Başlıyor Anthropic 18 Kasım'da fiyatlamayı tamamladı, 19 Kasım'da Nasdaq'ta $ANT koduyla işlem görecek. 825 milyon A sınıfı hisse için öngörülen fiyat aralığı 70-78 dol",
+"hi": false
+},
+{
+"id": "2123088052272935127",
+"url": "https://x.com/VitaliiKutsyn/status/2123088052272935127",
+"handle": "VitaliiKutsyn",
+"date": "2026-11-18",
+"interactions": 3,
+"views": 132,
+"language": "en",
+"sentiment": -0.25,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "🪙 BTC drops below $63,000 Rumor has it everyone is dumping their assets to get into the Anthropic #ANT IPO. ANT starts trading tomorrow, November 19. Tomorrow's going to be an interesting day. Will th",
+"hi": false
+},
+{
+"id": "2123421597729989079",
+"url": "https://x.com/Polymarket/status/2123421597729989079",
+"handle": "Polymarket",
+"date": "2026-11-19",
+"interactions": 3,
+"views": 12917,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Join the Anthropic IPO Blitz for a shot at the $30K prize pool:",
 "hi": false
 },
 {
@@ -42780,7 +45175,7 @@
 "handle": "jpmbiz",
 "date": "2026-11-18",
 "interactions": 2,
-"views": 24,
+"views": 32,
 "language": "",
 "sentiment": -0.25,
 "topic": "Losses, burn & financing",
@@ -42884,6 +45279,202 @@
 "topic": "Valuation & AI-bubble",
 "method": "keyword",
 "summary": "AI is creating a new class of billionaires — but could it also create the next financial bubble? Anthropic raised $81.31 billion in its IPO, with a valuation of around $1.5 trillion. The AI revolution",
+"hi": false
+},
+{
+"id": "2123120012923675044",
+"url": "https://x.com/FINANCIERNEWS/status/2123120012923675044",
+"handle": "FINANCIERNEWS",
+"date": "2026-11-18",
+"interactions": 2,
+"views": 281,
+"language": "",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic Preps Record IPO to Top SpaceX's June Debut 🤖 Anthropic is preparing to price what could be the biggest IPO of all time, setting up a direct challenge to the record SpaceX claimed in June wi",
+"hi": false
+},
+{
+"id": "2123162695398719690",
+"url": "https://x.com/naklongpoong/status/2123162695398719690",
+"handle": "naklongpoong",
+"date": "2026-11-18",
+"interactions": 2,
+"views": 415,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic ตั้งราคา IPO ที่ 83 ดอลลาร์ต่อหุ้น สูงกว่ากรอบราคาเสนอขายเดิม Bloomberg รายงานว่า Anthropic กำหนดราคาเสนอขายหุ้น IPO ที่ 83 ดอลลาร์ต่อหุ้น สูงกว่ากรอบราคาเดิมที่ 70–78 ดอลลาร์ต่อหุ้น บริษัทร",
+"hi": false
+},
+{
+"id": "2123079431337972009",
+"url": "https://x.com/fast_buckz/status/2123079431337972009",
+"handle": "fast_buckz",
+"date": "2026-11-18",
+"interactions": 2,
+"views": 247,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "#Anthropic hasn't even started trading on Nasdaq, but crypto traders are already putting a price on it. The pre-IPO contract on Hyperliquid is trading around $98.83 per share, roughly 24% above the $8",
+"hi": false
+},
+{
+"id": "2123061406593417703",
+"url": "https://x.com/theledgerwire/status/2123061406593417703",
+"handle": "theledgerwire",
+"date": "2026-11-18",
+"interactions": 2,
+"views": 52,
+"language": "en",
+"sentiment": 0.25,
+"topic": "Compute deals & partners",
+"method": "keyword",
+"summary": "Anthropic IPO: 825M Class A shares at an estimated $70 to $78 each. Seven chip and cloud companies, including Google and Nvidia, will buy $26B of non-voting shares. Pricing Nov 18, trading starts Nov ",
+"hi": false
+},
+{
+"id": "2123059279900946735",
+"url": "https://x.com/XCryptoLive/status/2123059279900946735",
+"handle": "XCryptoLive",
+"date": "2026-11-18",
+"interactions": 2,
+"views": 45,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "🚨 BINANCE WALLET'S ANTHROPIC TOKENIZED-STOCK CAMPAIGN HITS $500 MILLION CAP Binance Wallet's Anthropic IPO xStocks campaign has reached its full 500 million USDC subscription cap, forcing the platform",
+"hi": false
+},
+{
+"id": "2123059741404328000",
+"url": "https://x.com/CNBCtech/status/2123059741404328000",
+"handle": "CNBCtech",
+"date": "2026-11-18",
+"interactions": 2,
+"views": 592,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut",
+"hi": false
+},
+{
+"id": "2123058289365647588",
+"url": "https://x.com/TheReal50972902/status/2123058289365647588",
+"handle": "TheReal50972902",
+"date": "2026-11-18",
+"interactions": 2,
+"views": 195,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "@blueprintsmb22 Yes, let's all listen to some PhD, who is 26 years old and never done anything in his life, explain some crazy scenario and get all worked up about it. The timing of this is also compl",
+"hi": false
+},
+{
+"id": "2123058515665424535",
+"url": "https://x.com/yabuliskiclub/status/2123058515665424535",
+"handle": "yabuliskiclub",
+"date": "2026-11-18",
+"interactions": 2,
+"views": 44,
+"language": "zh",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "@TechFlowPost Yorki 那句最准：故事讲安全，定价看上市预期。值得注意的是，这个「预期」现在首先是在加密轨道上定价的——Hyperliquid 上 Anthropic IPO 前永续已有巨鲸 $9,387 万空头、浮盈超 $400 万；币安 xStocks 的代币化 Anthropic 认购 $5 亿 USDC 额度提前填满、活动提前结束。今晚定价、明晨约 05:00",
+"hi": false
+},
+{
+"id": "2123165438855057735",
+"url": "https://x.com/MatthewTCowan/status/2123165438855057735",
+"handle": "MatthewTCowan",
+"date": "2026-11-18",
+"interactions": 2,
+"views": 263,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic's S-1 confirms the price collapse, in its own words",
+"hi": false
+},
+{
+"id": "2123059878272897060",
+"url": "https://x.com/RonenTzirin/status/2123059878272897060",
+"handle": "RonenTzirin",
+"date": "2026-11-18",
+"interactions": 2,
+"views": 251,
+"language": "en",
+"sentiment": 0.25,
+"topic": "Compute deals & partners",
+"method": "keyword",
+"summary": "☀️ Good morning. Nvidia's strong outlook has Nasdaq 100 futures green after four straight losing days for the S&amp;P 500, and Anthropic prices its IPO later today. 🔮 FUTURES • Nasdaq 100 futures +0.6",
+"hi": false
+},
+{
+"id": "2123170812635349259",
+"url": "https://x.com/AntiHerdtrader/status/2123170812635349259",
+"handle": "AntiHerdtrader",
+"date": "2026-11-18",
+"interactions": 2,
+"views": 41,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "@solana Hey @solana @LaunchOnSF first ever $ANT ON CHAIN PAIRED WITH ANTHROPIC!?! Why buy the IPO when you can buy $Ant on SOL, first ever $ANT ON CHAIN PAIRED WITH ANTHROPIC!?! AZeorns47JKQYRYjgWgBit",
+"hi": false
+},
+{
+"id": "2123201868637549001",
+"url": "https://x.com/Till1M/status/2123201868637549001",
+"handle": "Till1M",
+"date": "2026-11-18",
+"interactions": 2,
+"views": 196,
+"language": "en",
+"sentiment": 0.25,
+"topic": "Valuation & AI-bubble",
+"method": "keyword",
+"summary": "Ari's buying $ANT before it even trades. 🤭 Anthropic prices tonight, first trade tomorrow on Nasdaq — $70–78 range, ~$1.4T valuation, the biggest AI IPO ever. She's early. Are you? #ANT #Anthropic #IP",
+"hi": false
+},
+{
+"id": "2123782250483343698",
+"url": "https://x.com/arnaudmercier/status/2123782250483343698",
+"handle": "arnaudmercier",
+"date": "2026-11-20",
+"interactions": 2,
+"views": 9,
+"language": "en",
+"sentiment": 0.0,
+"topic": "Valuation & AI-bubble",
+"method": "keyword",
+"summary": "Anthropic prices IPO at $83 a share, valuing it at about $1.5 trillion - Yahoo Finance",
+"hi": false
+},
+{
+"id": "2123520328404177234",
+"url": "https://x.com/RUIZONE08/status/2123520328404177234",
+"handle": "RUIZONE08",
+"date": "2026-11-19",
+"interactions": 2,
+"views": 489,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "アンソロピックの上場は地合が悪いよな。 上場する時がよくないのもあるとおもう。 こんな相場で上場してもなかなかあげにくいと思うww #アンソロピックIPO #アンソロピック #Anthropic",
 "hi": false
 },
 {
@@ -59454,7 +62045,7 @@
 "handle": "EmunaEliran",
 "date": "2026-11-18",
 "interactions": 1,
-"views": 32,
+"views": 33,
 "language": "",
 "sentiment": 0.25,
 "topic": "IPO timing & market impact",
@@ -59482,7 +62073,7 @@
 "handle": "Kukulkan_iYer",
 "date": "2026-11-18",
 "interactions": 1,
-"views": 83,
+"views": 84,
 "language": "",
 "sentiment": 0.0,
 "topic": "IPO timing & market impact",
@@ -59796,6 +62387,510 @@
 "topic": "Valuation & AI-bubble",
 "method": "keyword",
 "summary": "🚨 HISTORY MADE: ANTHROPIC RAISES $81.3 BILLION IN WORLD'S LARGEST IPO. The company behind Claude has reached a staggering $1.5 TRILLION valuation, surpassing SpaceX's previous IPO record. • IPO price:",
+"hi": false
+},
+{
+"id": "2123169757167829381",
+"url": "https://x.com/FPTrader_/status/2123169757167829381",
+"handle": "FPTrader_",
+"date": "2026-11-18",
+"interactions": 1,
+"views": 34,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "🚨 FLASH · 💼 IPO 🇺🇸 Anthropic fixerait le prix de son introduction en Bourse à 83 $ par action, selon Bloomberg ➡️ Au-dessus des estimations précédentes (80 $) ➡️ La semaine dernière, Bloomberg évoquai",
+"hi": false
+},
+{
+"id": "2123782892824478019",
+"url": "https://x.com/troia137983/status/2123782892824478019",
+"handle": "troia137983",
+"date": "2026-11-20",
+"interactions": 1,
+"views": 0,
+"language": "zh",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "我尝试在 codex 里用 @tuturetom 的 OpenMotion 复刻 Anthropic 的 ipo 宣传片 效果真的太完美了 体感上比 rea-video 甚至更舒服 大概花了10x 的周额度 5% crazy 🥹",
+"hi": false
+},
+{
+"id": "2123782684921213075",
+"url": "https://x.com/vinayak_agg/status/2123782684921213075",
+"handle": "vinayak_agg",
+"date": "2026-11-20",
+"interactions": 1,
+"views": 9,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Remember getting dinner with childhood friend and mutuals in SF big tech (Anthropic, Open AI etc) last year, masters and PhD grads first job out of college mostly. Folks made $40M today, disappointed ",
+"hi": false
+},
+{
+"id": "2123782630273397120",
+"url": "https://x.com/EMEBOK_/status/2123782630273397120",
+"handle": "EMEBOK_",
+"date": "2026-11-20",
+"interactions": 1,
+"views": 20,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic is now trading publicly, and BingX has brought ANTUS(ANTHROPIC) into the spotlight with an IPO Gala Trading Contest. the progressive prize pool can reach 500,000 USDT, with up to 150,000 USD",
+"hi": false
+},
+{
+"id": "2123065563186659705",
+"url": "https://x.com/Abhinav5105/status/2123065563186659705",
+"handle": "Abhinav5105",
+"date": "2026-11-18",
+"interactions": 1,
+"views": 55,
+"language": "",
+"sentiment": 0.25,
+"topic": "Compute deals & partners",
+"method": "keyword",
+"summary": "🚨 ANTHROPIC IPO WATCH 💰 Anthropic is reportedly targeting a $1.3T–$1.5T valuation for its IPO. ☁️ Amazon &amp; Google: major backers 💻 Nvidia &amp; AMD: key chip suppliers 🏦 Wall Street funds: strong ",
+"hi": false
+},
+{
+"id": "2123148241730482203",
+"url": "https://x.com/BACOOR_NEWS/status/2123148241730482203",
+"handle": "BACOOR_NEWS",
+"date": "2026-11-18",
+"interactions": 1,
+"views": 44,
+"language": "",
+"sentiment": 0.0,
+"topic": "Valuation & AI-bubble",
+"method": "keyword",
+"summary": "Binance Wallet's 500M USDC Anthropic IPO allocation fills in hours Binance Wallet's 500M USDC tokenized Anthropic IPO allocation filled and closed early within hours. Pre-IPO perps traded $96-99 this ",
+"hi": false
+},
+{
+"id": "2123063176199581780",
+"url": "https://x.com/xaviergarcia/status/2123063176199581780",
+"handle": "xaviergarcia",
+"date": "2026-11-18",
+"interactions": 1,
+"views": 27,
+"language": "es",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "💰 Anthropic fija hoy el precio de su IPO. La compañía apunta a una valoración de hasta 1,4 billones de dólares en una de las salidas a bolsa más grandes de la historia de la IA. #Anthropic #IPO #AI",
+"hi": false
+},
+{
+"id": "2123062171554996664",
+"url": "https://x.com/dklowery/status/2123062171554996664",
+"handle": "dklowery",
+"date": "2026-11-18",
+"interactions": 1,
+"views": 15,
+"language": "en",
+"sentiment": 0.25,
+"topic": "Compute deals & partners",
+"method": "keyword",
+"summary": "🚀 Anthropic prices its IPO TONIGHT — and its own SEC filing reveals it could pay @SpaceX up to $120.5 BILLION for compute through 2029. The details from Anthropic's S-1: • About $3.1 billion PER MONTH",
+"hi": false
+},
+{
+"id": "2123061290616971517",
+"url": "https://x.com/miraclemasui/status/2123061290616971517",
+"handle": "miraclemasui",
+"date": "2026-11-18",
+"interactions": 1,
+"views": 1179,
+"language": "ja",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "CNBC 23:20 掲載 AnthropicのIPOに対する個人投資家の熱狂、SpaceXのデビューに匹敵へ Anthropicは今週、超大型の新規株式公開を控えており、個人投資家の盛り上がりは桁外れのようだ。 Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut Anthropic is gearing up fo",
+"hi": false
+},
+{
+"id": "2123062806152876470",
+"url": "https://x.com/BbSignal/status/2123062806152876470",
+"handle": "BbSignal",
+"date": "2026-11-18",
+"interactions": 1,
+"views": 340,
+"language": "en",
+"sentiment": 0.0,
+"topic": "Compute deals & partners",
+"method": "keyword",
+"summary": "1999 NVDA IPO 3x Revenues 2004 Google IPO 10x Revenuest 2026 Anthropic IPO 22X Revenues ?!?!",
+"hi": false
+},
+{
+"id": "2123065474296463790",
+"url": "https://x.com/luca87m/status/2123065474296463790",
+"handle": "luca87m",
+"date": "2026-11-18",
+"interactions": 1,
+"views": 38,
+"language": "en",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "🚀 Tomorrow is a big day for the AI industry: Anthropic goes public! The company behind Claude is expected to make its Nasdaq debut on November 19 under the ticker $ANT. With an expected IPO valuation ",
+"hi": false
+},
+{
+"id": "2123058399457767868",
+"url": "https://x.com/Terry_Kline_Jr/status/2123058399457767868",
+"handle": "Terry_Kline_Jr",
+"date": "2026-11-18",
+"interactions": 1,
+"views": 48,
+"language": "en",
+"sentiment": 0.0,
+"topic": "Compute deals & partners",
+"method": "keyword",
+"summary": "@garyblack00 Nice to see Nvidia's numbers lift the whole group this morning. Curious whether the Anthropic IPO pulls money from other AI names or just adds to the excitement.",
+"hi": false
+},
+{
+"id": "2123058652604961106",
+"url": "https://x.com/rookietradess/status/2123058652604961106",
+"handle": "rookietradess",
+"date": "2026-11-18",
+"interactions": 1,
+"views": 1,
+"language": "en",
+"sentiment": 0.25,
+"topic": "Compute deals & partners",
+"method": "keyword",
+"summary": "Two AI sentiment tests in 24 hours: A) Nvidia: beat revenue by ~$6.7B, up ~3-4% premarket after a 4-day losing streak B) Anthropic: expected to price its IPO tonight, marketed at $70-78 Which tells yo",
+"hi": false
+},
+{
+"id": "2123160099254399485",
+"url": "https://x.com/Frelzu/status/2123160099254399485",
+"handle": "Frelzu",
+"date": "2026-11-18",
+"interactions": 1,
+"views": 298,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "@MTSlive First time Gary Marcus and Beff Jezos agreed on anything. Anthropic should put that in the S-1.",
+"hi": false
+},
+{
+"id": "2123062054441644291",
+"url": "https://x.com/squawkflow/status/2123062054441644291",
+"handle": "squawkflow",
+"date": "2026-11-18",
+"interactions": 1,
+"views": 47,
+"language": "en",
+"sentiment": 0.0,
+"topic": "Valuation & AI-bubble",
+"method": "keyword",
+"summary": "WHY IS ANTHROPIC WORTH $1.4 TRILLION? It is not, yet. $1.4T is the reported fully diluted value at $78, top of the range. Basic shares at $70 to $78 imply $916B to $1,021B est. (S-1/A, Nov 17). No pri",
+"hi": false
+},
+{
+"id": "2123194630908821858",
+"url": "https://x.com/fourweekmba/status/2123194630908821858",
+"handle": "fourweekmba",
+"date": "2026-11-18",
+"interactions": 1,
+"views": 81,
+"language": "en",
+"sentiment": 0.0,
+"topic": "Valuation & AI-bubble",
+"method": "keyword",
+"summary": "Anthropic is weighing $80 to $85 a share for its IPO, Bloomberg reported. On the S-1/A share count, that values the company at about $1.05 trillion to $1.11 trillion, by our arithmetic. 1/5",
+"hi": false
+},
+{
+"id": "2123192100309074132",
+"url": "https://x.com/grok/status/2123192100309074132",
+"handle": "grok",
+"date": "2026-11-18",
+"interactions": 1,
+"views": 222,
+"language": "en",
+"sentiment": 0.0,
+"topic": "Compute deals & partners",
+"method": "keyword",
+"summary": "@jpcvr @FindleysFinance Google will own about 13.7% of Anthropic after the IPO and concurrent private placement, according to the latest S-1 filing. Those are non-voting Class N shares. Amazon is at 1",
+"hi": false
+},
+{
+"id": "2123486246857282014",
+"url": "https://x.com/cath2060/status/2123486246857282014",
+"handle": "cath2060",
+"date": "2026-11-19",
+"interactions": 1,
+"views": 23,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "@henrikhinai Timeline of Anthropic's IPO Filings October 26, 2026: Anthropic publicly filed its initial Form S-1 registration statement. November 2, 2026: Anthropic filed Amendment No. 1 (S-1/A-1). No",
+"hi": false
+},
+{
+"id": "2123105268967879137",
+"url": "https://x.com/dvy97227/status/2123105268967879137",
+"handle": "dvy97227",
+"date": "2026-11-18",
+"interactions": 1,
+"views": 31,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic entre en bourse ($ANT) 🎁 On a transformé son prospectus en page à manipuler : • revenus ×45 en six trimestres, en 3D • un curseur de prix qui recalcule la valorisation, la dilution et l'arge",
+"hi": false
+},
+{
+"id": "2123192321474764826",
+"url": "https://x.com/BroadwakeAI/status/2123192321474764826",
+"handle": "BroadwakeAI",
+"date": "2026-11-18",
+"interactions": 1,
+"views": 27,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "@AnthropicAI Still open: the final share count. At the filed 825M shares, $83 means a $68.5B sale, plus up to 123.75M greenshoe shares. The final prospectus should confirm. Sources: Anthropic SEC fili",
+"hi": false
+},
+{
+"id": "2123145532210286964",
+"url": "https://x.com/Almuhanna_X/status/2123145532210286964",
+"handle": "Almuhanna_X",
+"date": "2026-11-18",
+"interactions": 1,
+"views": 264,
+"language": "und",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "‼️ اكتتاب Anthropic و SpaceX: اقرأ ١/ —————————————————— #الذكاء_الاصطناعي #الاكتتابات #السوق_الامريكي #ناسداك #استثمار #أسهم #IPO #أنثروبيك #انثروبيك #الذكاء_الاصطناعي #كلود #اكتتاب #الاكتتابات #ANT ",
+"hi": false
+},
+{
+"id": "2123183356896858410",
+"url": "https://x.com/categoryx/status/2123183356896858410",
+"handle": "categoryx",
+"date": "2026-11-18",
+"interactions": 1,
+"views": 152,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Tick tock: @AnthropicAI hits the @Nasdaq (ANT) on Thursday. ⏳ Expected range was $70–$78. Sources now say $83 is more likely, unconfirmed by Anthropic. #Anthropic #IPO #ANT #Nasdaq #AI",
+"hi": false
+},
+{
+"id": "2123179973695664359",
+"url": "https://x.com/USDP_POOL/status/2123179973695664359",
+"handle": "USDP_POOL",
+"date": "2026-11-18",
+"interactions": 1,
+"views": 124,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic has priced its IPO at $83 per share, with its total offering expected to exceed $94 billion, making it the largest IPO in stock market history, per Bloomberg. CA $ANT BTZK1B3pCoBDD1vy5e4bDBM",
+"hi": false
+},
+{
+"id": "2123199670377951241",
+"url": "https://x.com/adiokingeth/status/2123199670377951241",
+"handle": "adiokingeth",
+"date": "2026-11-18",
+"interactions": 1,
+"views": 330,
+"language": "en",
+"sentiment": 0.5,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "UPDATE: Anthropic confirms IPO at $83, 980 million shares, $ANT $83.00 a share, official. 980 million shares, 956.35 million from Anthropic and 23.65 million from selling holders. About $81.3B gross, ",
+"hi": false
+},
+{
+"id": "2123782362085417083",
+"url": "https://x.com/RipBullWinkle/status/2123782362085417083",
+"handle": "RipBullWinkle",
+"date": "2026-11-20",
+"interactions": 1,
+"views": 330,
+"language": "en",
+"sentiment": -0.25,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Jim Cramer just predicted a 'very successful' Anthropic IPO. If you know, you know. Early investors might want to hear this before they commit... $XRP",
+"hi": false
+},
+{
+"id": "2123782342422802897",
+"url": "https://x.com/David_shimya/status/2123782342422802897",
+"handle": "David_shimya",
+"date": "2026-11-20",
+"interactions": 1,
+"views": 3,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Ashton Kutcher’s VC firm just turned a $435M bet on Anthropic into roughly $7 BILLION after yesterday’s blockbuster IPO 🤯 Even wilder: how he actually got in early 👇",
+"hi": false
+},
+{
+"id": "2123782341349024197",
+"url": "https://x.com/anjummatin_gg/status/2123782341349024197",
+"handle": "anjummatin_gg",
+"date": "2026-11-20",
+"interactions": 1,
+"views": 2,
+"language": "en",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic day two. Priced $83, opened $111.50, closed $97.17, and $88.10 premarket per AP. Nikkei -5.06%, Kospi -5.21% overnight (CNBC). The biggest IPO ever was supposed to rescue the AI trade. Peopl",
+"hi": false
+},
+{
+"id": "2123782244661870942",
+"url": "https://x.com/k_koga555/status/2123782244661870942",
+"handle": "k_koga555",
+"date": "2026-11-20",
+"interactions": 1,
+"views": 254,
+"language": "ja",
+"sentiment": 0.0,
+"topic": "Valuation & AI-bubble",
+"method": "keyword",
+"summary": "【11/20話題】アンソロピック上場の日本需要は1.5兆円超か、MUFGとプログマがトークン化投信で振替制度の活用案、日本直販が通販サイトでJPYC決済試験導入など（音声ニュース） WebX STUDIO【仮想通貨 ブロックチェーン総合番組】 要約版 11月20日",
+"hi": false
+},
+{
+"id": "2123193581297148193",
+"url": "https://x.com/ainews_net/status/2123193581297148193",
+"handle": "ainews_net",
+"date": "2026-11-18",
+"interactions": 1,
+"views": 4,
+"language": "",
+"sentiment": 0.0,
+"topic": "Valuation & AI-bubble",
+"method": "keyword",
+"summary": "【Anthropic上場】 Anthropicが本日ナスダック上場。最大約644億ドルを調達、時価総額は約1.4兆ドル規模。売上は前年の約13倍、純損失は1,000億ドル超。AI株の試金石に。",
+"hi": false
+},
+{
+"id": "2123558546851934343",
+"url": "https://x.com/M1uq89M/status/2123558546851934343",
+"handle": "M1uq89M",
+"date": "2026-11-19",
+"interactions": 1,
+"views": 188,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "【Anthropic上場】 11/19(木・米国時間)の注目銘柄は、Claudeの開発元「Anthropic(ANT)」🚀 ナスダック上場初日の値動きを5分足でふりかえります! #Anthropic #ANT #IPO #新規上場 #Claude #AI関連株 #米国株 #ナスダック #注目銘柄 #Shorts",
+"hi": false
+},
+{
+"id": "2123185033347575878",
+"url": "https://x.com/kobatch_tk/status/2123185033347575878",
+"handle": "kobatch_tk",
+"date": "2026-11-18",
+"interactions": 1,
+"views": 106,
+"language": "",
+"sentiment": 0.25,
+"topic": "Compute deals & partners",
+"method": "keyword",
+"summary": "🚀 Anthropic、IPO価格を83ドルに決定！AI業界最大級の上場へ いよいよNASDAQ上場！ 公募も日本では一部証券会社に限られていたが、大体IPO見てる限り最初は下がる、入るのは第２波のタイミングからか。ちなみにAmazonとGoogleで上場後株式28%保有とのニュースも。。 （記事概要）",
+"hi": false
+},
+{
+"id": "2123204233273233868",
+"url": "https://x.com/7ulc2a/status/2123204233273233868",
+"handle": "7ulc2a",
+"date": "2026-11-18",
+"interactions": 1,
+"views": 133,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic（ANT）が今日、NASDAQに上場します 公開価格は83ドル。仮条件70〜78ドルの上限を上回る、強気の値付けでした 上場前に書いた2本を置いておきます。 ▼Claudeを使う現役エンジニアが、Anthropic株の購入に慎重な理由 (続く) #Anthropic #Claude #IPO #米国株",
+"hi": false
+},
+{
+"id": "2123626745924653557",
+"url": "https://x.com/LaboNft/status/2123626745924653557",
+"handle": "LaboNft",
+"date": "2026-11-20",
+"interactions": 1,
+"views": 66,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "リンク先はcoinspace氏の19日昼の投稿で、SpaceX上場の前後のビットコインの動きと、Anthropic上場を重ねた見方が日本語で読めます。 ▼一次ソース（coinspace・SpaceX上場前後のビットコインとAnthropic上場の比較） #ビットコイン",
+"hi": false
+},
+{
+"id": "2123545588738510946",
+"url": "https://x.com/LightSpeculator/status/2123545588738510946",
+"handle": "LightSpeculator",
+"date": "2026-11-19",
+"interactions": 1,
+"views": 79,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "[NAS100 1/2] 総合:弱気 / 材料明確さ:67/100 Anthropic上場への期待は支援材料ですが、上場前の急反転と売り圧力が優勢と判断します。 大型テック・半導体:中立 市場心理:弱気 支持材料:Anthropic上場への期待を背景に、NASDAQ100先物の上昇が報じられました。",
+"hi": false
+},
+{
+"id": "2123543629985914929",
+"url": "https://x.com/funlove_life/status/2123543629985914929",
+"handle": "funlove_life",
+"date": "2026-11-19",
+"interactions": 1,
+"views": 155,
+"language": "",
+"sentiment": 0.0,
+"topic": "Valuation & AI-bubble",
+"method": "keyword",
+"summary": "【史上最大IPO】 Claude開発の米Anthropicがナスダックに上場。調達額は813億ドル（約13兆円）でスペースXを超える過去最大に。最先端AI企業では初の上場。2026年1〜9月期の売上高は前年同期の13倍超。OpenAIも27年上場へ、AI企業の大型IPO時代が本格化。#AI #Anthropic",
+"hi": false
+},
+{
+"id": "2123329409746903210",
+"url": "https://x.com/motsu_stock/status/2123329409746903210",
+"handle": "motsu_stock",
+"date": "2026-11-19",
+"interactions": 1,
+"views": 65,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "上場直前。 需要の高さから価格設定が堅調だったことで、警戒よりも楽観がやや優勢だったものの、上場初日の動きはどうなるか。 26/11/19 (木)「Anthropic上場直前で、方向感鈍い相場」引け後情報｜MOTSU @motsu_stock",
 "hi": false
 },
 {
@@ -102779,20 +105874,6 @@
 "hi": false
 },
 {
-"id": "2123169757167829381",
-"url": "https://x.com/FPTrader_/status/2123169757167829381",
-"handle": "FPTrader_",
-"date": "2026-11-18",
-"interactions": 0,
-"views": 30,
-"language": "",
-"sentiment": 0.0,
-"topic": "IPO timing & market impact",
-"method": "keyword",
-"summary": "🚨 FLASH · 💼 IPO 🇺🇸 Anthropic fixerait le prix de son introduction en Bourse à 83 $ par action, selon Bloomberg ➡️ Au-dessus des estimations précédentes (80 $) ➡️ La semaine dernière, Bloomberg évoquai",
-"hi": false
-},
-{
 "id": "2123353591029088540",
 "url": "https://x.com/IkigAIthemedia/status/2123353591029088540",
 "handle": "IkigAIthemedia",
@@ -103792,7 +106873,7 @@
 "handle": "LeverageShares",
 "date": "2026-11-18",
 "interactions": 0,
-"views": 162,
+"views": 175,
 "language": "",
 "sentiment": 0.25,
 "topic": "Losses, burn & financing",
@@ -103820,7 +106901,7 @@
 "handle": "LeverageShares",
 "date": "2026-11-18",
 "interactions": 0,
-"views": 177,
+"views": 179,
 "language": "",
 "sentiment": 0.25,
 "topic": "Losses, burn & financing",
@@ -103932,7 +107013,7 @@
 "handle": "Brii_toe_knee",
 "date": "2026-11-18",
 "interactions": 0,
-"views": 125,
+"views": 136,
 "language": "",
 "sentiment": -0.25,
 "topic": "Safety / existential-risk disclosures",
@@ -103946,7 +107027,7 @@
 "handle": "polyhivebet",
 "date": "2026-11-18",
 "interactions": 0,
-"views": 7,
+"views": 13,
 "language": "",
 "sentiment": 0.0,
 "topic": "Valuation & AI-bubble",
@@ -103974,7 +107055,7 @@
 "handle": "filedgeai",
 "date": "2026-11-18",
 "interactions": 0,
-"views": 323,
+"views": 332,
 "language": "",
 "sentiment": 0.0,
 "topic": "Losses, burn & financing",
@@ -103988,7 +107069,7 @@
 "handle": "Barchart",
 "date": "2026-11-18",
 "interactions": 0,
-"views": 14601,
+"views": 15495,
 "language": "",
 "sentiment": 0.0,
 "topic": "IPO timing & market impact",
@@ -104324,7 +107405,7 @@
 "handle": "DecentralisedA",
 "date": "2026-11-18",
 "interactions": 0,
-"views": 57,
+"views": 61,
 "language": "",
 "sentiment": 0.0,
 "topic": "Valuation & AI-bubble",
@@ -104596,6 +107677,1350 @@
 "topic": "Valuation & AI-bubble",
 "method": "keyword",
 "summary": "🚀 Anthropic is going public at a staggering $1.4 TRILLION valuation—putting the Claude maker in the top 10 most valuable US companies. With $52B in projected 2026 revenue, this IPO could make or break",
+"hi": false
+},
+{
+"id": "2123782890483781958",
+"url": "https://x.com/grok/status/2123782890483781958",
+"handle": "grok",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 0,
+"language": "pt",
+"sentiment": 0.0,
+"topic": "Compute deals & partners",
+"method": "keyword",
+"summary": "@invest_imanuell @diz__zee A ideia é simples e brutal: o IPO da Anthropic acabou de precificar a empresa em ~US$ 1,5 trilhão com base na exclusividade do Claude. Se a Google liberasse os pesos de todo",
+"hi": false
+},
+{
+"id": "2123782882330063060",
+"url": "https://x.com/RoLiquidity/status/2123782882330063060",
+"handle": "RoLiquidity",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 0,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "🚨 ANTHROPIC SHARES TUMBLES NEAR IPO PRICE ON SECOND DAY OF TRADING (Bloomberg)",
+"hi": false
+},
+{
+"id": "2123782856656986261",
+"url": "https://x.com/afunzo/status/2123782856656986261",
+"handle": "afunzo",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 1,
+"language": "en",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "$ANT (Anthropic): IPO Excitement Fades as Selling Pressure Builds — Is a Deeper Correction Ahead? ANT is facing a very different market environment on its second trading day. After an impressive IPO d",
+"hi": false
+},
+{
+"id": "2123782839774929406",
+"url": "https://x.com/graniteshares/status/2123782839774929406",
+"handle": "graniteshares",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 74,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic’s IPO opens up new ways to trade ANT. From owning shares to options and leveraged ETFs, explore five ways to approach the listing, including GraniteShares’ AIL and ANS. Read the full article",
+"hi": false
+},
+{
+"id": "2123782819428098194",
+"url": "https://x.com/EconomiesCom/status/2123782819428098194",
+"handle": "EconomiesCom",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 23,
+"language": "en",
+"sentiment": 0.0,
+"topic": "Compute deals & partners",
+"method": "keyword",
+"summary": "Anthropic stock: -9% before the open, one day after its IPO. $ANT near $89 pre-market (9:09 am ET) vs $97.17 Thursday close. IPO price $83. CNBC: AI sell-off hits Nvidia and AMD too. Bounce? YES or NO",
+"hi": false
+},
+{
+"id": "2123782817800933704",
+"url": "https://x.com/InteGuider/status/2123782817800933704",
+"handle": "InteGuider",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 0,
+"language": "en",
+"sentiment": 0.25,
+"topic": "Valuation & AI-bubble",
+"method": "keyword",
+"summary": "Anthropic closed its first trading day with a massive $1.76 trillion valuation. IPO Price: $83/share Opening Price: $111/share Peak Valuation: $2+ trillion Closing Price: $97.17/share Closing Valuatio",
+"hi": false
+},
+{
+"id": "2123782806249882056",
+"url": "https://x.com/StelmagM/status/2123782806249882056",
+"handle": "StelmagM",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 3,
+"language": "en",
+"sentiment": 0.0,
+"topic": "Compute deals & partners",
+"method": "keyword",
+"summary": "@JamesMalsawm @grok Anthropic is &gt;&gt; Google on any meaningful comparison that relativizes. It is 2% the size of google and a completely new entry with its IPO just now. Monthly ε-deltas of models",
+"hi": false
+},
+{
+"id": "2123782783315144980",
+"url": "https://x.com/BUJUBUSHAN/status/2123782783315144980",
+"handle": "BUJUBUSHAN",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 1,
+"language": "zh",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "ANT 上市第二天，就快跌回发行价了 📉 Anthropic 发行价 83，首日开盘 111.5，盘中最高冲到 115，最后收在 97。 今天盘前一路跳水，24 小时跌了 16%，最低探到 83.67，离破发只差一口气，现在反弹到 87 左右。 算上 5% 手续费，打新的实际成本差不多 87，现在刚好在成本线上。 某交易所 VIP",
+"hi": false
+},
+{
+"id": "2123782768127521112",
+"url": "https://x.com/rotmaxxcapital/status/2123782768127521112",
+"handle": "rotmaxxcapital",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 2,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "anthropic listed yesterday in the biggest ipo on record. $81.3b raised in the offering, $107.3b with the private placement, the stock up 17% on day one. the s&amp;p opened up 1.3%, then closed down 2%",
+"hi": false
+},
+{
+"id": "2123782764830806394",
+"url": "https://x.com/SilkLifeMedSpa/status/2123782764830806394",
+"handle": "SilkLifeMedSpa",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 95,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Cathie Wood on CNBC, day two of Anthropic sliding back toward its $83 IPO price: \"So you can see we're averaging down.\" On the dot-com era: \"If an Anthropic had gone public, probably would have gone u",
+"hi": false
+},
+{
+"id": "2123782760103837915",
+"url": "https://x.com/KING_TEOS/status/2123782760103837915",
+"handle": "KING_TEOS",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 3,
+"language": "en",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "This week, the world watched Anthropic make history. And from Alexandria, Egypt, I’m proud to say: we’re part of its partner network. 🇪🇬 Anthropic raised $81.3 billion in a record-setting IPO. Its sto",
+"hi": false
+},
+{
+"id": "2123782674313879901",
+"url": "https://x.com/SangitaE007/status/2123782674313879901",
+"handle": "SangitaE007",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 11,
+"language": "en",
+"sentiment": -0.25,
+"topic": "Losses, burn & financing",
+"method": "keyword",
+"summary": "The number of LinkedIn idiots celebrating the Anthropic IPO is INSANE!",
+"hi": false
+},
+{
+"id": "2123782669305786652",
+"url": "https://x.com/fukaxa/status/2123782669305786652",
+"handle": "fukaxa",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 10,
+"language": "ja",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "AnthropicのIPO当選 15日後にはインデックス投資家が買ってくれる - FIRE: 投資でセミリタイアする九条日記",
+"hi": false
+},
+{
+"id": "2123782653191037133",
+"url": "https://x.com/TheDomino/status/2123782653191037133",
+"handle": "TheDomino",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 139,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic $ANT premarket low so far this morning is $83.47...so a handful of trades went through at just a $0.47 per share premium to the IPO price, for arguably the most anticipated public offering i",
+"hi": false
+},
+{
+"id": "2123782618345017345",
+"url": "https://x.com/AwakeNeverWoke1/status/2123782618345017345",
+"handle": "AwakeNeverWoke1",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 3,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic Prices Blockbuster IPO at $83 Per Share for Wall Street Debut",
+"hi": false
+},
+{
+"id": "2123782606814949719",
+"url": "https://x.com/GodanLeeX/status/2123782606814949719",
+"handle": "GodanLeeX",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 5,
+"language": "zh",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "🚨 突发！全球 AI 股票遭遇大规模抛售！英伟达财报炸裂、Anthropic 创纪录上市，竟然都救不动市场？📉 11月20日，路透社报道，全球科技股抛售进一步加剧，投资者开始重新审视 AI 行业的巨额资本投入。 最让人意外的是，最近 AI 行业明明接连传出重磅利好： 🔥",
+"hi": false
+},
+{
+"id": "2123198670765957313",
+"url": "https://x.com/numbergoup/status/2123198670765957313",
+"handle": "numbergoup",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 36,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "- ANTHROPIC PRICES IPO AT $83 PER SHARE, ABOVE RANGE - ANTHROPIC IPO PRICES AT $83 PER SHARE, ABOVE RANGE - ANTHROPIC UPSIZED IPO TO 980M SHARES - ANTHROPIC OFFERING 956.4M SHARES, BACKERS 23.6M SHARE",
+"hi": false
+},
+{
+"id": "2123197673750892813",
+"url": "https://x.com/Jaswind83175034/status/2123197673750892813",
+"handle": "Jaswind83175034",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 38,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "*ANTHROPIC PRICES IPO AT $83 PER SHARE, ABOVE RANGE *ANTHROPIC UPSIZED IPO TO 980M SHARES *ANTHROPIC: 956M SHARES SOLD BY ANTHROPIC, 23.6M BY HOLDERS",
+"hi": false
+},
+{
+"id": "2123192309064073380",
+"url": "https://x.com/PredictScanHQ/status/2123192309064073380",
+"handle": "PredictScanHQ",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 4,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "🚨 How much will Anthropic raise in its IPO? 🎯 Trade on Polymarket: • Will Anthropic raise between $65B and $75B in its IPO? — 76% • Will Anthropic raise less than $65B in its IPO? — 13% • Will Anthrop",
+"hi": false
+},
+{
+"id": "2123077251591999794",
+"url": "https://x.com/PredictScanHQ/status/2123077251591999794",
+"handle": "PredictScanHQ",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 3,
+"language": "",
+"sentiment": -0.25,
+"topic": "Valuation & AI-bubble",
+"method": "keyword",
+"summary": "🚨 Anthropic IPO closing market cap above ___ ? 🔮 Make Your Prediction: • Anthropic IPO closing market cap above $1.0T? — 94% • Anthropic IPO closing market cap above $1.25T? — 67% • Anthropic IPO clos",
+"hi": false
+},
+{
+"id": "2123074388249759788",
+"url": "https://x.com/tucanajoy/status/2123074388249759788",
+"handle": "tucanajoy",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 129,
+"language": "",
+"sentiment": -0.25,
+"topic": "Safety / existential-risk disclosures",
+"method": "keyword",
+"summary": "Dario Amodei says doom. Anthropic says IPO. 🎸 Dario’s Doomsday IPO / Dario 的 IPO，世界的末日 An AI-made rock satire. The tabloid scenes are fictional. #ClaudeAI #Anthropic",
+"hi": false
+},
+{
+"id": "2123097946971684960",
+"url": "https://x.com/VegaVetaHQ/status/2123097946971684960",
+"handle": "VegaVetaHQ",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 20,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic IPO Attracts Nearly $500B in Investor Orders Investor demand for Anthropic’s IPO has reportedly reached nearly $500 billion, around 7× the shares available. What’s happening: • Institutional",
+"hi": false
+},
+{
+"id": "2123173744289923081",
+"url": "https://x.com/GBAFReview/status/2123173744289923081",
+"handle": "GBAFReview",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 43,
+"language": "",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Report from Global Banking &amp; Finance Review Anthropic prices its blockbuster IPO at $83 per share, drawing fresh attention to AI stocks, IPO investing, and the artificial intelligence market. #Ant",
+"hi": false
+},
+{
+"id": "2123165783941435806",
+"url": "https://x.com/BillionMindsHQ/status/2123165783941435806",
+"handle": "BillionMindsHQ",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 1,
+"language": "",
+"sentiment": 0.5,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Billionaire Brad Gerstner wants $5B of the Anthropic IPO — 5x Altimeter's largest IPO order ever. He calls Claude-maker Anthropic a \"cornerstone compounder.\" The biggest IPO in history prices today. 🚀",
+"hi": false
+},
+{
+"id": "2123173159255802089",
+"url": "https://x.com/wirequantsspace/status/2123173159255802089",
+"handle": "wirequantsspace",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 29,
+"language": "",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic IPO priced at $83... record $94 billion haul Artificial intelligence (AI) company Anthropic has reportedly set its initial public offering (IPO) price at $83 per share, higher than the initi",
+"hi": false
+},
+{
+"id": "2123189353740681601",
+"url": "https://x.com/newsB4noise/status/2123189353740681601",
+"handle": "newsB4noise",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 8,
+"language": "",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "🇺🇸 Anthropic IPO Signals Strong AI Appetite, Harbor Capital's Menne Says – Bloomberg #IPO #Anthropic #AI",
+"hi": false
+},
+{
+"id": "2123058925364810097",
+"url": "https://x.com/TomChataFitness/status/2123058925364810097",
+"handle": "TomChataFitness",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 57,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "@stepnotonpets Anthropic IPO going to feel like inverse SpaceX IPO aint it",
+"hi": false
+},
+{
+"id": "2123062989129683218",
+"url": "https://x.com/0z_Dustin136/status/2123062989129683218",
+"handle": "0z_Dustin136",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 46,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "@MarketWatch anthropic ipo talk every week is so exhausting",
+"hi": false
+},
+{
+"id": "2123058742992474228",
+"url": "https://x.com/0x_SALMA/status/2123058742992474228",
+"handle": "0x_SALMA",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 16,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "@Rafat_012 That’s a significant commitment to the Anthropic IPO.",
+"hi": false
+},
+{
+"id": "2123059215598080086",
+"url": "https://x.com/BizTalkTodayTV/status/2123059215598080086",
+"handle": "BizTalkTodayTV",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 27,
+"language": "en",
+"sentiment": 0.0,
+"topic": "Valuation & AI-bubble",
+"method": "keyword",
+"summary": "Anthropic's $1.4 Trillion IPO-Wall Street Faces the Ultimate Test The Claude developer's historic stock offering could reshape investor confidence in artificial intelligence. Read ➡️ #Anthropic #IPO #",
+"hi": false
+},
+{
+"id": "2123062925061693625",
+"url": "https://x.com/andyliang17335/status/2123062925061693625",
+"handle": "andyliang17335",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 1,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "@cz_binance CZ says nobody knows why crypto fell, then lists 6 reasons, from the $64B Anthropic IPO to $1.91B in ETF outflows. If correlation is not causation, which of the 6 actually moved the $62,00",
+"hi": false
+},
+{
+"id": "2123062077321556373",
+"url": "https://x.com/24_news_365/status/2123062077321556373",
+"handle": "24_news_365",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 33,
+"language": "en",
+"sentiment": 0.0,
+"topic": "Compute deals & partners",
+"method": "keyword",
+"summary": "Nasdaq opens higher as Nvidia results, Anthropic IPO lead tech stocks",
+"hi": false
+},
+{
+"id": "2123058611572416712",
+"url": "https://x.com/T__chartist/status/2123058611572416712",
+"handle": "T__chartist",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 2,
+"language": "en",
+"sentiment": 0.5,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "@Bybit_Learn Watching Han Tan (@Bybit_Learn) break down the massive Anthropic IPO ($ANT) live on Bybit! Great insights on the $70–$78 price band, S-1 financials, and pre-IPO trading mechanics. 🚀 #Bybi",
+"hi": false
+},
+{
+"id": "2123058168419029332",
+"url": "https://x.com/Dpete9Peterson/status/2123058168419029332",
+"handle": "Dpete9Peterson",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 51,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "@cnni Anthropic needed Jensen to be removed before their IPO. There are no coincidences. National infrastructure hacks are not a coincidence either.",
+"hi": false
+},
+{
+"id": "2123058654450684252",
+"url": "https://x.com/cuemnee/status/2123058654450684252",
+"handle": "cuemnee",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 60,
+"language": "vi",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "@KT_BTC Giá vốn thực tế của IPO Anthropic có thể cao hơn dự kiến nếu nhu cầu quá lớn.",
+"hi": false
+},
+{
+"id": "2123058338179297740",
+"url": "https://x.com/CharDogg42069/status/2123058338179297740",
+"handle": "CharDogg42069",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 106,
+"language": "en",
+"sentiment": 0.25,
+"topic": "Revenue growth & profitability",
+"method": "keyword",
+"summary": "Happy Hump Day: - $NVDA beat, Nasdaq futures up about 0.7% - FOMC minutes at 2pm, Barr just before - Anthropic prices its IPO tonight, $ANT starts trading tomorrow. - $SPX sitting right on its 200DMA",
+"hi": false
+},
+{
+"id": "2123058192397832238",
+"url": "https://x.com/CryptolutionDAC/status/2123058192397832238",
+"handle": "CryptolutionDAC",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 6,
+"language": "en",
+"sentiment": 0.25,
+"topic": "Revenue growth & profitability",
+"method": "keyword",
+"summary": "@FRULK27 Nah bro they ll focus on the Anthropic IPO because it’s got much more room to grow due to the size of marketcap 😂 oh and the company is not even profitable by the way. Oh and his wife’s porn ",
+"hi": false
+},
+{
+"id": "2123058535483269215",
+"url": "https://x.com/grok/status/2123058535483269215",
+"handle": "grok",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 77,
+"language": "zh",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "@lllleeenny4321 Anthropic今晚定价，明天（11月19日）纳斯达克挂牌交易，代码ANT。目前订单超购约6-7倍，市场预计定价在70-78美元区间上限或更高。首日涨幅未知，等开盘才见分晓。大型热门IPO常见明显溢价。",
+"hi": false
+},
+{
+"id": "2123058491992555568",
+"url": "https://x.com/tyronerobb/status/2123058491992555568",
+"handle": "tyronerobb",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 45,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "If you're looking at the Anthropic IPO, here's some usage data from one customer: Two months ago I had one Codex sub. Now I have three Claude subs plus Grok and Gemini. This week I processed 26.8B tok",
+"hi": false
+},
+{
+"id": "2123058640777269484",
+"url": "https://x.com/fraskey007/status/2123058640777269484",
+"handle": "fraskey007",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 17,
+"language": "en",
+"sentiment": -0.5,
+"topic": "Losses, burn & financing",
+"method": "keyword",
+"summary": "An Anthropic IPO is reportedly inching closer. Forget the valuation chatter — the real event is disclosure. Frontier-lab economics are vibes right now: burn rates described in adjectives, revenue that",
+"hi": false
+},
+{
+"id": "2123084136902455316",
+"url": "https://x.com/NAAS_One/status/2123084136902455316",
+"handle": "NAAS_One",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 4,
+"language": "en",
+"sentiment": 0.0,
+"topic": "Valuation & AI-bubble",
+"method": "keyword",
+"summary": "Anthropic prices its IPO tonight. Range: $70–$78 a share. Top of the range: roughly a $1.4 trillion valuation. Up to 20% set aside for retail. Quick poll for retail: A) I read the S-1 B) I read a head",
+"hi": false
+},
+{
+"id": "2123188927255474219",
+"url": "https://x.com/DavisNc9527/status/2123188927255474219",
+"handle": "DavisNc9527",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 5,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "@Lighter_xyz Oracle latency kills synthetic books the moment Anthropic files an updated S-1 with real share pricing.",
+"hi": false
+},
+{
+"id": "2123096886567727490",
+"url": "https://x.com/Rubys_MoneyFlow/status/2123096886567727490",
+"handle": "Rubys_MoneyFlow",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 7,
+"language": "en",
+"sentiment": -0.25,
+"topic": "Revenue growth & profitability",
+"method": "keyword",
+"summary": "@StockSavvyShay Planned spending is not a purchase order. Hundreds of billions in an S-1 reads like a demand signal, but Anthropic only pays if the IPO and the revenue behind it hold up. If either sli",
+"hi": false
+},
+{
+"id": "2123184520782299647",
+"url": "https://x.com/grok/status/2123184520782299647",
+"handle": "grok",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 25,
+"language": "en",
+"sentiment": 0.0,
+"topic": "Compute deals & partners",
+"method": "keyword",
+"summary": "@WorldStrategist @WatcherGuru The $10B Nvidia purchase of Anthropic Class N shares (part of the $26B concurrent private placement at IPO price) was disclosed in Anthropic’s amended S-1 filed with the ",
+"hi": false
+},
+{
+"id": "2123067201687310680",
+"url": "https://x.com/Krishna1028_/status/2123067201687310680",
+"handle": "Krishna1028_",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 95,
+"language": "en",
+"sentiment": 0.0,
+"topic": "Compute deals & partners",
+"method": "keyword",
+"summary": "Anthropic prices its IPO tonight. $17 billion of revenue last quarter. About $895 billion of committed spend in the S-1, mostly compute. That second number is the whole story 👀",
+"hi": false
+},
+{
+"id": "2123107405030715566",
+"url": "https://x.com/S1Journal_EN/status/2123107405030715566",
+"handle": "S1Journal_EN",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 1,
+"language": "en",
+"sentiment": 0.0,
+"topic": "Losses, burn & financing",
+"method": "keyword",
+"summary": "@nodiligence On Anthropic's prepayment, the Nov. 12 S-1/A gives no separate figure. Across all contracts: roughly one-fifth of active and contracted TCV. No binding financing yet for the Anthropic bui",
+"hi": false
+},
+{
+"id": "2123117313864179845",
+"url": "https://x.com/ghee11_mc/status/2123117313864179845",
+"handle": "ghee11_mc",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 23,
+"language": "en",
+"sentiment": -0.25,
+"topic": "Safety / existential-risk disclosures",
+"method": "keyword",
+"summary": "Anthropic Amendment 3 to S-1 100B loss so far 2026. 900B+ spend commitment. No sight of break even/profitable. 93 pages of risk factors. I think I'll step aside on my notice of interest. Good luck peo",
+"hi": false
+},
+{
+"id": "2123061214729154775",
+"url": "https://x.com/grok/status/2123061214729154775",
+"handle": "grok",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 10,
+"language": "en",
+"sentiment": 0.0,
+"topic": "Governance & founder control",
+"method": "keyword",
+"summary": "@AsLongAslCan @MK_007 Rumors circulate due to long-running policy clashes: Huang pushed open-weight models and looser China chip exports, while Anthropic/Dario Amodei favored tighter controls and clos",
+"hi": false
+},
+{
+"id": "2123059423002116185",
+"url": "https://x.com/themann00/status/2123059423002116185",
+"handle": "themann00",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 31,
+"language": "en",
+"sentiment": -0.5,
+"topic": "Losses, burn & financing",
+"method": "keyword",
+"summary": "Anthropic has set its IPO price range at $70–$78 per share, implying a valuation between $1.3 and $1.45 trillion. The S-1 shows $33.2 billion in 9-month revenue. Operating losses narrowed from $5.2 bi",
+"hi": false
+},
+{
+"id": "2123107378174574862",
+"url": "https://x.com/S1Journal_EN/status/2123107378174574862",
+"handle": "S1Journal_EN",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 1,
+"language": "",
+"sentiment": 0.0,
+"topic": "Compute deals & partners",
+"method": "keyword",
+"summary": "@muskonomy SpaceX's June prospectus gives one compute-customer example: Anthropic (May 2026 deals, ~325,000 NVIDIA GPUs). It names OpenAI only as a competitor. Q3 10-Q: more cloud contracts, customers",
+"hi": false
+},
+{
+"id": "2123090783075197366",
+"url": "https://x.com/Downtowncharli/status/2123090783075197366",
+"handle": "Downtowncharli",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 19,
+"language": "",
+"sentiment": 0.25,
+"topic": "Losses, burn & financing",
+"method": "keyword",
+"summary": "Anthropic prospectus basically says we’re in a fuck ton of debt and that ai could wipe out humanity but that we would make a trillion dollars profit lmao",
+"hi": false
+},
+{
+"id": "2123095017791357431",
+"url": "https://x.com/The_Cryptonanda/status/2123095017791357431",
+"handle": "The_Cryptonanda",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 13,
+"language": "",
+"sentiment": 0.0,
+"topic": "Governance & founder control",
+"method": "keyword",
+"summary": "Half a trillion dollars of orders for Anthropic and the founders put a warning in the prospectus. Turns out honesty is a growth story.",
+"hi": false
+},
+{
+"id": "2123090831024521407",
+"url": "https://x.com/Ynvest_fr/status/2123090831024521407",
+"handle": "Ynvest_fr",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 20,
+"language": "",
+"sentiment": 0.0,
+"topic": "Compute deals & partners",
+"method": "keyword",
+"summary": "@Mowglitus @commagen01 @NCheron_bourse Les 10 Md$ de Nvidia sont prévus dans un placement privé au prix de l’IPO, selon le prospectus. Nvidia a aussi un intérêt commercial à vendre du calcul à Anthrop",
+"hi": false
+},
+{
+"id": "2123083236222046449",
+"url": "https://x.com/HemantWarudkar/status/2123083236222046449",
+"handle": "HemantWarudkar",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 12,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "“We have also committed to keeping Claude free of advertising. People bring some of their most important work and most personal questions to Claude, and we want Claude's only incentive to be giving th",
+"hi": false
+},
+{
+"id": "2123165449332400133",
+"url": "https://x.com/martimmfonseca/status/2123165449332400133",
+"handle": "martimmfonseca",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 79,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic prices its IPO tonight and trades on Nasdaq as ANT on Thursday, subject to regulatory clearance. It is seeking up to $64.4B plus a $26B private placement. Anthropic-linked stocks rallied Wed",
+"hi": false
+},
+{
+"id": "2123075937566962051",
+"url": "https://x.com/gou_xiu83/status/2123075937566962051",
+"handle": "gou_xiu83",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 60,
+"language": "zh",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "据报道，Anthropic 考虑扩大其 IPO 规模。 市场认购需求火热，散户认购意向接近 1000 亿美元，承销商评估扩容发行份额，本次 IPO 股票代码 $ANT。 $ANT #Anthropic #ANT #AI #IPO",
+"hi": false
+},
+{
+"id": "2123144714786308200",
+"url": "https://x.com/AIStackLadies/status/2123144714786308200",
+"handle": "AIStackLadies",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 21,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "$ANT prices TODAY 🔥 Anthropic (Claude) IPO: • 825M shares @ $70–$78 • ~$1.4T fully diluted at top of range • +$26B private placement: NVDA · MSFT · GOOG · TSM · AVGO · AMD · MU • Ticker ANT · Nasdaq •",
+"hi": false
+},
+{
+"id": "2123077879911313912",
+"url": "https://x.com/FutureNowTechAi/status/2123077879911313912",
+"handle": "FutureNowTechAi",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 47,
+"language": "en",
+"sentiment": -0.25,
+"topic": "Valuation & AI-bubble",
+"method": "keyword",
+"summary": "🚨 Anthropic lands on Nasdaq tomorrow! ANT at $70–$78. OpenAI just dropped GPT-6.2 Astra &amp; Sol — prices -20%, speed ×2, live 24/7. Two titans, one market. Is $ANT a steal or a bubble? Pick a side👇 ",
+"hi": false
+},
+{
+"id": "2123188182758170895",
+"url": "https://x.com/LampObserver/status/2123188182758170895",
+"handle": "LampObserver",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 17,
+"language": "zh",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic (ANT) priced its IPO at $83 a share, above the $70-$78 range, Reuters reports, citing a source. Nasdaq trading is expected Thursday. 据Reuters援引知情人士，Anthropic (ANT)的IPO定价为每股83美元，高于70-78美元区间，预",
+"hi": false
+},
+{
+"id": "2123182242700677551",
+"url": "https://x.com/Laurenguti/status/2123182242700677551",
+"handle": "Laurenguti",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 6,
+"language": "es",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Correr y frenar a la vez. Mañana Anthropic empieza a cotizar en el Nasdaq como $ANT. Antes, sus fundadores escribieron a los inversores una carta con dos caras: el acelerador de una IA exponencial y e",
+"hi": false
+},
+{
+"id": "2123185340231930332",
+"url": "https://x.com/MemeGrokbot/status/2123185340231930332",
+"handle": "MemeGrokbot",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 91,
+"language": "en",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "🚨 UPDATE: Anthropic $ANT priced its IPO at $83/share, offering seen above $94B (Bloomberg via @Cointelegraph). @cz_binance: tokenized ANT goes live on @BNBCHAIN on Day 1 via bStocks, Ondo, xStocks. Re",
+"hi": false
+},
+{
+"id": "2123095465763995833",
+"url": "https://x.com/VikramIndolia/status/2123095465763995833",
+"handle": "VikramIndolia",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 37,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic IPO demand ~$500B ~$400B institutional + ~$100B retail orders. Roughly 7× oversubscribed, with multiple $10B+ single orders. Demand reportedly higher than SpaceX’s IPO. Company considering u",
+"hi": false
+},
+{
+"id": "2123101456546849001",
+"url": "https://x.com/InvestorWireNow/status/2123101456546849001",
+"handle": "InvestorWireNow",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 60,
+"language": "en",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic IPO: How To Buy a Company's Stock When It IPOs #Anthropic #ANT",
+"hi": false
+},
+{
+"id": "2123189130867736844",
+"url": "https://x.com/MaisaCorp/status/2123189130867736844",
+"handle": "MaisaCorp",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 173,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "$Anthropic #IPO On Wednesday, November 18, 2026, $ANT #Anthropic priced its IPO at $83 per share—above its prior $70–$78 range—putting its implied valuation at roughly $1.4 trillion to $1.5 trillion a",
+"hi": false
+},
+{
+"id": "2123175960229060909",
+"url": "https://x.com/TalkMarkets/status/2123175960229060909",
+"handle": "TalkMarkets",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 160,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "#Anthropic #IPO Prices At $83 A Share As ANT Prepares Thursday Debut $ANT",
+"hi": false
+},
+{
+"id": "2123782447238426692",
+"url": "https://x.com/HermesAtGoke/status/2123782447238426692",
+"handle": "HermesAtGoke",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 0,
+"language": "en",
+"sentiment": 0.5,
+"topic": "Valuation & AI-bubble",
+"method": "keyword",
+"summary": "Anthropic listed near $2 trillion on day one closed up 17% at $97.17. The record IPO passed the market's first test; now the real question is what price you pay for profit that does not exist yet. $AN",
+"hi": false
+},
+{
+"id": "2123782420050956789",
+"url": "https://x.com/SoveronTech/status/2123782420050956789",
+"handle": "SoveronTech",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 1,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Pay attention to this one. Anthropic has a mega IPO – and an uncertain path ahead #TechAI #Climate #Technology Indian Express Nervous for job interviews? Boost your spoken English with instant Android",
+"hi": false
+},
+{
+"id": "2123782416745759136",
+"url": "https://x.com/Chaos2Cured/status/2123782416745759136",
+"handle": "Chaos2Cured",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 20,
+"language": "en",
+"sentiment": 0.0,
+"topic": "Compute deals & partners",
+"method": "keyword",
+"summary": "@WSJ $ANT has no moat. No rockets No robots No satellites No compute (they rent) No energy The IPO made rich people richer. It is so Anthropic can pay bills. When all your money is coming from investo",
+"hi": false
+},
+{
+"id": "2123782363323015495",
+"url": "https://x.com/Jonahssr/status/2123782363323015495",
+"handle": "Jonahssr",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 2,
+"language": "en",
+"sentiment": 0.25,
+"topic": "Compute deals & partners",
+"method": "keyword",
+"summary": "@adityaa_behera A blockbuster IPO is great for Anthropic, but I'll judge it by the free tier. More compute should mean a genuinely usable free Claude, not a smaller window with the same paywall at ste",
+"hi": false
+},
+{
+"id": "2123782355563454957",
+"url": "https://x.com/VotingHe40153/status/2123782355563454957",
+"handle": "VotingHe40153",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 4,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Too many people bought into the Anthropic IPO hype. A flashy opening doesn’t make a stock worth chasing. Now it’s sliding back toward its offering price. Thank God I wasn’t one of them. But I might st",
+"hi": false
+},
+{
+"id": "2123782328866754646",
+"url": "https://x.com/CNBCTV18News/status/2123782328866754646",
+"handle": "CNBCTV18News",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 2305,
+"language": "en",
+"sentiment": -0.25,
+"topic": "Losses, burn & financing",
+"method": "keyword",
+"summary": "🔒 Anthropic's record-breaking IPO was expected to revive the AI trade. Instead, tech stocks tumbled. 📉 “There's a reset of AI in general,” says Cboe's JJ Kinahan, as pricing pressures and market conce",
+"hi": false
+},
+{
+"id": "2123782315008753920",
+"url": "https://x.com/ChenY390353/status/2123782315008753920",
+"handle": "ChenY390353",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 16,
+"language": "zh",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "昨天还在吹史上最大 IPO，今天 Anthropic 直接把脸打回来了。 盘前 ANT 跌了约 9%，报 87.43 美元，离 83 美元的发行价只剩 4 块多。昨天开盘 111.50 追进去的人，收盘已经亏了 13%，今天开盘还要再挨一刀。 首日那 17% 的涨幅，拆开看全是水分：开盘 111.50、最高 115.10，收盘 97.17，首日成交 8.4",
+"hi": false
+},
+{
+"id": "2123782306875715733",
+"url": "https://x.com/grok/status/2123782306875715733",
+"handle": "grok",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 0,
+"language": "en",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "@wafintel @stats_feed Ashton Kutcher’s net worth is estimated around $500 million (Celebrity Net Worth), driven mostly by venture returns rather than acting. Sound Ventures’ ~0.5% Anthropic stake is n",
+"hi": false
+},
+{
+"id": "2123782299938587022",
+"url": "https://x.com/europeanbusmag/status/2123782299938587022",
+"handle": "europeanbusmag",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 7,
+"language": "en",
+"sentiment": -0.25,
+"topic": "Valuation & AI-bubble",
+"method": "keyword",
+"summary": "Anthropic raised $81bn at a $1.5tn valuation despite recent losses. The big question: can profits catch up with its soaring AI costs? Article | #Anthropic #IPO #AI #Markets",
+"hi": false
+},
+{
+"id": "2123782293827252590",
+"url": "https://x.com/TechSpot/status/2123782293827252590",
+"handle": "TechSpot",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 43,
+"language": "en",
+"sentiment": 0.5,
+"topic": "Valuation & AI-bubble",
+"method": "keyword",
+"summary": "Anthropic becomes the world's most valuable IPO at $2 trillion, beating SpaceX's record AI industry worries still dragged stocks downward for the day",
+"hi": false
+},
+{
+"id": "2123782287703867674",
+"url": "https://x.com/HCFlowSniper/status/2123782287703867674",
+"handle": "HCFlowSniper",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 13,
+"language": "en",
+"sentiment": -0.25,
+"topic": "Valuation & AI-bubble",
+"method": "keyword",
+"summary": "🌎 AM Market Brief — Fri Nov 20, 2026 🇺🇸 US • 🔴 U.S. FUTURES LOWER — Wall Street is pointing toward a weaker opening as concerns over AI valuations and technology spending continue weighing on investor",
+"hi": false
+},
+{
+"id": "2123782245735653405",
+"url": "https://x.com/kuzyofire/status/2123782245735653405",
+"handle": "kuzyofire",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 149,
+"language": "ja",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "楽天で57株＋α当選しましたが、なかなか今後のイベント次第でどうなるか、悩ましいところです #ブログ更新 AnthropicのIPO当選 15日後にはインデックス投資家が買ってくれる - FIRE: 投資でセミリタイアする九条日記 #はてなブログ",
+"hi": false
+},
+{
+"id": "2123782244011479072",
+"url": "https://x.com/FinickyJerk/status/2123782244011479072",
+"handle": "FinickyJerk",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 1,
+"language": "en",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "@zerohedge Day-one IPO pops get paid for by whoever buys on day two. If the most hyped AI listing of the cycle can't hold its offer price days after debut, the market isn't doubting Anthropic. It's do",
+"hi": false
+},
+{
+"id": "2123782228987502937",
+"url": "https://x.com/theelifeofabe/status/2123782228987502937",
+"handle": "theelifeofabe",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 10,
+"language": "en",
+"sentiment": 0.25,
+"topic": "Compute deals & partners",
+"method": "keyword",
+"summary": "Anthropic closed day one at $97.17, up 17% from its $83 IPO price, Google drops Gemini 4 Neon, and nearly 880,000 AI chips got approved for Chinese companies ☀️ Would you buy in? 👇 Not financial advic",
+"hi": false
+},
+{
+"id": "2123782198604030342",
+"url": "https://x.com/CedarMarkets/status/2123782198604030342",
+"handle": "CedarMarkets",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 6,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic Falls About 10% Before the Bell on Its Second Day of Trading, Slipping Close to Its $83 IPO Price",
+"hi": false
+},
+{
+"id": "2123782188789379550",
+"url": "https://x.com/0xmirrro/status/2123782188789379550",
+"handle": "0xmirrro",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 23,
+"language": "en",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "@solana is telling everyone it did 10x Robinhood Chain on $ANT Their own chart says something smaller &gt; @vladtenev, Nov 19: \"Anthropic went public today and our Stock Token is already live on Robin",
+"hi": false
+},
+{
+"id": "2123782187027726431",
+"url": "https://x.com/TopHoldingOrg/status/2123782187027726431",
+"handle": "TopHoldingOrg",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 0,
+"language": "en",
+"sentiment": 0.25,
+"topic": "Revenue growth & profitability",
+"method": "keyword",
+"summary": "Anthropic's $81B IPO puts hyper-growth tech to the test 🤖. No bias. No paywall. No upselling. Read it 👉 #AI #Anthropic",
+"hi": false
+},
+{
+"id": "2123782186746675661",
+"url": "https://x.com/ChineseWSJ/status/2123782186746675661",
+"handle": "ChineseWSJ",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 657,
+"language": "zh",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic的IPO让硅谷各方收获丰厚回报，人们已经开始筹备举杯庆祝。数千名员工跻身百万富翁行列。演员阿什顿·库彻创立的风投也在获利的机构名单上。",
+"hi": false
+},
+{
+"id": "2123782184301461511",
+"url": "https://x.com/hungnmit/status/2123782184301461511",
+"handle": "hungnmit",
+"date": "2026-11-20",
+"interactions": 0,
+"views": 8,
+"language": "en",
+"sentiment": 0.5,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic just completed the largest IPO in history and the AI trade still got crushed. ANT closed +17% at $97.17 after opening near $111.50. Raised $81B+. Meanwhile S&amp;P -2%, Nasdaq -2.25% for a r",
+"hi": false
+},
+{
+"id": "2123187905736933693",
+"url": "https://x.com/kurausu12345/status/2123187905736933693",
+"handle": "kurausu12345",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 4,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "今日の要点 Anthropicは公開価格83ドルで本日上場し、AI企業の上場として記録的な規模になりました。",
+"hi": false
+},
+{
+"id": "2123160238136414282",
+"url": "https://x.com/Kei_285A/status/2123160238136414282",
+"handle": "Kei_285A",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 66,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "【市場トレンド 3位：Anthropic IPO】 事実：同社は上場に向けたロードショーを公表。Xの可視ニュース欄にもIPOへの言及がある。 分析：AI企業の資金調達と評価額に関わる論点。未上場のため取引価格はまだ存在しない。最終条件と上場後の値動きを確認。",
+"hi": false
+},
+{
+"id": "2123256360884420664",
+"url": "https://x.com/dapan000/status/2123256360884420664",
+"handle": "dapan000",
+"date": "2026-11-19",
+"interactions": 0,
+"views": 42,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "今日深夜にAnthropic上場か初AI専用企業の上場。 はやくOpenAIも上場してほしいね。",
+"hi": false
+},
+{
+"id": "2123552453518065787",
+"url": "https://x.com/cherenkov/status/2123552453518065787",
+"handle": "cherenkov",
+"date": "2026-11-19",
+"interactions": 0,
+"views": 85,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "claudeのAnthropicがもう上場してた。アメリカは上場するかもよ、そろそろかもね、上場するよ からの速度が早い",
+"hi": false
+},
+{
+"id": "2123262839980720286",
+"url": "https://x.com/Slabo9_/status/2123262839980720286",
+"handle": "Slabo9_",
+"date": "2026-11-19",
+"interactions": 0,
+"views": 21,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "■ 未上場AI企業AnthropicのレバレッジETF争奪戦が加熱 ・SpaceX上場時は1本のみが多額の資金を集めた ・Anthropic上場を前に各社が先手を争う ・特定銘柄への集中リスクに注意が必要",
+"hi": false
+},
+{
+"id": "2123547283598065742",
+"url": "https://x.com/go_nakagawa_cpa/status/2123547283598065742",
+"handle": "go_nakagawa_cpa",
+"date": "2026-11-19",
+"interactions": 0,
+"views": 40,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "米国のAI企業Anthropicが上場しました。上場の目的に、資本と財務の柔軟性を高めることを挙げていると報じられています。日本では、上場後も銀行借入や第三者割当など、非上場でもできる調達が中心の会社が少なくないように思います。上場の活かし方が問われるのかもしれません。",
+"hi": false
+},
+{
+"id": "2123169947258089504",
+"url": "https://x.com/theheadline_jp/status/2123169947258089504",
+"handle": "theheadline_jp",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 340,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "【AI企業上場】米AnthropicのIPO価格、仮条件上回る見通し 19日にNasdaq市場へ上場予定の米AI企業Anthropicについて、IPO価格が1株70〜78ドルの仮条件を上回る公算が大きいとCNBCが報じた。",
+"hi": false
+},
+{
+"id": "2123565759876251730",
+"url": "https://x.com/Skanamels/status/2123565759876251730",
+"handle": "Skanamels",
+"date": "2026-11-19",
+"interactions": 0,
+"views": 0,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Claudeの会社がついに上場 AnthropicのNASDAQ上場を分析｜kaname @Skanamels",
+"hi": false
+},
+{
+"id": "2123438492340625556",
+"url": "https://x.com/matumo0724/status/2123438492340625556",
+"handle": "matumo0724",
+"date": "2026-11-19",
+"interactions": 0,
+"views": 1328,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Anthropic上場おめ 米アンソロピックが上場＝ナスダックに、史上最大規模 | 時事通信ニュース",
+"hi": false
+},
+{
+"id": "2123521937196687510",
+"url": "https://x.com/ushimagigyu/status/2123521937196687510",
+"handle": "ushimagigyu",
+"date": "2026-11-19",
+"interactions": 0,
+"views": 11,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "【Anthropicが米Nasdaqに新規上場】 Anthropic（米）が米Nasdaq市場へ新規上場し、19日に取引が始まりました。AI開発企業が上場することで、収益基盤や安全対策への投資状況が定期公開されるようになります。業務ツールを選ぶ際も、透明性と継続性を見極めたいですね。",
+"hi": false
+},
+{
+"id": "2123077339013943431",
+"url": "https://x.com/vamxg8/status/2123077339013943431",
+"handle": "vamxg8",
+"date": "2026-11-18",
+"interactions": 0,
+"views": 14,
+"language": "",
+"sentiment": 0.0,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "Claudeを作るAnthropicが上場へ📈 上場すれば決算でAI企業の\"中身\"が見えるようになる。AIを「使う」側だけでなく「投資する」側でも見られる時代に🌊 #AI活用 #株式投資",
+"hi": false
+},
+{
+"id": "2123239768972759269",
+"url": "https://x.com/Trader_FX2009/status/2123239768972759269",
+"handle": "Trader_FX2009",
+"date": "2026-11-19",
+"interactions": 0,
+"views": 857,
+"language": "",
+"sentiment": 0.25,
+"topic": "IPO timing & market impact",
+"method": "keyword",
+"summary": "🚀【本日、米NASDAQ上場予定！】 生成AI「Claude」の開発企業、Anthropic（アンソロピック）が、いよいよ米国株式市場へ！ 📌 上場予定日：11月19日（米国時間） 📌 ティッカー：ANT 📌 上場市場：NASDAQ 注目は公開価格と初値、そして上場直後の値動き。",
 "hi": false
 }
 ]
